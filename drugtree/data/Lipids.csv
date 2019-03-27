@@ -1,0 +1,396 @@
+id,value
+Lipids,D10
+Lipids.Ceroid,D10.150
+Lipids.Fats,D10.212
+Lipids.Fats.Dietary Fats,D10.212.302
+Lipids.Fats.Dietary Fats.Butter,D10.212.302.199
+Lipids.Fats.Dietary Fats.Butter.Ghee,D10.212.302.199.500
+"Lipids.Fats.Dietary Fats.Cholesterol, Dietary",D10.212.302.347
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated",D10.212.302.380
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Cod Liver Oil",D10.212.302.380.360
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Corn Oil",D10.212.302.380.370
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Cottonseed Oil",D10.212.302.380.380
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Fatty Acids, Omega-3",D10.212.302.380.410
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Fatty Acids, Omega-3.alpha-Linolenic Acid",D10.212.302.380.410.100
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Fatty Acids, Omega-3.Docosahexaenoic Acids",D10.212.302.380.410.210
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Fatty Acids, Omega-3.Eicosapentaenoic Acid",D10.212.302.380.410.385
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Olive Oil",D10.212.302.380.580
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Safflower Oil",D10.212.302.380.750
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Sesame Oil",D10.212.302.380.775
+"Lipids.Fats.Dietary Fats.Dietary Fats, Unsaturated.Soybean Oil",D10.212.302.380.800
+Lipids.Fats.Dietary Fats.Margarine,D10.212.302.651
+"Lipids.Fats.Fats, Unsaturated",D10.212.507
+"Lipids.Fats.Fats, Unsaturated.Castor Oil",D10.212.507.300
+"Lipids.Fats.Fats, Unsaturated.Castor Oil.Ricinoleic Acids",D10.212.507.300.500
+"Lipids.Fats.Fats, Unsaturated.Cod Liver Oil",D10.212.507.325
+"Lipids.Fats.Fats, Unsaturated.Corn Oil",D10.212.507.340
+"Lipids.Fats.Fats, Unsaturated.Cottonseed Oil",D10.212.507.350
+"Lipids.Fats.Fats, Unsaturated.Croton Oil",D10.212.507.375
+"Lipids.Fats.Fats, Unsaturated.Linseed Oil",D10.212.507.550
+"Lipids.Fats.Fats, Unsaturated.Olive Oil",D10.212.507.650
+"Lipids.Fats.Fats, Unsaturated.Safflower Oil",D10.212.507.750
+"Lipids.Fats.Fats, Unsaturated.Sesame Oil",D10.212.507.775
+"Lipids.Fats.Fats, Unsaturated.Soybean Oil",D10.212.507.800
+"Lipids.Fats.Fats, Unsaturated.Triolein",D10.212.507.850
+Lipids.Fatty Acids,D10.251
+Lipids.Fatty Acids.Caprylates,D10.251.122
+Lipids.Fatty Acids.Decanoic Acids,D10.251.175
+Lipids.Fatty Acids.Decanoic Acids.Decanoates,D10.251.175.200
+Lipids.Fatty Acids.Eicosanoic Acids,D10.251.220
+Lipids.Fatty Acids.Endocannabinoids,D10.251.265
+"Lipids.Fatty Acids.Fatty Acids, Nonesterified",D10.251.310
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated",D10.251.355
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids",D10.251.355.255
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids",D10.251.355.255.100
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Arachidonic Acid",D10.251.355.255.100.100
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Hydroxyeicosatetraenoic Acids",D10.251.355.255.100.300
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Hydroxyeicosatetraenoic Acids.12-Hydroxy-5,8,10,14-eicosatetraenoic Acid",D10.251.355.255.100.300.425
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Isoprostanes",D10.251.355.255.100.375
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Isoprostanes.F2-Isoprostanes",D10.251.355.255.100.375.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Isoprostanes.Neuroprostanes",D10.251.355.255.100.375.750
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Leukotrienes",D10.251.355.255.100.450
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Leukotrienes.Leukotriene A4",D10.251.355.255.100.450.405
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Leukotrienes.Leukotriene B4",D10.251.355.255.100.450.411
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Leukotrienes.SRS-A",D10.251.355.255.100.450.855
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Leukotrienes.SRS-A.Leukotriene C4",D10.251.355.255.100.450.855.455
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Leukotrienes.SRS-A.Leukotriene D4",D10.251.355.255.100.450.855.461
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Leukotrienes.SRS-A.Leukotriene E4",D10.251.355.255.100.450.855.470
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Thromboxanes",D10.251.355.255.100.825
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Thromboxanes.Thromboxane A2",D10.251.355.255.100.825.800
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Arachidonic Acids.Thromboxanes.Thromboxane B2",D10.251.355.255.100.825.810
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Eicosapentaenoic Acid",D10.251.355.255.200
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.5,8,11,14-Eicosatetraynoic Acid",D10.251.355.255.205
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.8,11,14-Eicosatrienoic Acid",D10.251.355.255.207
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Lipoxins",D10.251.355.255.375
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins",D10.251.355.255.550
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides",D10.251.355.255.550.025
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides.Prostaglandins G",D10.251.355.255.550.025.600
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides.Prostaglandins H",D10.251.355.255.550.025.650
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides.Prostaglandins H.Prostaglandin H2",D10.251.355.255.550.025.650.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides.Prostaglandins H.Prostaglandin H2.15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid",D10.251.355.255.550.025.650.500.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins A",D10.251.355.255.550.100
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins B",D10.251.355.255.550.150
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins D",D10.251.355.255.550.200
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins D.Prostaglandin D2",D10.251.355.255.550.200.200
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins E",D10.251.355.255.550.250
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins E.Alprostadil",D10.251.355.255.550.250.100
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins E.Dinoprostone",D10.251.355.255.550.250.200
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins F",D10.251.355.255.550.400
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins F.Dinoprost",D10.251.355.255.550.400.200
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins F.6-Ketoprostaglandin F1 alpha",D10.251.355.255.550.400.350
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins I",D10.251.355.255.550.550
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins I.Epoprostenol",D10.251.355.255.550.550.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic",D10.251.355.255.550.775
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Iloprost",D10.251.355.255.550.775.125
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandin Endoperoxides, Synthetic",D10.251.355.255.550.775.250
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins A, Synthetic",D10.251.355.255.550.775.350
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic",D10.251.355.255.550.775.450
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Arbaprostil",D10.251.355.255.550.775.450.050
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.16,16-Dimethylprostaglandin E2",D10.251.355.255.550.775.450.300
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Enprostil",D10.251.355.255.550.775.450.350
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Misoprostol",D10.251.355.255.550.775.450.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Rioprostil",D10.251.355.255.550.775.450.750
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic",D10.251.355.255.550.775.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Carboprost",D10.251.355.255.550.775.500.150
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol",D10.251.355.255.550.775.500.175
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol.Bimatoprost",D10.251.355.255.550.775.500.175.250
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol.Travoprost",D10.251.355.255.550.775.500.175.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential",D10.251.355.310
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids",D10.251.355.310.166
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Arachidonic Acid",D10.251.355.310.166.100
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Hydroxyeicosatetraenoic Acids",D10.251.355.310.166.550
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Hydroxyeicosatetraenoic Acids.12-Hydroxy-5,8,10,14-eicosatetraenoic Acid",D10.251.355.310.166.550.425
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Isoprostanes",D10.251.355.310.166.775
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Isoprostanes.F2-Isoprostanes",D10.251.355.310.166.775.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Isoprostanes.Neuroprostanes",D10.251.355.310.166.775.750
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Leukotrienes",D10.251.355.310.166.887
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Leukotrienes.Leukotriene A4",D10.251.355.310.166.887.405
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Leukotrienes.Leukotriene B4",D10.251.355.310.166.887.411
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Leukotrienes.SRS-A",D10.251.355.310.166.887.855
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Leukotrienes.SRS-A.Leukotriene C4",D10.251.355.310.166.887.855.455
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Leukotrienes.SRS-A.Leukotriene D4",D10.251.355.310.166.887.855.461
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Leukotrienes.SRS-A.Leukotriene E4",D10.251.355.310.166.887.855.470
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Thromboxanes",D10.251.355.310.166.971
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Thromboxanes.Thromboxane A2",D10.251.355.310.166.971.800
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Arachidonic Acids.Thromboxanes.Thromboxane B2",D10.251.355.310.166.971.810
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Linoleic Acids",D10.251.355.310.515
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Linoleic Acids.Linoleic Acid",D10.251.355.310.515.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Linolenic Acids",D10.251.355.310.640
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Linolenic Acids.alpha-Linolenic Acid",D10.251.355.310.640.400
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Essential.Linolenic Acids.gamma-Linolenic Acid",D10.251.355.310.640.425
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated",D10.251.355.325
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Alprostadil",D10.251.355.325.050
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Alprostadil.Lubiprostone",D10.251.355.325.050.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Capsaicin",D10.251.355.325.190
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Cilastatin",D10.251.355.325.200
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Erucic Acids",D10.251.355.325.300
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.6-Ketoprostaglandin F1 alpha",D10.251.355.325.450
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Oleic Acids",D10.251.355.325.600
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Oleic Acids.Oleic Acid",D10.251.355.325.600.525
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Oleic Acids.Ricinoleic Acids",D10.251.355.325.600.780
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Monounsaturated.Undecylenic Acids",D10.251.355.325.919
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-3",D10.251.355.337
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-3.alpha-Linolenic Acid",D10.251.355.337.100
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-3.Docosahexaenoic Acids",D10.251.355.337.250
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-3.Docosahexaenoic Acids.Neuroprostanes",D10.251.355.337.250.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-3.Eicosapentaenoic Acid",D10.251.355.337.290
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-6",D10.251.355.343
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-6.gamma-Linolenic Acid",D10.251.355.343.249
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-6.Linoleic Acids",D10.251.355.343.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-6.Linoleic Acids.Linoleic Acid",D10.251.355.343.500.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Fatty Acids, Omega-6.Linoleic Acids.Linoleic Acids, Conjugated",D10.251.355.343.500.750
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Gefarnate",D10.251.355.350
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Ionomycin",D10.251.355.391
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Isoprostanes",D10.251.355.411
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Isoprostanes.F2-Isoprostanes",D10.251.355.411.500
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Isoprostanes.Neuroprostanes",D10.251.355.411.750
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Oxylipins",D10.251.355.645
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Sorbic Acid",D10.251.355.840
+"Lipids.Fatty Acids.Fatty Acids, Unsaturated.Trans Fatty Acids",D10.251.355.920
+"Lipids.Fatty Acids.Fatty Acids, Volatile",D10.251.400
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Acetates",D10.251.400.045
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Acetates.Acetic Acid",D10.251.400.045.500
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Butyrates",D10.251.400.143
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Butyrates.Butyric Acid",D10.251.400.143.500
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Butyrates.Crotonates",D10.251.400.143.687
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Butyrates.Hydroxybutyrates",D10.251.400.143.781
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Butyrates.Hydroxybutyrates.3-Hydroxybutyric Acid",D10.251.400.143.781.500
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Butyrates.Isobutyrates",D10.251.400.143.875
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Caproates",D10.251.400.326
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Propionates",D10.251.400.706
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Valerates",D10.251.400.895
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Valerates.Pentanoic Acids",D10.251.400.895.593
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Valerates.Pentanoic Acids.Gemfibrozil",D10.251.400.895.593.350
+"Lipids.Fatty Acids.Fatty Acids, Volatile.Valerates.Pentanoic Acids.Valproic Acid",D10.251.400.895.593.900
+Lipids.Fatty Acids.Heptanoic Acids,D10.251.450
+Lipids.Fatty Acids.Heptanoic Acids.Atorvastatin Calcium,D10.251.450.200
+Lipids.Fatty Acids.Heptanoic Acids.Heptanoates,D10.251.450.400
+Lipids.Fatty Acids.Lauric Acids,D10.251.500
+Lipids.Fatty Acids.Lauric Acids.Laurates,D10.251.500.410
+Lipids.Fatty Acids.Mupirocin,D10.251.536
+Lipids.Fatty Acids.Mycolic Acids,D10.251.572
+Lipids.Fatty Acids.Mycophenolic Acid,D10.251.618
+Lipids.Fatty Acids.Myristic Acids,D10.251.640
+Lipids.Fatty Acids.Myristic Acids.Myristates,D10.251.640.610
+Lipids.Fatty Acids.Myristic Acids.Myristic Acid,D10.251.640.630
+Lipids.Fatty Acids.Palmitic Acids,D10.251.694
+Lipids.Fatty Acids.Palmitic Acids.Palmitates,D10.251.694.600
+Lipids.Fatty Acids.Palmitic Acids.Palmitates.Palmitoyl Coenzyme A,D10.251.694.600.500
+Lipids.Fatty Acids.Palmitic Acids.Palmitic Acid,D10.251.694.750
+Lipids.Fatty Acids.Prostanoic Acids,D10.251.740
+Lipids.Fatty Acids.Sodium Morrhuate,D10.251.860
+Lipids.Fatty Acids.Stearic Acids,D10.251.882
+Lipids.Fatty Acids.Stearic Acids.Stearates,D10.251.882.800
+Lipids.Fatty Acids.Thioctic Acid,D10.251.941
+Lipids.Fatty Alcohols,D10.289
+Lipids.Fatty Alcohols.Acetogenins,D10.289.054
+Lipids.Fatty Alcohols.Butanols,D10.289.110
+Lipids.Fatty Alcohols.Butanols.1-Butanol,D10.289.110.175
+Lipids.Fatty Alcohols.Butanols.Chlorobutanol,D10.289.110.220
+Lipids.Fatty Alcohols.Butanols.tert-Butyl Alcohol,D10.289.110.855
+Lipids.Fatty Alcohols.Dodecanol,D10.289.220
+Lipids.Fatty Alcohols.Dodecanol.Sodium Dodecyl Sulfate,D10.289.220.720
+Lipids.Fatty Alcohols.Dolichol,D10.289.230
+Lipids.Fatty Alcohols.Dolichol.Dolichol Phosphates,D10.289.230.250
+Lipids.Fatty Alcohols.Farnesol,D10.289.400
+Lipids.Fatty Alcohols.Heptanol,D10.289.500
+Lipids.Fatty Alcohols.Hexanols,D10.289.510
+Lipids.Fatty Alcohols.Hexanols.Cyclohexanols,D10.289.510.500
+Lipids.Fatty Alcohols.Hexanols.Cyclohexanols.Desvenlafaxine Succinate,D10.289.510.500.303
+Lipids.Fatty Alcohols.Hexanols.Cyclohexanols.Menthol,D10.289.510.500.605
+Lipids.Fatty Alcohols.Hexanols.Cyclohexanols.Tramadol,D10.289.510.500.802
+Lipids.Fatty Alcohols.Hexanols.Cyclohexanols.Venlafaxine Hydrochloride,D10.289.510.500.901
+Lipids.Fatty Alcohols.Octanols,D10.289.600
+Lipids.Fatty Alcohols.Octanols.1-Octanol,D10.289.600.610
+Lipids.Fatty Alcohols.Pentanols,D10.289.640
+Lipids.Fatty Alcohols.Sodium Tetradecyl Sulfate,D10.289.900
+Lipids.Glycerides,D10.351
+Lipids.Glycerides.Diglycerides,D10.351.303
+Lipids.Glycerides.Monoglycerides,D10.351.676
+Lipids.Glycerides.Triglycerides,D10.351.801
+Lipids.Glycerides.Triglycerides.Triacetin,D10.351.801.632
+Lipids.Glycerides.Triglycerides.Triolein,D10.351.801.801
+Lipids.Glycolipids,D10.390
+Lipids.Glycolipids.Cord Factors,D10.390.240
+Lipids.Glycolipids.Galactolipids,D10.390.355
+Lipids.Glycolipids.Glycosphingolipids,D10.390.470
+Lipids.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids,D10.390.470.025
+Lipids.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides,D10.390.470.025.475
+Lipids.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M1) Ganglioside,D10.390.470.025.475.390
+Lipids.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M2) Ganglioside,D10.390.470.025.475.400
+Lipids.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M3) Ganglioside,D10.390.470.025.475.510
+Lipids.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Sulfoglycosphingolipids,D10.390.470.025.837
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids,D10.390.470.675
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides,D10.390.470.675.200
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides,D10.390.470.675.200.250
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides.Galactosylceramides,D10.390.470.675.200.250.450
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides.Glucosylceramides,D10.390.470.675.200.250.490
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Globosides,D10.390.470.675.200.425
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Lactosylceramides,D10.390.470.675.200.612
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Trihexosylceramides,D10.390.470.675.200.906
+Lipids.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Sphingomyelins,D10.390.470.675.870
+Lipids.Glycolipids.Glycosphingolipids.Psychosine,D10.390.470.806
+Lipids.Glycolipids.Glycosylphosphatidylinositols,D10.390.475
+Lipids.Glycolipids.Polyisoprenyl Phosphate Sugars,D10.390.700
+Lipids.Glycolipids.Polyisoprenyl Phosphate Sugars.Polyisoprenyl Phosphate Monosaccharides,D10.390.700.700
+Lipids.Glycolipids.Polyisoprenyl Phosphate Sugars.Polyisoprenyl Phosphate Monosaccharides.Dolichol Monophosphate Mannose,D10.390.700.700.250
+Lipids.Glycolipids.Polyisoprenyl Phosphate Sugars.Polyisoprenyl Phosphate Oligosaccharides,D10.390.700.710
+Lipids.Lipid Peroxides,D10.440
+Lipids.Lipofuscin,D10.460
+Lipids.Lipopeptides,D10.477
+Lipids.Lipopeptides.Daptomycin,D10.477.500
+Lipids.Lipopeptides.Polymyxins,D10.477.750
+Lipids.Lipopeptides.Polymyxins.Colistin,D10.477.750.110
+Lipids.Lipopeptides.Polymyxins.Polymyxin B,D10.477.750.750
+Lipids.Lipopolysaccharides,D10.494
+Lipids.Lipopolysaccharides.Lipid A,D10.494.500
+Lipids.Lipopolysaccharides.O Antigens,D10.494.600
+Lipids.Lipoproteins,D10.532
+Lipids.Lipoproteins.Apolipoproteins,D10.532.091
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins M,D10.532.091.100
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins A,D10.532.091.200
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins A.Apolipoprotein A-I,D10.532.091.200.100
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins A.Apolipoprotein A-II,D10.532.091.200.150
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins A.Apolipoprotein A-V,D10.532.091.200.575
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins B,D10.532.091.300
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins B.Apolipoprotein B-48,D10.532.091.300.240
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins B.Apolipoprotein B-100,D10.532.091.300.249
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins C,D10.532.091.400
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins C.Apolipoprotein C-I,D10.532.091.400.500
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins C.Apolipoprotein C-II,D10.532.091.400.750
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins C.Apolipoprotein C-III,D10.532.091.400.875
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins D,D10.532.091.450
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins E,D10.532.091.500
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins E.Apolipoprotein E2,D10.532.091.500.249
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins E.Apolipoprotein E3,D10.532.091.500.500
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins E.Apolipoprotein E4,D10.532.091.500.750
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins L,D10.532.091.750
+Lipids.Lipoproteins.Apolipoproteins.Apolipoproteins L.Apolipoprotein L1,D10.532.091.750.500
+"Lipids.Lipoproteins.ATP Binding Cassette Transporter, Sub-Family G, Member 5",D10.532.137
+"Lipids.Lipoproteins.ATP Binding Cassette Transporter, Sub-Family G, Member 8",D10.532.160
+Lipids.Lipoproteins.Chylomicrons,D10.532.183
+Lipids.Lipoproteins.Chylomicrons.Chylomicron Remnants,D10.532.183.500
+Lipids.Lipoproteins.Lipoprotein(a),D10.532.350
+Lipids.Lipoproteins.Lipoprotein(a).Apoprotein(a),D10.532.350.500
+Lipids.Lipoproteins.Lipoprotein-X,D10.532.400
+"Lipids.Lipoproteins.Lipoproteins, HDL",D10.532.432
+"Lipids.Lipoproteins.Lipoproteins, HDL.Cholesterol, HDL",D10.532.432.400
+"Lipids.Lipoproteins.Lipoproteins, HDL.High-Density Lipoproteins, Pre-beta",D10.532.432.550
+"Lipids.Lipoproteins.Lipoproteins, HDL.Lipoproteins, HDL2",D10.532.432.700
+"Lipids.Lipoproteins.Lipoproteins, HDL.Lipoproteins, HDL3",D10.532.432.850
+"Lipids.Lipoproteins.Lipoproteins, IDL",D10.532.473
+"Lipids.Lipoproteins.Lipoproteins, LDL",D10.532.515
+"Lipids.Lipoproteins.Lipoproteins, LDL.Cholesterol, LDL",D10.532.515.500
+"Lipids.Lipoproteins.Lipoproteins, VLDL",D10.532.599
+"Lipids.Lipoproteins.Lipoproteins, VLDL.Cholesterol, VLDL",D10.532.599.700
+Lipids.Membrane Lipids,D10.570
+Lipids.Membrane Lipids.Lipid Bilayers,D10.570.510
+Lipids.Membrane Lipids.Phospholipids,D10.570.755
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates,D10.570.755.375
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids,D10.570.755.375.760
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids,D10.570.755.375.760.400
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Glycerylphosphorylcholine,D10.570.755.375.760.400.386
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylcholines,D10.570.755.375.760.400.800
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylcholines.Dimyristoylphosphatidylcholine,D10.570.755.375.760.400.800.200
+"Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylcholines.1,2-Dipalmitoylphosphatidylcholine",D10.570.755.375.760.400.800.224
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylcholines.Lecithins,D10.570.755.375.760.400.800.806
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylcholines.Lecithins.Glycerylphosphorylcholine,D10.570.755.375.760.400.800.806.500
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylethanolamines,D10.570.755.375.760.400.840
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylglycerols,D10.570.755.375.760.400.885
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylglycerols.Cardiolipins,D10.570.755.375.760.400.885.185
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylinositols,D10.570.755.375.760.400.942
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylinositols.Glycosylphosphatidylinositols,D10.570.755.375.760.400.942.250
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylinositols.Phosphatidylinositol Phosphates,D10.570.755.375.760.400.942.625
+"Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylinositols.Phosphatidylinositol Phosphates.Phosphatidylinositol 4,5-Diphosphate",D10.570.755.375.760.400.942.625.900
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phosphatidylserines,D10.570.755.375.760.400.971
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phospholipid Ethers,D10.570.755.375.760.400.985
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phospholipid Ethers.Plasmalogens,D10.570.755.375.760.400.985.820
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Glycerophospholipids.Phospholipid Ethers.Platelet Activating Factor,D10.570.755.375.760.400.985.910
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Lysophospholipids,D10.570.755.375.760.550
+Lipids.Membrane Lipids.Phospholipids.Glycerophosphates.Phosphatidic Acids.Lysophospholipids.Lysophosphatidylcholines,D10.570.755.375.760.550.550
+Lipids.Membrane Lipids.Phospholipids.Sphingomyelins,D10.570.755.893
+Lipids.Membrane Lipids.Proteolipids,D10.570.780
+Lipids.Membrane Lipids.Proteolipids.Myelin and Lymphocyte-Associated Proteolipid Proteins,D10.570.780.249
+Lipids.Membrane Lipids.Proteolipids.Myelin Proteolipid Protein,D10.570.780.500
+Lipids.Membrane Lipids.Sphingolipids,D10.570.877
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids,D10.570.877.360
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Acidic Glycosphingolipids,D10.570.877.360.025
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides,D10.570.877.360.025.475
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M1) Ganglioside,D10.570.877.360.025.475.390
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M2) Ganglioside,D10.570.877.360.025.475.400
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M3) Ganglioside,D10.570.877.360.025.475.510
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Acidic Glycosphingolipids.Sulfoglycosphingolipids,D10.570.877.360.025.837
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids,D10.570.877.360.612
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides,D10.570.877.360.612.200
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides,D10.570.877.360.612.200.250
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides.Galactosylceramides,D10.570.877.360.612.200.250.450
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides.Glucosylceramides,D10.570.877.360.612.200.250.490
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Globosides,D10.570.877.360.612.200.425
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Lactosylceramides,D10.570.877.360.612.200.612
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Trihexosylceramides,D10.570.877.360.612.200.906
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Neutral Glycosphingolipids.Sphingomyelins,D10.570.877.360.612.870
+Lipids.Membrane Lipids.Sphingolipids.Glycosphingolipids.Psychosine,D10.570.877.360.806
+Lipids.Membrane Lipids.Sterols,D10.570.938
+Lipids.Membrane Lipids.Sterols.Adosterol,D10.570.938.073
+Lipids.Membrane Lipids.Sterols.Cholecalciferol,D10.570.938.146
+Lipids.Membrane Lipids.Sterols.Cholecalciferol.Hydroxycholecalciferols,D10.570.938.146.478
+Lipids.Membrane Lipids.Sterols.Cholecalciferol.Hydroxycholecalciferols.Calcifediol,D10.570.938.146.478.250
+Lipids.Membrane Lipids.Sterols.Cholecalciferol.Hydroxycholecalciferols.Dihydroxycholecalciferols,D10.570.938.146.478.387
+Lipids.Membrane Lipids.Sterols.Cholecalciferol.Hydroxycholecalciferols.Dihydroxycholecalciferols.Calcitriol,D10.570.938.146.478.387.300
+"Lipids.Membrane Lipids.Sterols.Cholecalciferol.Hydroxycholecalciferols.Dihydroxycholecalciferols.24,25-Dihydroxyvitamin D 3",D10.570.938.146.478.387.400
+Lipids.Membrane Lipids.Sterols.Cholesterol,D10.570.938.208
+Lipids.Membrane Lipids.Sterols.Cholesterol.Azacosterol,D10.570.938.208.070
+Lipids.Membrane Lipids.Sterols.Cholesterol.Cholestanol,D10.570.938.208.160
+"Lipids.Membrane Lipids.Sterols.Cholesterol.Cholesterol, Dietary",D10.570.938.208.222
+Lipids.Membrane Lipids.Sterols.Cholesterol.Cholesterol Esters,D10.570.938.208.250
+"Lipids.Membrane Lipids.Sterols.Cholesterol.Cholesterol, HDL",D10.570.938.208.270
+"Lipids.Membrane Lipids.Sterols.Cholesterol.Cholesterol, LDL",D10.570.938.208.275
+"Lipids.Membrane Lipids.Sterols.Cholesterol.Cholesterol, VLDL",D10.570.938.208.285
+Lipids.Membrane Lipids.Sterols.Cholesterol.Dehydrocholesterols,D10.570.938.208.320
+Lipids.Membrane Lipids.Sterols.Cholesterol.Dehydrocholesterols.Desmosterol,D10.570.938.208.320.297
+Lipids.Membrane Lipids.Sterols.Cholesterol.19-Iodocholesterol,D10.570.938.208.627
+Lipids.Membrane Lipids.Sterols.Cholesterol.Oxysterols,D10.570.938.208.825
+Lipids.Membrane Lipids.Sterols.Cholesterol.Oxysterols.Hydroxycholesterols,D10.570.938.208.825.500
+Lipids.Membrane Lipids.Sterols.Cholesterol.Oxysterols.Ketocholesterols,D10.570.938.208.825.750
+Lipids.Membrane Lipids.Sterols.Ergocalciferols,D10.570.938.439
+Lipids.Membrane Lipids.Sterols.Ergocalciferols.25-Hydroxyvitamin D 2,D10.570.938.439.500
+Lipids.Membrane Lipids.Sterols.Ergocalciferols.Dihydrotachysterol,D10.570.938.439.750
+Lipids.Membrane Lipids.Sterols.Fusidic Acid,D10.570.938.515
+Lipids.Membrane Lipids.Sterols.Lanosterol,D10.570.938.590
+Lipids.Membrane Lipids.Sterols.Phytosterols,D10.570.938.795
+Lipids.Membrane Lipids.Sterols.Phytosterols.Brassinosteroids,D10.570.938.795.071
+Lipids.Membrane Lipids.Sterols.Phytosterols.Ecdysteroids,D10.570.938.795.143
+Lipids.Membrane Lipids.Sterols.Phytosterols.Sitosterols,D10.570.938.795.669
+Lipids.Membrane Lipids.Sterols.Phytosterols.Stigmasterol,D10.570.938.795.808
+Lipids.Membrane Lipids.Sterols.Phytosterols.Withanolides,D10.570.938.795.904
+Lipids.Membrane Lipids.Sterols.Solanine,D10.570.938.897
+Lipids.Oils,D10.627
+Lipids.Oils.Fish Oils,D10.627.430
+Lipids.Oils.Fish Oils.Cod Liver Oil,D10.627.430.354
+"Lipids.Oils.Fish Oils.Fatty Acids, Omega-3",D10.627.430.450
+"Lipids.Oils.Fish Oils.Fatty Acids, Omega-3.Docosahexaenoic Acids",D10.627.430.450.375
+"Lipids.Oils.Fish Oils.Fatty Acids, Omega-3.Eicosapentaenoic Acid",D10.627.430.450.390
+"Lipids.Oils.Oils, Volatile",D10.627.675
+"Lipids.Oils.Oils, Volatile.Tea Tree Oil",D10.627.675.775
+"Lipids.Oils.Oils, Volatile.Turpentine",D10.627.675.800
+Lipids.Oils.Plant Oils,D10.627.700
+Lipids.Oils.Plant Oils.Canola Oil,D10.627.700.066
+Lipids.Oils.Plant Oils.Castor Oil,D10.627.700.132
+Lipids.Oils.Plant Oils.Coconut Oil,D10.627.700.186
+Lipids.Oils.Plant Oils.Corn Oil,D10.627.700.240
+Lipids.Oils.Plant Oils.Cottonseed Oil,D10.627.700.263
+Lipids.Oils.Plant Oils.Croton Oil,D10.627.700.315
+Lipids.Oils.Plant Oils.Iodized Oil,D10.627.700.550
+Lipids.Oils.Plant Oils.Iodized Oil.Ethiodized Oil,D10.627.700.550.300
+Lipids.Oils.Plant Oils.Linseed Oil,D10.627.700.615
+Lipids.Oils.Plant Oils.Olive Oil,D10.627.700.728
+Lipids.Oils.Plant Oils.Palm Oil,D10.627.700.798
+Lipids.Oils.Plant Oils.Peanut Oil,D10.627.700.809
+Lipids.Oils.Plant Oils.Rice Bran Oil,D10.627.700.819
+Lipids.Oils.Plant Oils.Safflower Oil,D10.627.700.840
+Lipids.Oils.Plant Oils.Sesame Oil,D10.627.700.865
+Lipids.Oils.Plant Oils.Soybean Oil,D10.627.700.880
+Lipids.Oils.Plant Oils.Tea Tree Oil,D10.627.700.940
+Lipids.Polyhydroxyalkanoates,D10.751
+Lipids.Waxes,D10.945
+Lipids.Waxes.Lanolin,D10.945.507

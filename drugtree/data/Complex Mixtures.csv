@@ -1,0 +1,264 @@
+id,value
+Complex Mixtures,D20
+Complex Mixtures.Acid Rain,D20.050
+Complex Mixtures.Ambergris,D20.080
+Complex Mixtures.Biofuels,D20.147
+Complex Mixtures.Biological Products,D20.215
+Complex Mixtures.Biological Products.Biological Control Agents,D20.215.113
+Complex Mixtures.Biological Products.Biological Warfare Agents,D20.215.226
+Complex Mixtures.Biological Products.Biosimilar Pharmaceuticals,D20.215.261
+Complex Mixtures.Biological Products.Immune Sera,D20.215.401
+Complex Mixtures.Biological Products.Immune Sera.Antilymphocyte Serum,D20.215.401.203
+Complex Mixtures.Biological Products.Immune Sera.Antitoxins,D20.215.401.601
+Complex Mixtures.Biological Products.Immune Sera.Antitoxins.Antivenins,D20.215.401.601.163
+Complex Mixtures.Biological Products.Immune Sera.Antitoxins.Botulinum Antitoxin,D20.215.401.601.276
+Complex Mixtures.Biological Products.Immune Sera.Antitoxins.Diphtheria Antitoxin,D20.215.401.601.388
+Complex Mixtures.Biological Products.Immune Sera.Antitoxins.Tetanus Antitoxin,D20.215.401.601.824
+Complex Mixtures.Biological Products.Menotropins,D20.215.535
+Complex Mixtures.Biological Products.Picibanil,D20.215.659
+Complex Mixtures.Biological Products.Plant Exudates,D20.215.721
+Complex Mixtures.Biological Products.Plant Exudates.Gutta-Percha,D20.215.721.061
+Complex Mixtures.Biological Products.Plant Exudates.Latex,D20.215.721.124
+Complex Mixtures.Biological Products.Plant Exudates.Plant Gums,D20.215.721.249
+Complex Mixtures.Biological Products.Plant Exudates.Plant Gums.Chewing Gum,D20.215.721.249.249
+Complex Mixtures.Biological Products.Plant Exudates.Plant Gums.Gum Arabic,D20.215.721.249.500
+Complex Mixtures.Biological Products.Plant Exudates.Plant Gums.Karaya Gum,D20.215.721.249.625
+Complex Mixtures.Biological Products.Plant Exudates.Plant Gums.Tragacanth,D20.215.721.249.750
+"Complex Mixtures.Biological Products.Plant Exudates.Resins, Plant",D20.215.721.500
+"Complex Mixtures.Biological Products.Plant Exudates.Resins, Plant.Amber",D20.215.721.500.109
+"Complex Mixtures.Biological Products.Plant Exudates.Resins, Plant.Balsams",D20.215.721.500.219
+"Complex Mixtures.Biological Products.Plant Exudates.Resins, Plant.Frankincense",D20.215.721.500.354
+"Complex Mixtures.Biological Products.Plant Exudates.Resins, Plant.Guaiac",D20.215.721.500.490
+"Complex Mixtures.Biological Products.Plant Exudates.Resins, Plant.Mastic Resin",D20.215.721.500.626
+"Complex Mixtures.Biological Products.Plant Exudates.Resins, Plant.Propolis",D20.215.721.500.762
+"Complex Mixtures.Biological Products.Plant Exudates.Resins, Plant.Turpentine",D20.215.721.500.881
+Complex Mixtures.Biological Products.Plant Nectar,D20.215.780
+Complex Mixtures.Biological Products.Plant Preparations,D20.215.784
+Complex Mixtures.Biological Products.Plant Preparations.Coffee,D20.215.784.249
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts,D20.215.784.500
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Flower Essences,D20.215.784.500.087
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Cascara,D20.215.784.500.175
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Curare,D20.215.784.500.200
+"Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Drugs, Chinese Herbal",D20.215.784.500.350
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Grape Seed Extract,D20.215.784.500.400
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Ipecac,D20.215.784.500.450
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Lecithins,D20.215.784.500.492
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Opium,D20.215.784.500.534
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Pectins,D20.215.784.500.618
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Podophyllin,D20.215.784.500.675
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Psyllium,D20.215.784.500.720
+Complex Mixtures.Biological Products.Plant Preparations.Plant Extracts.Senna Extract,D20.215.784.500.860
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils,D20.215.784.750
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Canola Oil,D20.215.784.750.066
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Castor Oil,D20.215.784.750.132
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Clove Oil,D20.215.784.750.186
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Corn Oil,D20.215.784.750.240
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Cottonseed Oil,D20.215.784.750.263
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Croton Oil,D20.215.784.750.315
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Iodized Oil,D20.215.784.750.550
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Iodized Oil.Ethiodized Oil,D20.215.784.750.550.300
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Linseed Oil,D20.215.784.750.615
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Palm Oil,D20.215.784.750.728
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Rice Bran Oil,D20.215.784.750.784
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Safflower Oil,D20.215.784.750.840
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Sesame Oil,D20.215.784.750.865
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Soybean Oil,D20.215.784.750.880
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Sunflower Oil,D20.215.784.750.910
+Complex Mixtures.Biological Products.Plant Preparations.Plant Oils.Tea Tree Oil,D20.215.784.750.940
+Complex Mixtures.Biological Products.Plant Preparations.Tea,D20.215.784.844
+Complex Mixtures.Biological Products.Plant Preparations.Tea.Kombucha Tea,D20.215.784.844.500
+"Complex Mixtures.Biological Products.Plant Preparations.Teas, Herbal",D20.215.784.937
+Complex Mixtures.Biological Products.Vaccines,D20.215.894
+Complex Mixtures.Biological Products.Vaccines.Alzheimer Vaccines,D20.215.894.067
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines,D20.215.894.135
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Anthrax Vaccines,D20.215.894.135.063
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Autovaccines,D20.215.894.135.098
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Brucella Vaccine,D20.215.894.135.134
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Cholera Vaccines,D20.215.894.135.225
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Diphtheria-Tetanus Vaccine,D20.215.894.135.310
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Escherichia coli Vaccines,D20.215.894.135.390
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Haemophilus Vaccines,D20.215.894.135.450
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Lyme Disease Vaccines,D20.215.894.135.492
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Meningococcal Vaccines,D20.215.894.135.500
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Pertussis Vaccine,D20.215.894.135.535
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Pertussis Vaccine.Diphtheria-Tetanus-acellular Pertussis Vaccines,D20.215.894.135.535.295
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Pertussis Vaccine.Diphtheria-Tetanus-Pertussis Vaccine,D20.215.894.135.535.300
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Plague Vaccine,D20.215.894.135.609
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Pseudomonas Vaccines,D20.215.894.135.620
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Rickettsial Vaccines,D20.215.894.135.650
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Salmonella Vaccines,D20.215.894.135.685
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Salmonella Vaccines.Typhoid-Paratyphoid Vaccines,D20.215.894.135.685.910
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Shigella Vaccines,D20.215.894.135.720
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Staphylococcal Vaccines,D20.215.894.135.744
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Streptococcal Vaccines,D20.215.894.135.750
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Streptococcal Vaccines.Pneumococcal Vaccines,D20.215.894.135.750.600
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Streptococcal Vaccines.Pneumococcal Vaccines.Heptavalent Pneumococcal Conjugate Vaccine,D20.215.894.135.750.600.500
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Tuberculosis Vaccines,D20.215.894.135.825
+Complex Mixtures.Biological Products.Vaccines.Bacterial Vaccines.Tuberculosis Vaccines.BCG Vaccine,D20.215.894.135.825.100
+Complex Mixtures.Biological Products.Vaccines.Cancer Vaccines,D20.215.894.200
+Complex Mixtures.Biological Products.Vaccines.Fungal Vaccines,D20.215.894.354
+Complex Mixtures.Biological Products.Vaccines.Protozoan Vaccines,D20.215.894.582
+Complex Mixtures.Biological Products.Vaccines.Protozoan Vaccines.Leishmaniasis Vaccines,D20.215.894.582.480
+Complex Mixtures.Biological Products.Vaccines.Protozoan Vaccines.Malaria Vaccines,D20.215.894.582.500
+Complex Mixtures.Biological Products.Vaccines.Toxoids,D20.215.894.691
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Diphtheria Toxoid,D20.215.894.691.263
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Diphtheria Toxoid.Diphtheria-Tetanus-acellular Pertussis Vaccines,D20.215.894.691.263.290
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Diphtheria Toxoid.Diphtheria-Tetanus-Pertussis Vaccine,D20.215.894.691.263.300
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Diphtheria Toxoid.Diphtheria-Tetanus Vaccine,D20.215.894.691.263.310
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Staphylococcal Toxoid,D20.215.894.691.681
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Tetanus Toxoid,D20.215.894.691.824
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Tetanus Toxoid.Diphtheria-Tetanus-acellular Pertussis Vaccines,D20.215.894.691.824.290
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Tetanus Toxoid.Diphtheria-Tetanus-Pertussis Vaccine,D20.215.894.691.824.300
+Complex Mixtures.Biological Products.Vaccines.Toxoids.Tetanus Toxoid.Diphtheria-Tetanus Vaccine,D20.215.894.691.824.310
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Attenuated",D20.215.894.811
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Combined",D20.215.894.815
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Combined.Diphtheria-Tetanus-acellular Pertussis Vaccines",D20.215.894.815.149
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Combined.Diphtheria-Tetanus-Pertussis Vaccine",D20.215.894.815.300
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Combined.Diphtheria-Tetanus Vaccine",D20.215.894.815.320
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Combined.Measles-Mumps-Rubella Vaccine",D20.215.894.815.500
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Contraceptive",D20.215.894.818
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Inactivated",D20.215.894.830
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Inactivated.Poliovirus Vaccine, Inactivated",D20.215.894.830.614
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Marker",D20.215.894.845
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Subunit",D20.215.894.860
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Subunit.ISCOMs",D20.215.894.860.449
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Subunit.Vaccines, Acellular",D20.215.894.860.900
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Subunit.Vaccines, Acellular.Diphtheria-Tetanus-acellular Pertussis Vaccines",D20.215.894.860.900.267
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Subunit.Vaccines, Edible",D20.215.894.860.915
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Synthetic",D20.215.894.865
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Synthetic.Vaccines, Conjugate",D20.215.894.865.900
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Synthetic.Vaccines, DNA",D20.215.894.865.910
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Synthetic.Vaccines, Edible",D20.215.894.865.915
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Synthetic.Vaccines, Virosome",D20.215.894.865.940
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Synthetic.Vaccines, Virus-Like Particle",D20.215.894.865.955
+"Complex Mixtures.Biological Products.Vaccines.Vaccines, Live, Unattenuated",D20.215.894.882
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines,D20.215.894.899
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Adenovirus Vaccines,D20.215.894.899.024
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.AIDS Vaccines,D20.215.894.899.050
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Cytomegalovirus Vaccines,D20.215.894.899.120
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Dengue Vaccines,D20.215.894.899.162
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Ebola Vaccines,D20.215.894.899.205
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Herpesvirus Vaccines,D20.215.894.899.290
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Herpesvirus Vaccines.Chickenpox Vaccine,D20.215.894.899.290.130
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Herpesvirus Vaccines.Chickenpox Vaccine.Herpes Zoster Vaccine,D20.215.894.899.290.130.400
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Herpesvirus Vaccines.Herpes Simplex Virus Vaccines,D20.215.894.899.290.400
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Herpesvirus Vaccines.Marek Disease Vaccines,D20.215.894.899.290.500
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Influenza Vaccines,D20.215.894.899.302
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Japanese Encephalitis Vaccines,D20.215.894.899.320
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Measles Vaccine,D20.215.894.899.404
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Measles Vaccine.Measles-Mumps-Rubella Vaccine,D20.215.894.899.404.500
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Mumps Vaccine,D20.215.894.899.488
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Mumps Vaccine.Measles-Mumps-Rubella Vaccine,D20.215.894.899.488.500
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Papillomavirus Vaccines,D20.215.894.899.498
+"Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Papillomavirus Vaccines.Human Papillomavirus Recombinant Vaccine Quadrivalent, Types 6, 11, 16, 18",D20.215.894.899.498.500
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Parainfluenza Vaccines,D20.215.894.899.500
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Poliovirus Vaccines,D20.215.894.899.623
+"Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Poliovirus Vaccines.Poliovirus Vaccine, Inactivated",D20.215.894.899.623.500
+"Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Poliovirus Vaccines.Poliovirus Vaccine, Oral",D20.215.894.899.623.750
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Pseudorabies Vaccines,D20.215.894.899.632
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Rabies Vaccines,D20.215.894.899.700
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Respiratory Syncytial Virus Vaccines,D20.215.894.899.730
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Rotavirus Vaccines,D20.215.894.899.760
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Rubella Vaccine,D20.215.894.899.779
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Rubella Vaccine.Measles-Mumps-Rubella Vaccine,D20.215.894.899.779.500
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.SAIDS Vaccines,D20.215.894.899.790
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Smallpox Vaccine,D20.215.894.899.859
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Viral Hepatitis Vaccines,D20.215.894.899.955
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Viral Hepatitis Vaccines.Hepatitis A Vaccines,D20.215.894.899.955.395
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Viral Hepatitis Vaccines.Hepatitis B Vaccines,D20.215.894.899.955.400
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.West Nile Virus Vaccines,D20.215.894.899.962
+Complex Mixtures.Biological Products.Vaccines.Viral Vaccines.Yellow Fever Vaccine,D20.215.894.899.970
+Complex Mixtures.Colloids,D20.280
+Complex Mixtures.Colloids.Aerosols,D20.280.055
+Complex Mixtures.Colloids.Aerosols.Nasal Sprays,D20.280.055.500
+Complex Mixtures.Colloids.Aerosols.Oral Sprays,D20.280.055.750
+Complex Mixtures.Colloids.Emulsions,D20.280.260
+Complex Mixtures.Colloids.Gels,D20.280.320
+Complex Mixtures.Colloids.Gels.Hydrogels,D20.280.320.375
+Complex Mixtures.Colloids.Gels.Hydrogels.Cryogels,D20.280.320.375.500
+Complex Mixtures.Colloids.Gels.Silica Gel,D20.280.320.687
+Complex Mixtures.Colloids.Suspensions,D20.280.810
+Complex Mixtures.Fossil Fuels,D20.345
+Complex Mixtures.Fossil Fuels.Coal,D20.345.108
+Complex Mixtures.Fossil Fuels.Coal.Coke,D20.345.108.110
+Complex Mixtures.Fossil Fuels.Natural Gas,D20.345.369
+Complex Mixtures.Fossil Fuels.Petroleum,D20.345.630
+Complex Mixtures.Fossil Fuels.Petroleum.Fuel Oils,D20.345.630.500
+Complex Mixtures.Fossil Fuels.Petroleum.Gasoline,D20.345.630.540
+Complex Mixtures.Fossil Fuels.Petroleum.Kerosene,D20.345.630.600
+Complex Mixtures.Freund's Adjuvant,D20.475
+Complex Mixtures.Lignin,D20.538
+Complex Mixtures.Manure,D20.601
+Complex Mixtures.Particulate Matter,D20.633
+Complex Mixtures.Particulate Matter.Coal Ash,D20.633.110
+Complex Mixtures.Particulate Matter.Dust,D20.633.222
+Complex Mixtures.Particulate Matter.Dust.Cosmic Dust,D20.633.222.200
+Complex Mixtures.Particulate Matter.Smog,D20.633.875
+Complex Mixtures.Particulate Matter.Smoke,D20.633.937
+Complex Mixtures.Particulate Matter.Smoke.Soot,D20.633.937.339
+Complex Mixtures.Particulate Matter.Smoke.Tobacco Smoke Pollution,D20.633.937.680
+Complex Mixtures.Radioactive Pollutants,D20.693
+"Complex Mixtures.Radioactive Pollutants.Air Pollutants, Radioactive",D20.693.101
+Complex Mixtures.Radioactive Pollutants.Radioactive Fallout,D20.693.555
+Complex Mixtures.Radioactive Pollutants.Radioactive Waste,D20.693.638
+"Complex Mixtures.Radioactive Pollutants.Soil Pollutants, Radioactive",D20.693.756
+"Complex Mixtures.Radioactive Pollutants.Water Pollutants, Radioactive",D20.693.903
+Complex Mixtures.Soil,D20.721
+Complex Mixtures.Soil.Humic Substances,D20.721.500
+Complex Mixtures.Tars,D20.749
+Complex Mixtures.Tars.Coal Tar,D20.749.354
+Complex Mixtures.Tars.Tar-Water,D20.749.850
+Complex Mixtures.Tissue Extracts,D20.777
+Complex Mixtures.Tissue Extracts.Actihaemyl,D20.777.050
+Complex Mixtures.Tissue Extracts.Cell Extracts,D20.777.162
+Complex Mixtures.Tissue Extracts.Liver Extracts,D20.777.351
+Complex Mixtures.Tissue Extracts.Pancreatic Extracts,D20.777.500
+Complex Mixtures.Tissue Extracts.Pancreatic Extracts.Pancreatin,D20.777.500.720
+Complex Mixtures.Tissue Extracts.Pancreatic Extracts.Pancrelipase,D20.777.500.745
+Complex Mixtures.Tissue Extracts.Placental Extracts,D20.777.608
+Complex Mixtures.Tissue Extracts.Thymus Extracts,D20.777.871
+Complex Mixtures.Vehicle Emissions,D20.832
+Complex Mixtures.Venoms,D20.888
+Complex Mixtures.Venoms.Amphibian Venoms,D20.888.033
+Complex Mixtures.Venoms.Amphibian Venoms.Batrachotoxins,D20.888.033.112
+Complex Mixtures.Venoms.Amphibian Venoms.Bombesin,D20.888.033.137
+Complex Mixtures.Venoms.Amphibian Venoms.Bufotenin,D20.888.033.163
+Complex Mixtures.Venoms.Amphibian Venoms.Physalaemin,D20.888.033.728
+Complex Mixtures.Venoms.Arthropod Venoms,D20.888.065
+Complex Mixtures.Venoms.Arthropod Venoms.Ant Venoms,D20.888.065.055
+Complex Mixtures.Venoms.Arthropod Venoms.Bee Venoms,D20.888.065.115
+Complex Mixtures.Venoms.Arthropod Venoms.Bee Venoms.Apamin,D20.888.065.115.060
+Complex Mixtures.Venoms.Arthropod Venoms.Bee Venoms.Melitten,D20.888.065.115.580
+Complex Mixtures.Venoms.Arthropod Venoms.Scorpion Venoms,D20.888.065.830
+Complex Mixtures.Venoms.Arthropod Venoms.Scorpion Venoms.Charybdotoxin,D20.888.065.830.150
+Complex Mixtures.Venoms.Arthropod Venoms.Spider Venoms,D20.888.065.870
+Complex Mixtures.Venoms.Arthropod Venoms.Spider Venoms.Agatoxins,D20.888.065.870.324
+Complex Mixtures.Venoms.Arthropod Venoms.Spider Venoms.Agatoxins.omega-Agatoxin IVA,D20.888.065.870.324.500
+Complex Mixtures.Venoms.Arthropod Venoms.Wasp Venoms,D20.888.065.970
+Complex Mixtures.Venoms.Cnidarian Venoms,D20.888.230
+Complex Mixtures.Venoms.Fish Venoms,D20.888.370
+Complex Mixtures.Venoms.Mollusk Venoms,D20.888.590
+Complex Mixtures.Venoms.Mollusk Venoms.Conotoxins,D20.888.590.162
+Complex Mixtures.Venoms.Mollusk Venoms.Conotoxins.omega-Conotoxins,D20.888.590.162.720
+Complex Mixtures.Venoms.Mollusk Venoms.Conotoxins.omega-Conotoxins.omega-Conotoxin GVIA,D20.888.590.162.720.700
+Complex Mixtures.Venoms.Mollusk Venoms.Eledoisin,D20.888.590.325
+Complex Mixtures.Venoms.Snake Venoms,D20.888.850
+Complex Mixtures.Venoms.Snake Venoms.Elapid Venoms,D20.888.850.325
+Complex Mixtures.Venoms.Snake Venoms.Elapid Venoms.Bungarotoxins,D20.888.850.325.139
+Complex Mixtures.Venoms.Snake Venoms.Elapid Venoms.Cobra Cardiotoxin Proteins,D20.888.850.325.180
+Complex Mixtures.Venoms.Snake Venoms.Elapid Venoms.Cobra Neurotoxin Proteins,D20.888.850.325.200
+Complex Mixtures.Venoms.Snake Venoms.Viper Venoms,D20.888.850.960
+Complex Mixtures.Venoms.Snake Venoms.Viper Venoms.Crotalid Venoms,D20.888.850.960.200
+Complex Mixtures.Venoms.Snake Venoms.Viper Venoms.Crotalid Venoms.Ancrod,D20.888.850.960.200.050
+Complex Mixtures.Venoms.Snake Venoms.Viper Venoms.Crotalid Venoms.Batroxobin,D20.888.850.960.200.105
+Complex Mixtures.Venoms.Snake Venoms.Viper Venoms.Crotalid Venoms.Crotoxin,D20.888.850.960.200.210
+Complex Mixtures.Waste Products,D20.944
+Complex Mixtures.Waste Products.Hazardous Waste,D20.944.380
+Complex Mixtures.Waste Products.Hazardous Waste.Radioactive Waste,D20.944.380.638
+Complex Mixtures.Waste Products.Industrial Waste,D20.944.420
+Complex Mixtures.Waste Products.Medical Waste,D20.944.460
+Complex Mixtures.Waste Products.Medical Waste.Dental Waste,D20.944.460.150
+Complex Mixtures.Waste Products.Medical Waste.Medical Waste Disposal,D20.944.460.300
+Complex Mixtures.Waste Products.Solid Waste,D20.944.730
+Complex Mixtures.Waste Products.Waste Water,D20.944.932
+Complex Mixtures.Waste Products.Waste Water.Sewage,D20.944.932.500

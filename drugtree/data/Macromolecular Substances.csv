@@ -1,0 +1,281 @@
+id,value
+Macromolecular Substances,D05
+Macromolecular Substances.Micelles,D05.374
+Macromolecular Substances.Multiprotein Complexes,D05.500
+Macromolecular Substances.Multiprotein Complexes.Amyloid,D05.500.049
+Macromolecular Substances.Multiprotein Complexes.Apoptosomes,D05.500.099
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex,D05.500.117
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex.Adenomatous Polyposis Coli Protein,D05.500.117.249
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex.Axin Protein,D05.500.117.500
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex.Casein Kinase I,D05.500.117.750
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex.Casein Kinase I.Casein Kinase Ialpha,D05.500.117.750.100
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex.Casein Kinase I.Casein Kinase Idelta,D05.500.117.750.200
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex.Casein Kinase I.Casein Kinase Iepsilon,D05.500.117.750.300
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex.Glycogen Synthase Kinase 3,D05.500.117.875
+Macromolecular Substances.Multiprotein Complexes.Axin Signaling Complex.Glycogen Synthase Kinase 3.Glycogen Synthase Kinase 3 beta,D05.500.117.875.500
+Macromolecular Substances.Multiprotein Complexes.Calcifying Nanoparticles,D05.500.135
+Macromolecular Substances.Multiprotein Complexes.COP9 Signalosome Complex,D05.500.139
+Macromolecular Substances.Multiprotein Complexes.Dynactin Complex,D05.500.142
+Macromolecular Substances.Multiprotein Complexes.Dystrophin-Associated Protein Complex,D05.500.149
+Macromolecular Substances.Multiprotein Complexes.Endosomal Sorting Complexes Required for Transport,D05.500.199
+Macromolecular Substances.Multiprotein Complexes.Endosomal Sorting Complexes Required for Transport.Nedd4 Ubiquitin Protein Ligases,D05.500.199.500
+Macromolecular Substances.Multiprotein Complexes.Inflammasomes,D05.500.224
+Macromolecular Substances.Multiprotein Complexes.Lactose Synthase,D05.500.299
+Macromolecular Substances.Multiprotein Complexes.Mechanistic Target of Rapamycin Complex 1,D05.500.337
+"Macromolecular Substances.Multiprotein Complexes.Mechanistic Target of Rapamycin Complex 1.MTOR Associated Protein, LST8 Homolog",D05.500.337.250
+Macromolecular Substances.Multiprotein Complexes.Mechanistic Target of Rapamycin Complex 1.Regulatory-Associated Protein of mTOR,D05.500.337.500
+Macromolecular Substances.Multiprotein Complexes.Mechanistic Target of Rapamycin Complex 2,D05.500.356
+Macromolecular Substances.Multiprotein Complexes.Mechanistic Target of Rapamycin Complex 2.Rapamycin-Insensitive Companion of mTOR Protein,D05.500.356.500
+Macromolecular Substances.Multiprotein Complexes.Mediator Complex,D05.500.374
+Macromolecular Substances.Multiprotein Complexes.Mediator Complex.Cyclin C,D05.500.374.249
+Macromolecular Substances.Multiprotein Complexes.Mediator Complex.Cyclin-Dependent Kinase 8,D05.500.374.500
+Macromolecular Substances.Multiprotein Complexes.Mediator Complex.Mediator Complex Subunit 1,D05.500.374.750
+Macromolecular Substances.Multiprotein Complexes.Molecular Motor Proteins,D05.500.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes,D05.500.562
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Electron Transport Complex I,D05.500.562.249
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Electron Transport Complex IV,D05.500.562.374
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Exosome Multienzyme Ribonuclease Complex,D05.500.562.405
+"Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Fatty Acid Synthase, Type II",D05.500.562.444
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Glycine Decarboxylase Complex,D05.500.562.452
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Glycine Decarboxylase Complex.Aminomethyltransferase,D05.500.562.452.100
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Glycine Decarboxylase Complex.Dihydrolipoamide Dehydrogenase,D05.500.562.452.150
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Glycine Decarboxylase Complex.Glycine Decarboxylase Complex H-Protein,D05.500.562.452.175
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Glycine Decarboxylase Complex.Glycine Dehydrogenase (Decarboxylating),D05.500.562.452.200
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Ketoglutarate Dehydrogenase Complex,D05.500.562.468
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Ketoglutarate Dehydrogenase Complex.Dihydrolipoamide Dehydrogenase,D05.500.562.468.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Phosphoenolpyruvate Sugar Phosphotransferase System,D05.500.562.484
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins,D05.500.562.488
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Cytochrome b6f Complex,D05.500.562.488.374
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Cytochrome b6f Complex.Cytochromes b6,D05.500.562.488.374.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Cytochrome b6f Complex.Cytochromes f,D05.500.562.488.374.750
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Cytochrome b6f Complex.Plastoquinol-Plastocyanin Reductase,D05.500.562.488.374.875
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Light-Harvesting Protein Complexes,D05.500.562.488.490
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Light-Harvesting Protein Complexes.Chlorophyll Binding Proteins,D05.500.562.488.490.249
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Light-Harvesting Protein Complexes.Phycobilisomes,D05.500.562.488.490.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Light-Harvesting Protein Complexes.Phycobilisomes.Phycobiliproteins,D05.500.562.488.490.500.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Light-Harvesting Protein Complexes.Phycobilisomes.Phycobiliproteins.Phycocyanin,D05.500.562.488.490.500.500.755
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Light-Harvesting Protein Complexes.Phycobilisomes.Phycobiliproteins.Phycoerythrin,D05.500.562.488.490.500.500.777
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Photosystem I Protein Complex,D05.500.562.488.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Photosynthetic Reaction Center Complex Proteins.Photosystem II Protein Complex,D05.500.562.488.750
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Proteasome Endopeptidase Complex,D05.500.562.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Pyruvate Dehydrogenase Complex,D05.500.562.625
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Pyruvate Dehydrogenase Complex.Dihydrolipoamide Dehydrogenase,D05.500.562.625.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Pyruvate Dehydrogenase Complex.Dihydrolipoyllysine-Residue Acetyltransferase,D05.500.562.625.750
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Pyruvate Dehydrogenase Complex.Pyruvate Dehydrogenase (Lipoamide),D05.500.562.625.875
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Succinate Cytochrome c Oxidoreductase,D05.500.562.750
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Succinate Cytochrome c Oxidoreductase.Electron Transport Complex II,D05.500.562.750.249
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Succinate Cytochrome c Oxidoreductase.Electron Transport Complex II.Succinate Dehydrogenase,D05.500.562.750.249.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Succinate Cytochrome c Oxidoreductase.Electron Transport Complex III,D05.500.562.750.500
+Macromolecular Substances.Multiprotein Complexes.Multienzyme Complexes.Sucrase-Isomaltase Complex,D05.500.562.875
+Macromolecular Substances.Multiprotein Complexes.Polycomb-Group Proteins,D05.500.781
+Macromolecular Substances.Multiprotein Complexes.Polycomb-Group Proteins.Polycomb Repressive Complex 1,D05.500.781.100
+Macromolecular Substances.Multiprotein Complexes.Polycomb-Group Proteins.Polycomb Repressive Complex 2,D05.500.781.750
+Macromolecular Substances.Multiprotein Complexes.Polycomb-Group Proteins.Polycomb Repressive Complex 2.Enhancer of Zeste Homolog 2 Protein,D05.500.781.750.250
+Macromolecular Substances.Multiprotein Complexes.Polycomb-Group Proteins.Polycomb Repressive Complex 2.Retinoblastoma-Binding Protein 4,D05.500.781.750.500
+Macromolecular Substances.Multiprotein Complexes.Polycomb-Group Proteins.Polycomb Repressive Complex 2.Retinoblastoma-Binding Protein 7,D05.500.781.750.750
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems,D05.500.890
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Bacterial Secretion Systems,D05.500.890.500
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Bacterial Secretion Systems.Type I Secretion Systems,D05.500.890.500.500
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Bacterial Secretion Systems.Type II Secretion Systems,D05.500.890.500.750
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Bacterial Secretion Systems.Type III Secretion Systems,D05.500.890.500.875
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Bacterial Secretion Systems.Type IV Secretion Systems,D05.500.890.500.937
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Bacterial Secretion Systems.Type V Secretion Systems,D05.500.890.500.968
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Bacterial Secretion Systems.Type VI Secretion Systems,D05.500.890.500.984
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Bacterial Secretion Systems.Type VII Secretion Systems,D05.500.890.500.992
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.SEC Translocation Channels,D05.500.890.625
+Macromolecular Substances.Multiprotein Complexes.Protein Translocation Systems.Twin-Arginine-Translocation System,D05.500.890.750
+Macromolecular Substances.Multiprotein Complexes.Troponin,D05.500.945
+Macromolecular Substances.Multiprotein Complexes.Troponin.Troponin C,D05.500.945.900
+Macromolecular Substances.Multiprotein Complexes.Troponin.Troponin I,D05.500.945.925
+Macromolecular Substances.Multiprotein Complexes.Troponin.Troponin T,D05.500.945.962
+Macromolecular Substances.Polymers,D05.750
+Macromolecular Substances.Polymers.Biopolymers,D05.750.078
+Macromolecular Substances.Polymers.Biopolymers.Chitin,D05.750.078.139
+Macromolecular Substances.Polymers.Biopolymers.Chitin.Chitosan,D05.750.078.139.500
+Macromolecular Substances.Polymers.Biopolymers.Collagen,D05.750.078.280
+Macromolecular Substances.Polymers.Biopolymers.Collagen.Fibrillar Collagens,D05.750.078.280.300
+Macromolecular Substances.Polymers.Biopolymers.Collagen.Fibrillar Collagens.Collagen Type I,D05.750.078.280.300.100
+Macromolecular Substances.Polymers.Biopolymers.Collagen.Fibrillar Collagens.Collagen Type II,D05.750.078.280.300.200
+Macromolecular Substances.Polymers.Biopolymers.Collagen.Fibrillar Collagens.Collagen Type III,D05.750.078.280.300.300
+Macromolecular Substances.Polymers.Biopolymers.Collagen.Fibrillar Collagens.Collagen Type V,D05.750.078.280.300.400
+Macromolecular Substances.Polymers.Biopolymers.Collagen.Fibrillar Collagens.Collagen Type XI,D05.750.078.280.300.500
+Macromolecular Substances.Polymers.Biopolymers.Elastin,D05.750.078.421
+Macromolecular Substances.Polymers.Biopolymers.Glucans,D05.750.078.562
+Macromolecular Substances.Polymers.Biopolymers.Glucans.Cellulose,D05.750.078.562.180
+"Macromolecular Substances.Polymers.Biopolymers.Glucans.Cellulose.Cellulose, Oxidized",D05.750.078.562.180.200
+Macromolecular Substances.Polymers.Biopolymers.Glucans.Cellulose.Hypromellose Derivatives,D05.750.078.562.180.357
+Macromolecular Substances.Polymers.Biopolymers.Glucans.Cellulose.Lignin,D05.750.078.562.180.515
+Macromolecular Substances.Polymers.Biopolymers.Glucans.Dextrans,D05.750.078.562.272
+Macromolecular Substances.Polymers.Biopolymers.Glucans.Glycogen,D05.750.078.562.388
+Macromolecular Substances.Polymers.Biopolymers.Glucans.Glycogen.Liver Glycogen,D05.750.078.562.388.518
+Macromolecular Substances.Polymers.Biopolymers.Glucans.Starch,D05.750.078.562.855
+Macromolecular Substances.Polymers.Biopolymers.Glucans.Starch.Inulin,D05.750.078.562.855.750
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins,D05.750.078.593
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Desmin,D05.750.078.593.200
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Glial Fibrillary Acidic Protein,D05.750.078.593.400
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins,D05.750.078.593.450
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.beta-Keratins,D05.750.078.593.450.074
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Hair-Specific",D05.750.078.593.450.149
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I",D05.750.078.593.450.300
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-10",D05.750.078.593.450.300.100
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-12",D05.750.078.593.450.300.200
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-13",D05.750.078.593.450.300.300
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-14",D05.750.078.593.450.300.400
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-16",D05.750.078.593.450.300.600
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-17",D05.750.078.593.450.300.700
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-18",D05.750.078.593.450.300.800
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-19",D05.750.078.593.450.300.900
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type I.Keratin-20",D05.750.078.593.450.300.950
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II",D05.750.078.593.450.600
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-1",D05.750.078.593.450.600.100
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-2",D05.750.078.593.450.600.200
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-3",D05.750.078.593.450.600.300
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-4",D05.750.078.593.450.600.400
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-5",D05.750.078.593.450.600.500
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-6",D05.750.078.593.450.600.600
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-7",D05.750.078.593.450.600.700
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-8",D05.750.078.593.450.600.800
+"Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Keratins.Keratins, Type II.Keratin-9",D05.750.078.593.450.600.900
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Nestin,D05.750.078.593.540
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Neurofilament Proteins,D05.750.078.593.630
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Peripherins,D05.750.078.593.765
+Macromolecular Substances.Polymers.Biopolymers.Intermediate Filament Proteins.Vimentin,D05.750.078.593.900
+Macromolecular Substances.Polymers.Biopolymers.Latex,D05.750.078.625
+Macromolecular Substances.Polymers.Biopolymers.Lignin,D05.750.078.687
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins,D05.750.078.730
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin Capping Proteins,D05.750.078.730.032
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin Capping Proteins.CapZ Actin Capping Protein,D05.750.078.730.032.500
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin Capping Proteins.Tropomodulin,D05.750.078.730.032.750
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin Depolymerizing Factors,D05.750.078.730.212
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin Depolymerizing Factors.Cofilin 1,D05.750.078.730.212.500
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin Depolymerizing Factors.Cofilin 2,D05.750.078.730.212.750
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin Depolymerizing Factors.Destrin,D05.750.078.730.212.875
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin-Related Protein 2-3 Complex,D05.750.078.730.246
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin-Related Protein 2-3 Complex.Actin-Related Protein 2,D05.750.078.730.246.500
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actin-Related Protein 2-3 Complex.Actin-Related Protein 3,D05.750.078.730.246.750
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actinin,D05.750.078.730.248
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Actins,D05.750.078.730.250
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Cortactin,D05.750.078.730.281
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Filamins,D05.750.078.730.315
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Gelsolin,D05.750.078.730.350
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins,D05.750.078.730.475
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Heavy Chains,D05.750.078.730.475.100
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Light Chains,D05.750.078.730.475.200
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Subfragments,D05.750.078.730.475.300
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type I,D05.750.078.730.475.470
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type II,D05.750.078.730.475.475
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type II.Cardiac Myosins,D05.750.078.730.475.475.124
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type II.Cardiac Myosins.Atrial Myosins,D05.750.078.730.475.475.124.249
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type II.Cardiac Myosins.Ventricular Myosins,D05.750.078.730.475.475.124.500
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type II.Nonmuscle Myosin Type IIA,D05.750.078.730.475.475.249
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type II.Nonmuscle Myosin Type IIB,D05.750.078.730.475.475.500
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type II.Skeletal Muscle Myosins,D05.750.078.730.475.475.750
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type II.Smooth Muscle Myosins,D05.750.078.730.475.475.875
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type III,D05.750.078.730.475.612
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type IV,D05.750.078.730.475.681
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myosins.Myosin Type V,D05.750.078.730.475.750
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Myristoylated Alanine-Rich C Kinase Substrate,D05.750.078.730.556
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Profilins,D05.750.078.730.637
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Tensins,D05.750.078.730.719
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Tropomyosin,D05.750.078.730.800
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Troponin,D05.750.078.730.825
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Troponin.Troponin C,D05.750.078.730.825.900
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Troponin.Troponin I,D05.750.078.730.825.925
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Troponin.Troponin T,D05.750.078.730.825.962
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Wiskott-Aldrich Syndrome Protein Family,D05.750.078.730.912
+Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Wiskott-Aldrich Syndrome Protein Family.Wiskott-Aldrich Syndrome Protein,D05.750.078.730.912.500
+"Macromolecular Substances.Polymers.Biopolymers.Microfilament Proteins.Wiskott-Aldrich Syndrome Protein Family.Wiskott-Aldrich Syndrome Protein, Neuronal",D05.750.078.730.912.550
+Macromolecular Substances.Polymers.Biopolymers.Microtubule Proteins,D05.750.078.734
+Macromolecular Substances.Polymers.Biopolymers.Microtubule Proteins.Tubulin,D05.750.078.734.800
+Macromolecular Substances.Polymers.Biopolymers.Pectins,D05.750.078.738
+Macromolecular Substances.Polymers.Biopolymers.Plant Gums,D05.750.078.739
+Macromolecular Substances.Polymers.Biopolymers.Plant Gums.Chewing Gum,D05.750.078.739.249
+Macromolecular Substances.Polymers.Biopolymers.Plant Gums.Chewing Gum.Nicotine Chewing Gum,D05.750.078.739.249.500
+Macromolecular Substances.Polymers.Biopolymers.Plant Gums.Gum Arabic,D05.750.078.739.500
+Macromolecular Substances.Polymers.Biopolymers.Plant Gums.Karaya Gum,D05.750.078.739.625
+Macromolecular Substances.Polymers.Biopolymers.Plant Gums.Tragacanth,D05.750.078.739.750
+Macromolecular Substances.Polymers.Biopolymers.Plant Mucilage,D05.750.078.764
+Macromolecular Substances.Polymers.Biopolymers.Polyhydroxyalkanoates,D05.750.078.789
+"Macromolecular Substances.Polymers.Biopolymers.Resins, Plant",D05.750.078.840
+"Macromolecular Substances.Polymers.Biopolymers.Resins, Plant.Amber",D05.750.078.840.109
+"Macromolecular Substances.Polymers.Biopolymers.Resins, Plant.Balsams",D05.750.078.840.219
+"Macromolecular Substances.Polymers.Biopolymers.Resins, Plant.Frankincense",D05.750.078.840.490
+"Macromolecular Substances.Polymers.Biopolymers.Resins, Plant.Propolis",D05.750.078.840.762
+Macromolecular Substances.Polymers.Biopolymers.Reticulin,D05.750.078.850
+Macromolecular Substances.Polymers.Biopolymers.Silk,D05.750.078.875
+Macromolecular Substances.Polymers.Biopolymers.Silk.Fibroins,D05.750.078.875.500
+Macromolecular Substances.Polymers.Biopolymers.Silk.Sericins,D05.750.078.875.750
+Macromolecular Substances.Polymers.Biopolymers.Tannins,D05.750.078.937
+Macromolecular Substances.Polymers.Biopolymers.Tannins.Hydrolyzable Tannins,D05.750.078.937.214
+Macromolecular Substances.Polymers.Biopolymers.Tannins.Proanthocyanidins,D05.750.078.937.429
+Macromolecular Substances.Polymers.Colestipol,D05.750.200
+Macromolecular Substances.Polymers.Metal-Organic Frameworks,D05.750.215
+Macromolecular Substances.Polymers.Polyelectrolytes,D05.750.230
+Macromolecular Substances.Polymers.Cyanoacrylates,D05.750.259
+Macromolecular Substances.Polymers.Cyanoacrylates.Enbucrilate,D05.750.259.341
+Macromolecular Substances.Polymers.Cyanoacrylates.Enbucrilate.Bucrylate,D05.750.259.341.110
+Macromolecular Substances.Polymers.Dendrimers,D05.750.327
+Macromolecular Substances.Polymers.Fluorocarbon Polymers,D05.750.395
+Macromolecular Substances.Polymers.Fluorocarbon Polymers.Polytetrafluoroethylene,D05.750.395.616
+Macromolecular Substances.Polymers.Fluorocarbon Polymers.Polytetrafluoroethylene.Proplast,D05.750.395.616.755
+Macromolecular Substances.Polymers.Hexadimethrine Bromide,D05.750.470
+Macromolecular Substances.Polymers.Organically Modified Ceramics,D05.750.593
+Macromolecular Substances.Polymers.Plastics,D05.750.716
+Macromolecular Substances.Polymers.Plastics.Biodegradable Plastics,D05.750.716.195
+Macromolecular Substances.Polymers.Plastics.Nylons,D05.750.716.392
+Macromolecular Substances.Polymers.Plastics.Polyethylenes,D05.750.716.507
+Macromolecular Substances.Polymers.Plastics.Polyethylenes.Polyethylene,D05.750.716.507.500
+Macromolecular Substances.Polymers.Plastics.Polyethylenes.Polyethyleneimine,D05.750.716.507.600
+Macromolecular Substances.Polymers.Plastics.Polypropylenes,D05.750.716.550
+Macromolecular Substances.Polymers.Plastics.Polystyrenes,D05.750.716.579
+Macromolecular Substances.Polymers.Plastics.Polystyrenes.Cholestyramine Resin,D05.750.716.579.159
+Macromolecular Substances.Polymers.Plastics.Polyurethanes,D05.750.716.650
+Macromolecular Substances.Polymers.Plastics.Polyvinyls,D05.750.716.721
+Macromolecular Substances.Polymers.Plastics.Polyvinyls.Polyvinyl Alcohol,D05.750.716.721.616
+Macromolecular Substances.Polymers.Plastics.Polyvinyls.Polyvinyl Chloride,D05.750.716.721.812
+Macromolecular Substances.Polymers.Plastics.Polyvinyls.Povidone,D05.750.716.721.838
+Macromolecular Substances.Polymers.Plastics.Polyvinyls.Povidone.Povidone-Iodine,D05.750.716.721.838.745
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic",D05.750.716.822
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Acrylic Resins",D05.750.716.822.111
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Acrylic Resins.Polymethacrylic Acids",D05.750.716.822.111.650
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Acrylic Resins.Polymethacrylic Acids.Methylmethacrylates",D05.750.716.822.111.650.605
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Acrylic Resins.Polymethacrylic Acids.Methylmethacrylates.Methylmethacrylate",D05.750.716.822.111.650.605.450
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Acrylic Resins.Polymethacrylic Acids.Methylmethacrylates.Polymethyl Methacrylate",D05.750.716.822.111.650.605.500
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Acrylic Resins.Polymethacrylic Acids.Polyhydroxyethyl Methacrylate",D05.750.716.822.111.650.750
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Bone Cements",D05.750.716.822.300
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Composite Resins",D05.750.716.822.308
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Composite Resins.Bisphenol A-Glycidyl Methacrylate",D05.750.716.822.308.200
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Composite Resins.Compomers",D05.750.716.822.308.300
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Epoxy Resins",D05.750.716.822.461
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Epoxy Resins.Silorane Resins",D05.750.716.822.461.500
+"Macromolecular Substances.Polymers.Plastics.Resins, Synthetic.Resin Cements",D05.750.716.822.730
+Macromolecular Substances.Polymers.Polyanetholesulfonate,D05.750.722
+Macromolecular Substances.Polymers.Polyanhydrides,D05.750.725
+Macromolecular Substances.Polymers.Polyesters,D05.750.728
+Macromolecular Substances.Polymers.Polyesters.Polydioxanone,D05.750.728.700
+Macromolecular Substances.Polymers.Polyesters.Polyethylene Terephthalates,D05.750.728.764
+Macromolecular Substances.Polymers.Polyesters.Polyglactin 910,D05.750.728.772
+Macromolecular Substances.Polymers.Polyesters.Polyglycolic Acid,D05.750.728.780
+Macromolecular Substances.Polymers.Polyesters.Polyhydroxyalkanoates,D05.750.728.890
+Macromolecular Substances.Polymers.Polyethylene Glycols,D05.750.741
+Macromolecular Substances.Polymers.Polyethylene Glycols.Certolizumab Pegol,D05.750.741.125
+Macromolecular Substances.Polymers.Polyethylene Glycols.Cetomacrogol,D05.750.741.250
+"Macromolecular Substances.Polymers.Polyethylene Glycols.Hydrogel, Polyethylene Glycol Dimethacrylate",D05.750.741.485
+Macromolecular Substances.Polymers.Polyethylene Glycols.Nonoxynol,D05.750.741.575
+Macromolecular Substances.Polymers.Polyethylene Glycols.Octoxynol,D05.750.741.610
+Macromolecular Substances.Polymers.Polyethylene Glycols.Poloxalene,D05.750.741.650
+Macromolecular Substances.Polymers.Polyethylene Glycols.Poloxamer,D05.750.741.667
+Macromolecular Substances.Polymers.Polyethylene Glycols.Polyhydroxyethyl Methacrylate,D05.750.741.685
+Macromolecular Substances.Polymers.Polyethylene Glycols.Polysorbates,D05.750.741.700
+Macromolecular Substances.Polymers.Polygeline,D05.750.780
+Macromolecular Substances.Polymers.Polyphloretin Phosphate,D05.750.795
+Macromolecular Substances.Polymers.Pyran Copolymer,D05.750.830
+Macromolecular Substances.Polymers.Siloxanes,D05.750.900
+Macromolecular Substances.Polymers.Siloxanes.Silicones,D05.750.900.850
+Macromolecular Substances.Polymers.Siloxanes.Silicones.Dimethylpolysiloxanes,D05.750.900.850.150
+Macromolecular Substances.Polymers.Siloxanes.Silicones.Dimethylpolysiloxanes.Simethicone,D05.750.900.850.150.750
+Macromolecular Substances.Polymers.Siloxanes.Silicones.Silicone Elastomers,D05.750.900.850.900
+Macromolecular Substances.Polymers.Siloxanes.Silicones.Silicone Gels,D05.750.900.850.905
+Macromolecular Substances.Polymers.Siloxanes.Silicones.Silicone Oils,D05.750.900.850.950
+Macromolecular Substances.Polymers.Siloxanes.Silorane Resins,D05.750.900.925
+Macromolecular Substances.Protein Aggregates,D05.875

@@ -1,0 +1,518 @@
+id,value
+"Nucleic Acids, Nucleotides, and Nucleosides",D13
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics)",D13.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).DNA, Antisense",D13.150.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).DNA, Antisense.Oligodeoxyribonucleotides, Antisense",D13.150.200.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).Oligonucleotides, Antisense",D13.150.480
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).Oligonucleotides, Antisense.Oligodeoxyribonucleotides, Antisense",D13.150.480.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).Oligonucleotides, Antisense.Oligoribonucleotides, Antisense",D13.150.480.645
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).RNA, Antisense",D13.150.650
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).RNA, Antisense.MicroRNAs",D13.150.650.319
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).RNA, Antisense.MicroRNAs.Circulating MicroRNA",D13.150.650.319.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).RNA, Antisense.Oligoribonucleotides, Antisense",D13.150.650.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Antisense Elements (Genetics).RNA, Antisense.RNA, Small Interfering",D13.150.650.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acid Precursors",D13.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acid Precursors.RNA Precursors",D13.400.730
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids",D13.444
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Cell-Free Nucleic Acids",D13.444.154
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Cell-Free Nucleic Acids.Circulating MicroRNA",D13.444.154.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Cell-Free Nucleic Acids.Circulating Tumor DNA",D13.444.154.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA",D13.444.308
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Ancient",D13.444.308.065
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, A-Form",D13.444.308.130
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA Adducts",D13.444.308.135
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Algal",D13.444.308.148
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Antisense",D13.444.308.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Antisense.Oligodeoxyribonucleotides, Antisense",D13.444.308.150.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Archaeal",D13.444.308.180
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, B-Form",D13.444.308.196
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Bacterial",D13.444.308.212
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, C-Form",D13.444.308.227
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Catalytic",D13.444.308.243
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Circular",D13.444.308.283
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Circular.DNA, Catenated",D13.444.308.283.084
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Circular.DNA, Chloroplast",D13.444.308.283.170
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Circular.DNA, Mitochondrial",D13.444.308.283.225
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Circular.DNA, Mitochondrial.DNA, Kinetoplast",D13.444.308.283.225.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Circular.DNA, Superhelical",D13.444.308.283.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Concatenated",D13.444.308.291
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Cruciform",D13.444.308.295
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Fungal",D13.444.308.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Helminth",D13.444.308.315
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Intergenic",D13.444.308.324
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Intergenic.DNA, Ribosomal Spacer",D13.444.308.324.230
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Neoplasm",D13.444.308.425
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Neoplasm.Circulating Tumor DNA",D13.444.308.425.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Plant",D13.444.308.435
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Plant.DNA, Chloroplast",D13.444.308.435.275
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Protozoan",D13.444.308.442
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Protozoan.DNA, Kinetoplast",D13.444.308.442.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Recombinant",D13.444.308.460
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Ribosomal",D13.444.308.475
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Ribosomal.DNA, Ribosomal Spacer",D13.444.308.475.230
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Satellite",D13.444.308.480
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Single-Stranded",D13.444.308.497
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Single-Stranded.DNA, Complementary",D13.444.308.497.220
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA Transposable Elements",D13.444.308.520
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Viral",D13.444.308.568
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.DNA, Z-Form",D13.444.308.574
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.Isochores",D13.444.308.580
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.DNA.Retroelements",D13.444.308.760
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Immobilized Nucleic Acids",D13.444.404
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Heteroduplexes",D13.444.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes",D13.444.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Antisense Elements (Genetics)",D13.444.600.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Antisense Elements (Genetics).DNA, Antisense",D13.444.600.150.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Antisense Elements (Genetics).DNA, Antisense.Oligodeoxyribonucleotides, Antisense",D13.444.600.150.200.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Antisense Elements (Genetics).Oligonucleotides, Antisense",D13.444.600.150.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Antisense Elements (Genetics).Oligonucleotides, Antisense.Oligodeoxyribonucleotides, Antisense",D13.444.600.150.640.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Antisense Elements (Genetics).Oligonucleotides, Antisense.Oligoribonucleotides, Antisense",D13.444.600.150.640.645
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Antisense Elements (Genetics).RNA, Antisense",D13.444.600.150.760
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Antisense Elements (Genetics).RNA, Antisense.Oligoribonucleotides, Antisense",D13.444.600.150.760.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.DNA Probes",D13.444.600.223
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.DNA Probes.DNA, Complementary",D13.444.600.223.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.DNA Probes.DNA Probes, HLA",D13.444.600.223.550
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.DNA Probes.DNA Probes, HPV",D13.444.600.223.555
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.Oligonucleotide Probes",D13.444.600.601
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.RNA Probes",D13.444.600.723
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.Nucleic Acid Probes.RNA Probes.RNA, Complementary",D13.444.600.723.480
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA",D13.444.735
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA Isoforms",D13.444.735.064
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Algal",D13.444.735.130
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Antisense",D13.444.735.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Antisense.MicroRNAs",D13.444.735.150.319
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Antisense.MicroRNAs.Circulating MicroRNA",D13.444.735.150.319.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Antisense.Oligoribonucleotides, Antisense",D13.444.735.150.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Antisense.RNA, Small Interfering",D13.444.735.150.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Archaeal",D13.444.735.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Bacterial",D13.444.735.473
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Complementary",D13.444.735.480
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Double-Stranded",D13.444.735.490
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Fungal",D13.444.735.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Helminth",D13.444.735.520
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger",D13.444.735.544
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.Codon",D13.444.735.544.355
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.Codon.Codon, Initiator",D13.444.735.544.355.225
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.Codon.Codon, Terminator",D13.444.735.544.355.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.Codon.Codon, Terminator.Codon, Nonsense",D13.444.735.544.355.250.235
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.Riboswitch",D13.444.735.544.427
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.RNA Caps",D13.444.735.544.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.RNA Caps.RNA Cap Analogs",D13.444.735.544.500.710
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.RNA, Messenger, Stored",D13.444.735.544.527
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.RNA Splice Sites",D13.444.735.544.550
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.Untranslated Regions",D13.444.735.544.875
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.Untranslated Regions.3' Untranslated Regions",D13.444.735.544.875.880
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Messenger.Untranslated Regions.5' Untranslated Regions",D13.444.735.544.875.885
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Neoplasm",D13.444.735.615
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Nuclear",D13.444.735.628
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Nuclear.RNA, Heterogeneous Nuclear",D13.444.735.628.806
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Nuclear.RNA, Small Nuclear",D13.444.735.628.818
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Nuclear.RNA, Small Nuclear.RNA, Small Nucleolar",D13.444.735.628.818.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Plant",D13.444.735.635
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Plant.RNA, Chloroplast",D13.444.735.635.575
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA Precursors",D13.444.735.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Protozoan",D13.444.735.650
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Ribosomal",D13.444.735.686
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Ribosomal.RNA, Ribosomal, 5S",D13.444.735.686.650
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Ribosomal.RNA, Ribosomal, 5.8S",D13.444.735.686.660
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Ribosomal.RNA, Ribosomal, 16S",D13.444.735.686.670
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Ribosomal.RNA, Ribosomal, 18S",D13.444.735.686.675
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Ribosomal.RNA, Ribosomal, 23S",D13.444.735.686.680
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Ribosomal.RNA, Ribosomal, 28S",D13.444.735.686.690
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Ribosomal.RNA, Ribosomal, Self-Splicing",D13.444.735.686.845
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Satellite",D13.444.735.721
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Satellite.Cucumber Mosaic Virus Satellite",D13.444.735.721.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer",D13.444.735.757
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.Anticodon",D13.444.735.757.286
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific",D13.444.735.757.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Ala",D13.444.735.757.700.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Arg",D13.444.735.757.700.075
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Asn",D13.444.735.757.700.085
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Asp",D13.444.735.757.700.090
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Cys",D13.444.735.757.700.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Gln",D13.444.735.757.700.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Glu",D13.444.735.757.700.410
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Gly",D13.444.735.757.700.420
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, His",D13.444.735.757.700.450
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Ile",D13.444.735.757.700.480
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Leu",D13.444.735.757.700.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Lys",D13.444.735.757.700.510
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Met",D13.444.735.757.700.525
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Phe",D13.444.735.757.700.650
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Pro",D13.444.735.757.700.660
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Ser",D13.444.735.757.700.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Thr",D13.444.735.757.700.725
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Trp",D13.444.735.757.700.740
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Tyr",D13.444.735.757.700.750
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acid-Specific.RNA, Transfer, Val",D13.444.735.757.700.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Transfer.RNA, Transfer, Amino Acyl",D13.444.735.757.715
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated",D13.444.735.790
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Catalytic",D13.444.735.790.199
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Long Noncoding",D13.444.735.790.375
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated",D13.444.735.790.552
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated.MicroRNAs",D13.444.735.790.552.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated.MicroRNAs.Circulating MicroRNA",D13.444.735.790.552.500.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated.RNA, Guide",D13.444.735.790.552.625
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated.RNA, Small Cytoplasmic",D13.444.735.790.552.750
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated.RNA, Small Interfering",D13.444.735.790.552.875
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated.RNA, Small Nuclear",D13.444.735.790.552.937
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated.RNA, Small Nuclear.RNA, Small Nucleolar",D13.444.735.790.552.937.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.RNA, Small Untranslated.RNA, Spliced Leader",D13.444.735.790.552.968
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.Untranslated Regions",D13.444.735.790.878
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.Untranslated Regions.3' Untranslated Regions",D13.444.735.790.878.880
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.Untranslated Regions.5' Untranslated Regions",D13.444.735.790.878.885
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.Untranslated Regions.Regulatory Sequences, Ribonucleic Acid",D13.444.735.790.878.942
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.Untranslated Regions.Regulatory Sequences, Ribonucleic Acid.Internal Ribosome Entry Sites",D13.444.735.790.878.942.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Untranslated.Untranslated Regions.Regulatory Sequences, Ribonucleic Acid.Riboswitch",D13.444.735.790.878.942.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleic Acids.RNA.RNA, Viral",D13.444.735.828
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides",D13.570
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Arabinonucleosides",D13.570.065
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Arabinonucleosides.Arabinofuranosyluracil",D13.570.065.090
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Arabinonucleosides.Cytarabine",D13.570.065.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Arabinonucleosides.Cytarabine.Ancitabine",D13.570.065.300.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Arabinonucleosides.Vidarabine",D13.570.065.950
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides",D13.570.230
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyadenosines",D13.570.230.229
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyadenosines.Cladribine",D13.570.230.229.075
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyadenosines.Dideoxyadenosine",D13.570.230.229.105
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyadenosines.Puromycin Aminonucleoside",D13.570.230.229.650
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxycytidine",D13.570.230.329
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxycytidine.Bromodeoxycytidine",D13.570.230.329.100
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxycytidine.Capecitabine",D13.570.230.329.313
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxycytidine.Emtricitabine",D13.570.230.329.525
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxycytidine.Emtricitabine.Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination",D13.570.230.329.525.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxycytidine.Emtricitabine.Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination",D13.570.230.329.525.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxycytidine.Zalcitabine",D13.570.230.329.950
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxycytidine.Zalcitabine.Lamivudine",D13.570.230.329.950.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyguanosine",D13.570.230.360
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyuridine",D13.570.230.430
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyuridine.Bromodeoxyuridine",D13.570.230.430.196
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyuridine.Floxuridine",D13.570.230.430.432
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Deoxyuridine.Idoxuridine",D13.570.230.430.609
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Dideoxynucleosides",D13.570.230.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Dideoxynucleosides.Didanosine",D13.570.230.500.090
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Dideoxynucleosides.Dideoxyadenosine",D13.570.230.500.105
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Dideoxynucleosides.Stavudine",D13.570.230.500.850
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Dideoxynucleosides.Zalcitabine",D13.570.230.500.925
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Dideoxynucleosides.Zalcitabine.Lamivudine",D13.570.230.500.925.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Dideoxynucleosides.Zidovudine",D13.570.230.500.950
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Pentostatin",D13.570.230.677
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Thymidine",D13.570.230.855
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Thymidine.Stavudine",D13.570.230.855.875
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Thymidine.Trifluridine",D13.570.230.855.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Deoxyribonucleosides.Thymidine.Zidovudine",D13.570.230.855.950
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides",D13.570.583
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine",D13.570.583.138
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Adenosine-5'-(N-ethylcarboxamide)",D13.570.583.138.025
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.S-Adenosylhomocysteine",D13.570.583.138.240
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.S-Adenosylmethionine",D13.570.583.138.264
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.2-Chloroadenosine",D13.570.583.138.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.2-Chloroadenosine.Cladribine",D13.570.583.138.300.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Deoxyadenosines",D13.570.583.138.325
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Deoxyadenosines.Cladribine",D13.570.583.138.325.075
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Deoxyadenosines.Dideoxyadenosine",D13.570.583.138.325.105
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Deoxyadenosines.Puromycin Aminonucleoside",D13.570.583.138.325.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Isopentenyladenosine",D13.570.583.138.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Phenylisopropyladenosine",D13.570.583.138.630
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Puromycin",D13.570.583.138.711
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Puromycin.Puromycin Aminonucleoside",D13.570.583.138.711.650
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Adenosine.Vidarabine",D13.570.583.138.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Guanosine",D13.570.583.454
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Guanosine.Deoxyguanosine",D13.570.583.454.240
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Guanosine.Nucleoside Q",D13.570.583.454.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Inosine",D13.570.583.616
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Inosine.Didanosine",D13.570.583.616.130
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Inosine.Inosine Pranobex",D13.570.583.616.450
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Inosine.Thioinosine",D13.570.583.616.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Inosine.Thioinosine.Methylthioinosine",D13.570.583.616.900.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Purine Nucleosides.Tubercidin",D13.570.583.910
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides",D13.570.685
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine",D13.570.685.245
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Azacitidine",D13.570.685.245.217
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Cytarabine",D13.570.685.245.453
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Cytarabine.Ancitabine",D13.570.685.245.453.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Deoxycytidine",D13.570.685.245.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Deoxycytidine.Bromodeoxycytidine",D13.570.685.245.500.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Deoxycytidine.Capecitabine",D13.570.685.245.500.425
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Deoxycytidine.Emtricitabine",D13.570.685.245.500.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Deoxycytidine.Emtricitabine.Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination",D13.570.685.245.500.600.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Deoxycytidine.Emtricitabine.Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination",D13.570.685.245.500.600.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Deoxycytidine.Zalcitabine",D13.570.685.245.500.950
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Cytidine.Deoxycytidine.Zalcitabine.Lamivudine",D13.570.685.245.500.950.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Formycins",D13.570.685.350
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Formycins.Coformycin",D13.570.685.350.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Formycins.Coformycin.Pentostatin",D13.570.685.350.200.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Thymidine",D13.570.685.705
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Thymidine.Stavudine",D13.570.685.705.875
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Thymidine.Trifluridine",D13.570.685.705.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Thymidine.Zidovudine",D13.570.685.705.950
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Tunicamycin",D13.570.685.725
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine",D13.570.685.852
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Arabinofuranosyluracil",D13.570.685.852.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Azauridine",D13.570.685.852.176
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.3-Deazauridine",D13.570.685.852.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Deoxyuridine",D13.570.685.852.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Deoxyuridine.Bromodeoxyuridine",D13.570.685.852.300.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Deoxyuridine.Floxuridine",D13.570.685.852.300.350
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Deoxyuridine.Idoxuridine",D13.570.685.852.300.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Pseudouridine",D13.570.685.852.628
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Tetrahydrouridine",D13.570.685.852.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Pyrimidine Nucleosides.Uridine.Thiouridine",D13.570.685.852.829
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides",D13.570.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Adenosine",D13.570.800.096
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Adenosine.Adenosine-5'-(N-ethylcarboxamide)",D13.570.800.096.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Adenosine.S-Adenosylhomocysteine",D13.570.800.096.262
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Adenosine.S-Adenosylmethionine",D13.570.800.096.264
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Adenosine.2-Chloroadenosine",D13.570.800.096.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Adenosine.2-Chloroadenosine.Cladribine",D13.570.800.096.300.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Adenosine.Isopentenyladenosine",D13.570.800.096.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Adenosine.Phenylisopropyladenosine",D13.570.800.096.630
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Cytidine",D13.570.800.286
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Cytidine.Azacitidine",D13.570.800.286.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Dichlororibofuranosylbenzimidazole",D13.570.800.330
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Formycins",D13.570.800.410
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Formycins.Coformycin",D13.570.800.410.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Guanosine",D13.570.800.453
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Guanosine.Nucleoside Q",D13.570.800.453.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Inosine",D13.570.800.573
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Inosine.Didanosine",D13.570.800.573.130
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Inosine.Inosine Pranobex",D13.570.800.573.450
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Inosine.Thioinosine",D13.570.800.573.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Inosine.Thioinosine.Methylthioinosine",D13.570.800.573.900.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Ribavirin",D13.570.800.790
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Showdomycin",D13.570.800.810
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Toyocamycin",D13.570.800.840
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Tubercidin",D13.570.800.850
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Uridine",D13.570.800.892
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Uridine.Azauridine",D13.570.800.892.176
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Uridine.3-Deazauridine",D13.570.800.892.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Uridine.Pseudouridine",D13.570.800.892.628
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Uridine.Tetrahydrouridine",D13.570.800.892.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Ribonucleosides.Uridine.Thiouridine",D13.570.800.892.829
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Thionucleosides",D13.570.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Thionucleosides.Azathioprine",D13.570.900.111
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Thionucleosides.Thioinosine",D13.570.900.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Thionucleosides.Thioinosine.Methylthioinosine",D13.570.900.800.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleosides.Thionucleosides.Thiouridine",D13.570.900.829
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides",D13.695
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Arabinonucleotides",D13.695.065
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Arabinonucleotides.Arabinofuranosylcytosine Triphosphate",D13.695.065.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Arabinonucleotides.Vidarabine Phosphate",D13.695.065.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides",D13.695.201
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Deoxyadenine Nucleotides",D13.695.201.100
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Deoxycytosine Nucleotides",D13.695.201.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Deoxycytosine Nucleotides.Deoxycytidine Monophosphate",D13.695.201.150.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Deoxyguanine Nucleotides",D13.695.201.175
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Deoxyuracil Nucleotides",D13.695.201.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Deoxyuracil Nucleotides.Fluorodeoxyuridylate",D13.695.201.200.270
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Nucleoside Diphosphate Sugars",D13.695.201.486
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Thymine Nucleotides",D13.695.201.789
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Deoxyribonucleotides.Thymine Nucleotides.Thymidine Monophosphate",D13.695.201.789.788
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Dideoxynucleotides",D13.695.225
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Dinucleoside Phosphates",D13.695.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Nucleotides, Cyclic",D13.695.462
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Nucleotides, Cyclic.Cyclic AMP",D13.695.462.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Nucleotides, Cyclic.Cyclic AMP.8-Bromo Cyclic Adenosine Monophosphate",D13.695.462.200.225
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Nucleotides, Cyclic.Cyclic AMP.Bucladesine",D13.695.462.200.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Nucleotides, Cyclic.Cyclic CMP",D13.695.462.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Nucleotides, Cyclic.Cyclic GMP",D13.695.462.275
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Nucleotides, Cyclic.Cyclic GMP.Dibutyryl Cyclic GMP",D13.695.462.275.325
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Nucleotides, Cyclic.Cyclic IMP",D13.695.462.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides",D13.695.578
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides",D13.695.578.424
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Antagomirs",D13.695.578.424.112
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Aptamers, Nucleotide",D13.695.578.424.224
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Morpholinos",D13.695.578.424.337
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Oligodeoxyribonucleotides",D13.695.578.424.450
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Oligodeoxyribonucleotides.DNA Primers",D13.695.578.424.450.275
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Oligonucleotides, Antisense",D13.695.578.424.480
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Oligonucleotides, Antisense.Oligodeoxyribonucleotides, Antisense",D13.695.578.424.480.640
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Oligonucleotides, Antisense.Oligoribonucleotides, Antisense",D13.695.578.424.480.645
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Oligoribonucleotides",D13.695.578.424.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Peptide Nucleic Acids",D13.695.578.424.550
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Phosphorothioate Oligonucleotides",D13.695.578.424.575
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Oligonucleotides.Pyrimidine Dimers",D13.695.578.424.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polydeoxyribonucleotides",D13.695.578.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polydeoxyribonucleotides.Apurinic Acid",D13.695.578.500.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polydeoxyribonucleotides.Poly dA-dT",D13.695.578.500.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polydeoxyribonucleotides.Poly T",D13.695.578.500.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides",D13.695.578.550
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Apurinic Acid",D13.695.578.550.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly A",D13.695.578.550.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly A.Poly A-U",D13.695.578.550.500.510
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly Adenosine Diphosphate Ribose",D13.695.578.550.530
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly C",D13.695.578.550.560
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly C.Poly I-C",D13.695.578.550.560.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly G",D13.695.578.550.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly I",D13.695.578.550.650
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly I.Poly I-C",D13.695.578.550.650.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly U",D13.695.578.550.750
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Polynucleotides.Polyribonucleotides.Poly U.Poly A-U",D13.695.578.550.750.510
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides",D13.695.667
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides",D13.695.667.138
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Diphosphate",D13.695.667.138.124
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars",D13.695.667.138.124.070
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars.Adenosine Diphosphate Glucose",D13.695.667.138.124.070.075
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose",D13.695.667.138.124.070.125
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.O-Acetyl-ADP-Ribose",D13.695.667.138.124.070.125.040
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.Cyclic ADP-Ribose",D13.695.667.138.124.070.125.195
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Monophosphate",D13.695.667.138.180
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Monophosphate.Adenosine Phosphosulfate",D13.695.667.138.180.080
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Triphosphate",D13.695.667.138.236
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Triphosphate.Adenylyl Imidodiphosphate",D13.695.667.138.236.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Adenosine Triphosphate.Ethenoadenosine Triphosphate",D13.695.667.138.236.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Coenzyme A",D13.695.667.138.382
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Coenzyme A.Acyl Coenzyme A",D13.695.667.138.382.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Coenzyme A.Acyl Coenzyme A.Acetyl Coenzyme A",D13.695.667.138.382.300.020
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Coenzyme A.Acyl Coenzyme A.Malonyl Coenzyme A",D13.695.667.138.382.300.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Coenzyme A.Acyl Coenzyme A.Palmitoyl Coenzyme A",D13.695.667.138.382.300.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Cyclic AMP",D13.695.667.138.395
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Cyclic AMP.8-Bromo Cyclic Adenosine Monophosphate",D13.695.667.138.395.225
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Cyclic AMP.Bucladesine",D13.695.667.138.395.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Deoxyadenine Nucleotides",D13.695.667.138.410
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Flavin-Adenine Dinucleotide",D13.695.667.138.506
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.NAD",D13.695.667.138.694
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.NADP",D13.695.667.138.749
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Phosphoadenosine Phosphosulfate",D13.695.667.138.850
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Adenine Nucleotides.Vidarabine Phosphate",D13.695.667.138.925
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides",D13.695.667.454
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Cyclic GMP",D13.695.667.454.160
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Cyclic GMP.Dibutyryl Cyclic GMP",D13.695.667.454.160.325
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Deoxyguanine Nucleotides",D13.695.667.454.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Diphosphate",D13.695.667.454.340
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Diphosphate.Guanosine Diphosphate Sugars",D13.695.667.454.340.350
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Diphosphate.Guanosine Diphosphate Sugars.Guanosine Diphosphate Fucose",D13.695.667.454.340.350.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Diphosphate.Guanosine Diphosphate Sugars.Guanosine Diphosphate Mannose",D13.695.667.454.340.350.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Pentaphosphate",D13.695.667.454.440
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Tetraphosphate",D13.695.667.454.480
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Triphosphate",D13.695.667.454.504
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Triphosphate.Guanosine 5'-O-(3-Thiotriphosphate)",D13.695.667.454.504.380
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Triphosphate.Guanylyl Imidodiphosphate",D13.695.667.454.504.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.Guanosine Monophosphate",D13.695.667.454.525
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.RNA Caps",D13.695.667.454.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Guanine Nucleotides.RNA Caps.RNA Cap Analogs",D13.695.667.454.700.710
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Inosine Nucleotides",D13.695.667.616
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Inosine Nucleotides.Cyclic IMP",D13.695.667.616.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Inosine Nucleotides.Inosine Diphosphate",D13.695.667.616.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Inosine Nucleotides.Inosine Monophosphate",D13.695.667.616.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Purine Nucleotides.Inosine Nucleotides.Inosine Triphosphate",D13.695.667.616.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides",D13.695.740
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Apurinic Acid",D13.695.740.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides",D13.695.740.246
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Arabinofuranosylcytosine Triphosphate",D13.695.740.246.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Cyclic CMP",D13.695.740.246.115
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Cytidine Diphosphate",D13.695.740.246.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Cytidine Diphosphate.Cytidine Diphosphate Choline",D13.695.740.246.150.180
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Cytidine Diphosphate.Cytidine Diphosphate Diglycerides",D13.695.740.246.150.210
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Cytidine Monophosphate",D13.695.740.246.370
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Cytidine Monophosphate.Cytidine Monophosphate N-Acetylneuraminic Acid",D13.695.740.246.370.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Cytidine Triphosphate",D13.695.740.246.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Deoxycytosine Nucleotides",D13.695.740.246.425
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Cytosine Nucleotides.Deoxycytosine Nucleotides.Deoxycytidine Monophosphate",D13.695.740.246.425.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Pyrimidine Dimers",D13.695.740.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Thymine Nucleotides",D13.695.740.706
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Thymine Nucleotides.Thymidine Monophosphate",D13.695.740.706.788
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides",D13.695.740.850
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Deoxyuracil Nucleotides",D13.695.740.850.210
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Deoxyuracil Nucleotides.Fluorodeoxyuridylate",D13.695.740.850.210.200
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate",D13.695.740.850.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars",D13.695.740.850.600.677
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylgalactosamine",D13.695.740.850.600.677.100
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylglucosamine",D13.695.740.850.600.677.120
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylmuramic Acid",D13.695.740.850.600.677.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate Galactose",D13.695.740.850.600.677.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate Glucose",D13.695.740.850.600.677.350
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate Glucuronic Acid",D13.695.740.850.600.677.375
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate Xylose",D13.695.740.850.600.677.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Monophosphate",D13.695.740.850.877
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Monophosphate.Sofosbuvir",D13.695.740.850.877.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Pyrimidine Nucleotides.Uracil Nucleotides.Uridine Triphosphate",D13.695.740.850.950
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides",D13.695.827
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides",D13.695.827.068
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Diphosphate",D13.695.827.068.124
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars",D13.695.827.068.124.070
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars.Adenosine Diphosphate Glucose",D13.695.827.068.124.070.075
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose",D13.695.827.068.124.070.125
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.O-Acetyl-ADP-Ribose",D13.695.827.068.124.070.125.040
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Diphosphate.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.Cyclic ADP-Ribose",D13.695.827.068.124.070.125.195
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Monophosphate",D13.695.827.068.180
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Monophosphate.Adenosine Phosphosulfate",D13.695.827.068.180.080
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Triphosphate",D13.695.827.068.236
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Triphosphate.Adenylyl Imidodiphosphate",D13.695.827.068.236.050
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Adenosine Triphosphate.Ethenoadenosine Triphosphate",D13.695.827.068.236.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Coenzyme A",D13.695.827.068.382
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Coenzyme A.Acyl Coenzyme A",D13.695.827.068.382.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Coenzyme A.Acyl Coenzyme A.Acetyl Coenzyme A",D13.695.827.068.382.300.020
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Coenzyme A.Acyl Coenzyme A.Malonyl Coenzyme A",D13.695.827.068.382.300.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Coenzyme A.Acyl Coenzyme A.Palmitoyl Coenzyme A",D13.695.827.068.382.300.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Cyclic AMP",D13.695.827.068.395
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Cyclic AMP.8-Bromo Cyclic Adenosine Monophosphate",D13.695.827.068.395.225
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Cyclic AMP.Bucladesine",D13.695.827.068.395.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Flavin-Adenine Dinucleotide",D13.695.827.068.506
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.NAD",D13.695.827.068.694
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.NADP",D13.695.827.068.749
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Adenine Nucleotides.Phosphoadenosine Phosphosulfate",D13.695.827.068.850
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Cytosine Nucleotides",D13.695.827.232
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Cytosine Nucleotides.Cyclic CMP",D13.695.827.232.115
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Cytosine Nucleotides.Cytidine Diphosphate",D13.695.827.232.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Cytosine Nucleotides.Cytidine Diphosphate.Cytidine Diphosphate Choline",D13.695.827.232.150.180
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Cytosine Nucleotides.Cytidine Diphosphate.Cytidine Diphosphate Diglycerides",D13.695.827.232.150.210
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Cytosine Nucleotides.Cytidine Monophosphate",D13.695.827.232.370
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Cytosine Nucleotides.Cytidine Monophosphate.Cytidine Monophosphate N-Acetylneuraminic Acid",D13.695.827.232.370.250
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Cytosine Nucleotides.Cytidine Triphosphate",D13.695.827.232.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Flavin Mononucleotide",D13.695.827.349
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides",D13.695.827.426
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Cyclic GMP",D13.695.827.426.160
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Cyclic GMP.Dibutyryl Cyclic GMP",D13.695.827.426.160.325
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Diphosphate",D13.695.827.426.340
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Diphosphate.Guanosine Diphosphate Sugars",D13.695.827.426.340.350
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Diphosphate.Guanosine Diphosphate Sugars.Guanosine Diphosphate Fucose",D13.695.827.426.340.350.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Diphosphate.Guanosine Diphosphate Sugars.Guanosine Diphosphate Mannose",D13.695.827.426.340.350.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Pentaphosphate",D13.695.827.426.440
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Tetraphosphate",D13.695.827.426.480
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Triphosphate",D13.695.827.426.504
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Triphosphate.Guanosine 5'-O-(3-Thiotriphosphate)",D13.695.827.426.504.380
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Triphosphate.Guanylyl Imidodiphosphate",D13.695.827.426.504.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.Guanosine Monophosphate",D13.695.827.426.525
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.RNA Caps",D13.695.827.426.700
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Guanine Nucleotides.RNA Caps.RNA Cap Analogs",D13.695.827.426.700.710
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Inosine Nucleotides",D13.695.827.519
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Inosine Nucleotides.Cyclic IMP",D13.695.827.519.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Inosine Nucleotides.Inosine Diphosphate",D13.695.827.519.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Inosine Nucleotides.Inosine Monophosphate",D13.695.827.519.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Inosine Nucleotides.Inosine Triphosphate",D13.695.827.519.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nicotinamide Mononucleotide",D13.695.827.648
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars",D13.695.827.708
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars",D13.695.827.708.070
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Glucose",D13.695.827.708.070.075
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose",D13.695.827.708.070.125
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.O-Acetyl-ADP-Ribose",D13.695.827.708.070.125.040
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.Cyclic ADP-Ribose",D13.695.827.708.070.125.195
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.Poly Adenosine Diphosphate Ribose",D13.695.827.708.070.125.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Cytidine Diphosphate Diglycerides",D13.695.827.708.260
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Guanosine Diphosphate Sugars",D13.695.827.708.400
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Guanosine Diphosphate Sugars.Guanosine Diphosphate Fucose",D13.695.827.708.400.410
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Guanosine Diphosphate Sugars.Guanosine Diphosphate Mannose",D13.695.827.708.400.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars",D13.695.827.708.727
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylgalactosamine",D13.695.827.708.727.100
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylglucosamine",D13.695.827.708.727.120
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylmuramic Acid",D13.695.827.708.727.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate Galactose",D13.695.827.708.727.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate Glucose",D13.695.827.708.727.350
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate Glucuronic Acid",D13.695.827.708.727.375
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate Xylose",D13.695.827.708.727.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides",D13.695.827.919
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate",D13.695.827.919.600
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars",D13.695.827.919.600.677
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylgalactosamine",D13.695.827.919.600.677.100
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylglucosamine",D13.695.827.919.600.677.120
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylmuramic Acid",D13.695.827.919.600.677.150
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate Galactose",D13.695.827.919.600.677.300
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate Glucose",D13.695.827.919.600.677.350
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate Glucuronic Acid",D13.695.827.919.600.677.375
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Diphosphate.Uridine Diphosphate Sugars.Uridine Diphosphate Xylose",D13.695.827.919.600.677.800
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Monophosphate",D13.695.827.919.877
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Monophosphate.Sofosbuvir",D13.695.827.919.877.500
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Ribonucleotides.Uracil Nucleotides.Uridine Triphosphate",D13.695.827.919.950
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Thionucleotides",D13.695.900
+"Nucleic Acids, Nucleotides, and Nucleosides.Nucleotides.Thionucleotides.Guanosine 5'-O-(3-Thiotriphosphate)",D13.695.900.380

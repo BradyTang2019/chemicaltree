@@ -1,0 +1,107 @@
+id,value
+Pharmaceutical Preparations,D26
+Pharmaceutical Preparations.Controlled Substances,D26.049
+Pharmaceutical Preparations.Cosmeceuticals,D26.074
+Pharmaceutical Preparations.Counterfeit Drugs,D26.099
+Pharmaceutical Preparations.Designer Drugs,D26.200
+Pharmaceutical Preparations.Dosage Forms,D26.255
+Pharmaceutical Preparations.Dosage Forms.Abuse-Deterrent Formulations,D26.255.075
+Pharmaceutical Preparations.Dosage Forms.Capsules,D26.255.150
+Pharmaceutical Preparations.Dosage Forms.Colloids,D26.255.165
+Pharmaceutical Preparations.Dosage Forms.Colloids.Aerosols,D26.255.165.055
+Pharmaceutical Preparations.Dosage Forms.Colloids.Aerosols.Aerosol Propellants,D26.255.165.055.055
+Pharmaceutical Preparations.Dosage Forms.Colloids.Aerosols.Nasal Sprays,D26.255.165.055.291
+Pharmaceutical Preparations.Dosage Forms.Colloids.Aerosols.Oral Sprays,D26.255.165.055.527
+Pharmaceutical Preparations.Dosage Forms.Colloids.Emulsions,D26.255.165.260
+"Pharmaceutical Preparations.Dosage Forms.Colloids.Emulsions.Fat Emulsions, Intravenous",D26.255.165.260.270
+Pharmaceutical Preparations.Dosage Forms.Colloids.Gels,D26.255.165.320
+Pharmaceutical Preparations.Dosage Forms.Colloids.Gels.Hydrogels,D26.255.165.320.375
+Pharmaceutical Preparations.Dosage Forms.Colloids.Gels.Hydrogels.Cryogels,D26.255.165.320.375.187
+"Pharmaceutical Preparations.Dosage Forms.Colloids.Gels.Hydrogels.Hydrogel, Polyethylene Glycol Dimethacrylate",D26.255.165.320.375.375
+Pharmaceutical Preparations.Dosage Forms.Colloids.Gels.Silica Gel,D26.255.165.320.687
+Pharmaceutical Preparations.Dosage Forms.Colloids.Suspensions,D26.255.165.810
+Pharmaceutical Preparations.Dosage Forms.Delayed-Action Preparations,D26.255.210
+Pharmaceutical Preparations.Dosage Forms.Delayed-Action Preparations.Drug Implants,D26.255.210.315
+"Pharmaceutical Preparations.Dosage Forms.Delayed-Action Preparations.Tablets, Enteric-Coated",D26.255.210.860
+Pharmaceutical Preparations.Dosage Forms.Drug Carriers,D26.255.260
+Pharmaceutical Preparations.Dosage Forms.Drug Carriers.Liposomes,D26.255.260.517
+Pharmaceutical Preparations.Dosage Forms.Drug Carriers.Nanocapsules,D26.255.260.575
+Pharmaceutical Preparations.Dosage Forms.Drug Carriers.Nanoconjugates,D26.255.260.600
+Pharmaceutical Preparations.Dosage Forms.Drug Carriers.Virosomes,D26.255.260.900
+Pharmaceutical Preparations.Dosage Forms.Liniments,D26.255.480
+Pharmaceutical Preparations.Dosage Forms.Micelles,D26.255.560
+Pharmaceutical Preparations.Dosage Forms.Ointments,D26.255.640
+Pharmaceutical Preparations.Dosage Forms.Powders,D26.255.779
+Pharmaceutical Preparations.Dosage Forms.Suppositories,D26.255.785
+Pharmaceutical Preparations.Dosage Forms.Tablets,D26.255.830
+"Pharmaceutical Preparations.Dosage Forms.Tablets.Tablets, Enteric-Coated",D26.255.830.860
+"Pharmaceutical Preparations.Dosage Forms.Vaginal Creams, Foams, and Jellies",D26.255.955
+Pharmaceutical Preparations.Drug Combinations,D26.310
+"Pharmaceutical Preparations.Drug Combinations.Adapalene, Benzoyl Peroxide Drug Combination",D26.310.032
+Pharmaceutical Preparations.Drug Combinations.Aminophylline,D26.310.048
+"Pharmaceutical Preparations.Drug Combinations.Amlodipine Besylate, Olmesartan Medoxomil Drug Combination",D26.310.063
+"Pharmaceutical Preparations.Drug Combinations.Amlodipine, Valsartan Drug Combination",D26.310.094
+"Pharmaceutical Preparations.Drug Combinations.Aspirin, Dipyridamole Drug Combination",D26.310.125
+Pharmaceutical Preparations.Drug Combinations.Biphasic Insulins,D26.310.249
+"Pharmaceutical Preparations.Drug Combinations.Brimonidine Tartrate, Timolol Maleate Drug Combination",D26.310.312
+"Pharmaceutical Preparations.Drug Combinations.Albuterol, Ipratropium Drug Combination",D26.310.344
+"Pharmaceutical Preparations.Drug Combinations.Budesonide, Formoterol Fumarate Drug Combination",D26.310.348
+"Pharmaceutical Preparations.Drug Combinations.Buprenorphine, Naloxone Drug Combination",D26.310.352
+"Pharmaceutical Preparations.Drug Combinations.Contraceptives, Oral, Combined",D26.310.360
+Pharmaceutical Preparations.Drug Combinations.Dimenhydrinate,D26.310.368
+"Pharmaceutical Preparations.Drug Combinations.Efavirenz, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination",D26.310.375
+"Pharmaceutical Preparations.Drug Combinations.Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination",D26.310.391
+"Pharmaceutical Preparations.Drug Combinations.Emtricitabine, Rilpivirine, Tenofovir Drug Combination",D26.310.407
+"Pharmaceutical Preparations.Drug Combinations.Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination",D26.310.423
+"Pharmaceutical Preparations.Drug Combinations.Ezetimibe, Simvastatin Drug Combination",D26.310.431
+Pharmaceutical Preparations.Drug Combinations.Fluticasone-Salmeterol Drug Combination,D26.310.438
+"Pharmaceutical Preparations.Drug Combinations.Mometasone Furoate, Formoterol Fumarate Drug Combination",D26.310.469
+"Pharmaceutical Preparations.Drug Combinations.Multi-Ingredient Cold, Flu, and Allergy Medications",D26.310.500
+"Pharmaceutical Preparations.Drug Combinations.Sitagliptin Phosphate, Metformin Hydrochloride Drug Combination",D26.310.750
+"Pharmaceutical Preparations.Drug Combinations.Trimethoprim, Sulfamethoxazole Drug Combination",D26.310.875
+"Pharmaceutical Preparations.Drugs, Chinese Herbal",D26.335
+"Pharmaceutical Preparations.Drugs, Essential",D26.355
+"Pharmaceutical Preparations.Drugs, Generic",D26.360
+"Pharmaceutical Preparations.Drugs, Investigational",D26.371
+Pharmaceutical Preparations.Materia Medica,D26.526
+Pharmaceutical Preparations.Medical Marijuana,D26.528
+Pharmaceutical Preparations.Nonprescription Drugs,D26.530
+Pharmaceutical Preparations.Nonprescription Drugs.Behind-the-Counter Drugs,D26.530.500
+Pharmaceutical Preparations.Nostrums,D26.593
+Pharmaceutical Preparations.Pharmaceutic Aids,D26.650
+"Pharmaceutical Preparations.Pharmaceutic Aids.Adjuvants, Pharmaceutic",D26.650.064
+Pharmaceutical Preparations.Pharmaceutic Aids.Aversive Agents,D26.650.179
+Pharmaceutical Preparations.Pharmaceutic Aids.Flavoring Agents,D26.650.294
+Pharmaceutical Preparations.Pharmaceutic Aids.Ointment Bases,D26.650.523
+Pharmaceutical Preparations.Pharmaceutic Aids.Pharmaceutical Vehicles,D26.650.700
+Pharmaceutical Preparations.Pharmaceutic Aids.Pharmaceutical Vehicles.Excipients,D26.650.700.419
+"Pharmaceutical Preparations.Pharmaceutic Aids.Preservatives, Pharmaceutical",D26.650.702
+"Pharmaceutical Preparations.Pharmaceutical Preparations, Dental",D26.655
+Pharmaceutical Preparations.Placebos,D26.660
+Pharmaceutical Preparations.Plant Extracts,D26.667
+Pharmaceutical Preparations.Plant Extracts.Flower Essences,D26.667.249
+Pharmaceutical Preparations.Plant Extracts.Grape Seed Extract,D26.667.500
+Pharmaceutical Preparations.Prescription Drugs,D26.670
+Pharmaceutical Preparations.Prodrugs,D26.675
+Pharmaceutical Preparations.Solutions,D26.776
+Pharmaceutical Preparations.Solutions.Contact Lens Solutions,D26.776.210
+Pharmaceutical Preparations.Solutions.Hypertonic Solutions,D26.776.314
+"Pharmaceutical Preparations.Solutions.Hypertonic Solutions.Glucose Solution, Hypertonic",D26.776.314.420
+"Pharmaceutical Preparations.Solutions.Hypertonic Solutions.Saline Solution, Hypertonic",D26.776.314.890
+Pharmaceutical Preparations.Solutions.Hypotonic Solutions,D26.776.399
+Pharmaceutical Preparations.Solutions.Isotonic Solutions,D26.776.498
+Pharmaceutical Preparations.Solutions.Organ Preservation Solutions,D26.776.675
+Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions,D26.776.708
+Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions.Cardioplegic Solutions,D26.776.708.160
+Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions.Dialysis Solutions,D26.776.708.322
+Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions.Dialysis Solutions.Hemodialysis Solutions,D26.776.708.322.651
+Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions.Ophthalmic Solutions,D26.776.708.645
+Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions.Ophthalmic Solutions.Lubricant Eye Drops,D26.776.708.645.500
+Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions.Parenteral Nutrition Solutions,D26.776.708.733
+"Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions.Parenteral Nutrition Solutions.Fat Emulsions, Intravenous",D26.776.708.733.500
+Pharmaceutical Preparations.Solutions.Pharmaceutical Solutions.Sclerosing Solutions,D26.776.708.822
+Pharmaceutical Preparations.Solutions.Rehydration Solutions,D26.776.741
+Pharmaceutical Preparations.Street Drugs,D26.878
+Pharmaceutical Preparations.Street Drugs.Crack Cocaine,D26.878.250
+Pharmaceutical Preparations.Veterinary Drugs,D26.939
+Pharmaceutical Preparations.Xenobiotics,D26.969

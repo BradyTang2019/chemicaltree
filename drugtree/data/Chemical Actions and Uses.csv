@@ -1,0 +1,1027 @@
+id,value
+Chemical Actions and Uses,D27
+Chemical Actions and Uses.Pharmacologic Actions,D27.505
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals,D27.505.259
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Contrast Media,D27.505.259.500
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Molecular Probes,D27.505.259.750
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Molecular Probes.Nucleic Acid Probes,D27.505.259.750.600
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Molecular Probes.Nucleic Acid Probes.DNA Probes,D27.505.259.750.600.223
+"Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Molecular Probes.Nucleic Acid Probes.DNA Probes.DNA Probes, HLA",D27.505.259.750.600.223.615
+"Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Molecular Probes.Nucleic Acid Probes.DNA Probes.DNA Probes, HPV",D27.505.259.750.600.223.620
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Molecular Probes.Nucleic Acid Probes.Oligonucleotide Probes,D27.505.259.750.600.650
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Molecular Probes.Nucleic Acid Probes.RNA Probes,D27.505.259.750.600.825
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Neuronal Tract-Tracers,D27.505.259.812
+Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Radiopharmaceuticals,D27.505.259.843
+"Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Reagent Kits, Diagnostic",D27.505.259.875
+"Chemical Actions and Uses.Pharmacologic Actions.Diagnostic Uses of Chemicals.Reagent Kits, Diagnostic.Reagent Strips",D27.505.259.875.680
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances,D27.505.389
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers,D27.505.389.249
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP1A2 Inducers,D27.505.389.249.120
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2B6 Inducers,D27.505.389.249.260
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2C8 Inducers,D27.505.389.249.308
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2C9 Inducers,D27.505.389.249.320
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2C19 Inducers,D27.505.389.249.350
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2D6 Inducers,D27.505.389.249.500
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2E1 Inducers,D27.505.389.249.600
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP3A Inducers,D27.505.389.249.700
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors,D27.505.389.500
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.14-alpha Demethylase Inhibitors,D27.505.389.500.059
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP1A2 Inhibitors,D27.505.389.500.120
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2B6 Inhibitors,D27.505.389.500.260
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2C8 Inhibitors,D27.505.389.500.308
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2C9 Inhibitors,D27.505.389.500.315
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2C19 Inhibitors,D27.505.389.500.319
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2D6 Inhibitors,D27.505.389.500.368
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2E1 Inhibitors,D27.505.389.500.421
+Chemical Actions and Uses.Pharmacologic Actions.Metabolic Side Effects of Drugs and Substances.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP3A Inhibitors,D27.505.389.500.503
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action,D27.505.519
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Alkylating Agents,D27.505.519.124
+"Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Alkylating Agents.Antineoplastic Agents, Alkylating",D27.505.519.124.035
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Amylin Receptor Agonists,D27.505.519.143
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Angiotensin Receptor Antagonists,D27.505.519.162
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Angiotensin Receptor Antagonists.Angiotensin II Type 1 Receptor Blockers,D27.505.519.162.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Angiotensin Receptor Antagonists.Angiotensin II Type 2 Receptor Blockers,D27.505.519.162.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antacids,D27.505.519.170
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antidiuretic Hormone Receptor Antagonists,D27.505.519.174
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antifoaming Agents,D27.505.519.178
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antimetabolites,D27.505.519.186
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antimetabolites.Hypolipidemic Agents,D27.505.519.186.071
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antimetabolites.Hypolipidemic Agents.Anticholesteremic Agents,D27.505.519.186.071.202
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antimetabolites.Hypolipidemic Agents.Anticholesteremic Agents.Hydroxymethylglutaryl-CoA Reductase Inhibitors,D27.505.519.186.071.202.370
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antimetabolites.Hypolipidemic Agents.Fatty Acid Synthesis Inhibitors,D27.505.519.186.071.401
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antimetabolites.Hypolipidemic Agents.Lipotropic Agents,D27.505.519.186.071.601
+"Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antimetabolites.Antimetabolites, Antineoplastic",D27.505.519.186.144
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antioxidants,D27.505.519.217
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Antioxidants.Free Radical Scavengers,D27.505.519.217.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Aversive Agents,D27.505.519.241
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Bradykinin Receptor Antagonists,D27.505.519.265
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Bradykinin Receptor Antagonists.Bradykinin B1 Receptor Antagonists,D27.505.519.265.249
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Bradykinin Receptor Antagonists.Bradykinin B2 Receptor Antagonists,D27.505.519.265.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.CCR5 Receptor Antagonists,D27.505.519.275
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cerumenolytic Agents,D27.505.519.295
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cystine Depleting Agents,D27.505.519.334
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers,D27.505.519.349
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP1A2 Inducers,D27.505.519.349.120
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2B6 Inducers,D27.505.519.349.260
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2C8 Inducers,D27.505.519.349.308
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2C9 Inducers,D27.505.519.349.320
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2C19 Inducers,D27.505.519.349.350
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2D6 Inducers,D27.505.519.349.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP2E1 Inducers,D27.505.519.349.600
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Cytochrome P-450 Enzyme Inducers.Cytochrome P-450 CYP3A Inducers,D27.505.519.349.700
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Endothelin Receptor Antagonists,D27.505.519.364
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Endothelin Receptor Antagonists.Endothelin A Receptor Antagonists,D27.505.519.364.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Endothelin Receptor Antagonists.Endothelin B Receptor Antagonists,D27.505.519.364.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Activators,D27.505.519.374
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Activators.Carbamoyl Phosphate Synthetase I Activators,D27.505.519.374.099
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Activators.GTP Phosphohydrolase Activators,D27.505.519.374.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Activators.Guanylyl Cyclase C Agonists,D27.505.519.374.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Activators.Lipoprotein Lipase Activators,D27.505.519.374.600
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors,D27.505.519.389
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.5-Lipoxygenase-Activating Protein Inhibitors,D27.505.519.389.086
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Acetaldehyde Dehydrogenase Inhibitors,D27.505.519.389.089
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Adenosine Deaminase Inhibitors,D27.505.519.389.092
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Adenylyl Cyclase Inhibitors,D27.505.519.389.108
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Aromatic Amino Acid Decarboxylase Inhibitors,D27.505.519.389.124
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Calcineurin Inhibitors,D27.505.519.389.174
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Carbonic Anhydrase Inhibitors,D27.505.519.389.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Catechol O-Methyltransferase Inhibitors,D27.505.519.389.237
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cholinesterase Inhibitors,D27.505.519.389.275
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cyclooxygenase Inhibitors,D27.505.519.389.310
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cyclooxygenase Inhibitors.Cyclooxygenase 2 Inhibitors,D27.505.519.389.310.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Glycoside Hydrolase Inhibitors,D27.505.519.389.320
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors,D27.505.519.389.335
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.14-alpha Demethylase Inhibitors,D27.505.519.389.335.059
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP1A2 Inhibitors,D27.505.519.389.335.120
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2B6 Inhibitors,D27.505.519.389.335.260
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2C8 Inhibitors,D27.505.519.389.335.308
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2C19 Inhibitors,D27.505.519.389.335.319
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2C9 Inhibitors,D27.505.519.389.335.329
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2D6 Inhibitors,D27.505.519.389.335.368
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP2E1 Inhibitors,D27.505.519.389.335.421
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Cytochrome P-450 Enzyme Inhibitors.Cytochrome P-450 CYP3A Inhibitors,D27.505.519.389.335.503
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Folic Acid Antagonists,D27.505.519.389.350
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Histone Deacetylase Inhibitors,D27.505.519.389.360
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Hydroxymethylglutaryl-CoA Reductase Inhibitors,D27.505.519.389.370
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Integrase Inhibitors,D27.505.519.389.375
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Integrase Inhibitors.HIV Integrase Inhibitors,D27.505.519.389.375.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.beta-Lactamase Inhibitors,D27.505.519.389.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Lipoxygenase Inhibitors,D27.505.519.389.480
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Monoamine Oxidase Inhibitors,D27.505.519.389.616
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Nucleic Acid Synthesis Inhibitors,D27.505.519.389.675
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Nucleic Acid Synthesis Inhibitors.Reverse Transcriptase Inhibitors,D27.505.519.389.675.850
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Ornithine Decarboxylase Inhibitors,D27.505.519.389.705
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Phosphodiesterase Inhibitors,D27.505.519.389.735
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Phosphodiesterase Inhibitors.Phosphodiesterase 3 Inhibitors,D27.505.519.389.735.249
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Phosphodiesterase Inhibitors.Phosphodiesterase 4 Inhibitors,D27.505.519.389.735.374
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Phosphodiesterase Inhibitors.Phosphodiesterase 5 Inhibitors,D27.505.519.389.735.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Phospholipase A2 Inhibitors,D27.505.519.389.737
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Poly(ADP-ribose) Polymerase Inhibitors,D27.505.519.389.739
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Prolyl-Hydroxylase Inhibitors,D27.505.519.389.740
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors,D27.505.519.389.745
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Angiotensin-Converting Enzyme Inhibitors,D27.505.519.389.745.085
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Angiotensin-Converting Enzyme Inhibitors.Vasopeptidase Inhibitors,D27.505.519.389.745.085.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Cysteine Proteinase Inhibitors,D27.505.519.389.745.325
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Cysteine Proteinase Inhibitors.Caspase Inhibitors,D27.505.519.389.745.325.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Dipeptidyl-Peptidase IV Inhibitors,D27.505.519.389.745.335
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.HIV Protease Inhibitors,D27.505.519.389.745.420
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Matrix Metalloproteinase Inhibitors,D27.505.519.389.745.610
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Proteasome Inhibitors,D27.505.519.389.745.705
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Serine Proteinase Inhibitors,D27.505.519.389.745.800
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Serine Proteinase Inhibitors.Antithrombins,D27.505.519.389.745.800.449
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Serine Proteinase Inhibitors.Antithrombins.Factor Xa Inhibitors,D27.505.519.389.745.800.449.500
+"Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Serine Proteinase Inhibitors.Serine Peptidase Inhibitors, Kazal Type",D27.505.519.389.745.800.562
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Serine Proteinase Inhibitors.Serpins,D27.505.519.389.745.800.675
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protease Inhibitors.Serine Proteinase Inhibitors.Trypsin Inhibitors,D27.505.519.389.745.800.900
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protein Kinase Inhibitors,D27.505.519.389.755
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protein Kinase Inhibitors.Janus Kinase Inhibitors,D27.505.519.389.755.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Protein Synthesis Inhibitors,D27.505.519.389.760
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Proton Pump Inhibitors,D27.505.519.389.848
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Steroid Synthesis Inhibitors,D27.505.519.389.870
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Steroid Synthesis Inhibitors.14-alpha Demethylase Inhibitors,D27.505.519.389.870.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Steroid Synthesis Inhibitors.5-alpha Reductase Inhibitors,D27.505.519.389.870.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Steroid Synthesis Inhibitors.Aromatase Inhibitors,D27.505.519.389.870.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Topoisomerase Inhibitors,D27.505.519.389.892
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Topoisomerase Inhibitors.Topoisomerase I Inhibitors,D27.505.519.389.892.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Topoisomerase Inhibitors.Topoisomerase II Inhibitors,D27.505.519.389.892.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Uncoupling Agents,D27.505.519.389.936
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Inhibitors.Uncoupling Agents.Proton Ionophores,D27.505.519.389.936.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Reactivators,D27.505.519.405
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Enzyme Reactivators.Cholinesterase Reactivators,D27.505.519.405.347
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Fibrin Modulating Agents,D27.505.519.421
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Fibrin Modulating Agents.Antifibrinolytic Agents,D27.505.519.421.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Fibrin Modulating Agents.Fibrinolytic Agents,D27.505.519.421.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Heparin Antagonists,D27.505.519.452
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators,D27.505.519.562
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Acetylcholine Release Inhibitors,D27.505.519.562.061
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Calcium Channel Agonists,D27.505.519.562.124
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Calcium Channel Blockers,D27.505.519.562.249
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Chloride Channel Agonists,D27.505.519.562.311
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Ionophores,D27.505.519.562.374
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Ionophores.Calcium Ionophores,D27.505.519.562.374.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Ionophores.Potassium Ionophores,D27.505.519.562.374.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Ionophores.Proton Ionophores,D27.505.519.562.374.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Ionophores.Sodium Ionophores,D27.505.519.562.374.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Neurotransmitter Uptake Inhibitors,D27.505.519.562.437
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Neurotransmitter Uptake Inhibitors.Adrenergic Uptake Inhibitors,D27.505.519.562.437.050
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Neurotransmitter Uptake Inhibitors.Dopamine Uptake Inhibitors,D27.505.519.562.437.220
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Neurotransmitter Uptake Inhibitors.GABA Uptake Inhibitors,D27.505.519.562.437.535
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Neurotransmitter Uptake Inhibitors.Serotonin and Noradrenaline Reuptake Inhibitors,D27.505.519.562.437.693
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Neurotransmitter Uptake Inhibitors.Serotonin Uptake Inhibitors,D27.505.519.562.437.850
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Potassium Channel Blockers,D27.505.519.562.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Channel Agonists,D27.505.519.562.625
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Channel Agonists.Epithelial Sodium Channel Agonists,D27.505.519.562.625.249
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Channel Agonists.Voltage-Gated Sodium Channel Agonists,D27.505.519.562.625.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Channel Blockers,D27.505.519.562.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Channel Blockers.Acid Sensing Ion Channel Blockers,D27.505.519.562.750.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Channel Blockers.Epithelial Sodium Channel Blockers,D27.505.519.562.750.374
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Channel Blockers.Voltage-Gated Sodium Channel Blockers,D27.505.519.562.750.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Chloride Symporter Inhibitors,D27.505.519.562.812
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Membrane Transport Modulators.Sodium Potassium Chloride Symporter Inhibitors,D27.505.519.562.906
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Mitosis Modulators,D27.505.519.593
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Mitosis Modulators.Antimitotic Agents,D27.505.519.593.249
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Mitosis Modulators.Antimitotic Agents.Tubulin Modulators,D27.505.519.593.249.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Mitosis Modulators.Mitogens,D27.505.519.593.624
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents,D27.505.519.625
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents,D27.505.519.625.050
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists,D27.505.519.625.050.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic alpha-Agonists,D27.505.519.625.050.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic alpha-Agonists.Adrenergic alpha-1 Receptor Agonists,D27.505.519.625.050.100.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic alpha-Agonists.Adrenergic alpha-2 Receptor Agonists,D27.505.519.625.050.100.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic beta-Agonists,D27.505.519.625.050.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic beta-Agonists.Adrenergic beta-1 Receptor Agonists,D27.505.519.625.050.100.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic beta-Agonists.Adrenergic beta-2 Receptor Agonists,D27.505.519.625.050.100.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic beta-Agonists.Adrenergic beta-3 Receptor Agonists,D27.505.519.625.050.100.200.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists,D27.505.519.625.050.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic alpha-Antagonists,D27.505.519.625.050.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic alpha-Antagonists.Adrenergic alpha-1 Receptor Antagonists,D27.505.519.625.050.200.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic alpha-Antagonists.Adrenergic alpha-2 Receptor Antagonists,D27.505.519.625.050.200.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic beta-Antagonists,D27.505.519.625.050.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic beta-Antagonists.Adrenergic beta-1 Receptor Antagonists,D27.505.519.625.050.200.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic beta-Antagonists.Adrenergic beta-2 Receptor Antagonists,D27.505.519.625.050.200.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic beta-Antagonists.Adrenergic beta-3 Receptor Antagonists,D27.505.519.625.050.200.200.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Uptake Inhibitors,D27.505.519.625.050.601
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cannabinoid Receptor Modulators,D27.505.519.625.085
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cannabinoid Receptor Modulators.Cannabinoid Receptor Agonists,D27.505.519.625.085.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cannabinoid Receptor Modulators.Cannabinoid Receptor Antagonists,D27.505.519.625.085.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents,D27.505.519.625.120
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Acetylcholine Release Inhibitors,D27.505.519.625.120.069
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Agonists,D27.505.519.625.120.140
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Agonists.Muscarinic Agonists,D27.505.519.625.120.140.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Agonists.Nicotinic Agonists,D27.505.519.625.120.140.700
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Antagonists,D27.505.519.625.120.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Antagonists.Muscarinic Antagonists,D27.505.519.625.120.200.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Antagonists.Nicotinic Antagonists,D27.505.519.625.120.200.700
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Cholinesterase Inhibitors,D27.505.519.625.120.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Cholinergic Agents.Cholinesterase Reactivators,D27.505.519.625.120.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Dopamine Agents,D27.505.519.625.150
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Dopamine Agents.Dopamine Agonists,D27.505.519.625.150.151
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Dopamine Agents.Dopamine Antagonists,D27.505.519.625.150.175
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Dopamine Agents.Dopamine Antagonists.Dopamine D2 Receptor Antagonists,D27.505.519.625.150.175.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Dopamine Agents.Dopamine Uptake Inhibitors,D27.505.519.625.150.800
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Excitatory Amino Acid Agents,D27.505.519.625.190
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Excitatory Amino Acid Agents.Excitatory Amino Acid Agonists,D27.505.519.625.190.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Excitatory Amino Acid Agents.Excitatory Amino Acid Antagonists,D27.505.519.625.190.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents,D27.505.519.625.240
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents.GABA Agonists,D27.505.519.625.240.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents.GABA Agonists.GABA-A Receptor Agonists,D27.505.519.625.240.200.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents.GABA Agonists.GABA-B Receptor Agonists,D27.505.519.625.240.200.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents.GABA Antagonists,D27.505.519.625.240.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents.GABA Antagonists.GABA-A Receptor Antagonists,D27.505.519.625.240.300.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents.GABA Antagonists.GABA-B Receptor Antagonists,D27.505.519.625.240.300.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents.GABA Modulators,D27.505.519.625.240.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.GABA Agents.GABA Uptake Inhibitors,D27.505.519.625.240.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Gasotransmitters,D27.505.519.625.270
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Glycine Agents,D27.505.519.625.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Histamine Agents,D27.505.519.625.375
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Histamine Agents.Histamine Agonists,D27.505.519.625.375.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists,D27.505.519.625.375.425
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists.Histamine H1 Antagonists,D27.505.519.625.375.425.400
+"Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists.Histamine H1 Antagonists.Histamine H1 Antagonists, Non-Sedating",D27.505.519.625.375.425.400.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists.Histamine H2 Antagonists,D27.505.519.625.375.425.425
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists.Histamine H3 Antagonists,D27.505.519.625.375.425.712
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Neurokinin-1 Receptor Antagonists,D27.505.519.625.487
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors,D27.505.519.625.600
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.Adrenergic Uptake Inhibitors,D27.505.519.625.600.050
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.Dopamine Uptake Inhibitors,D27.505.519.625.600.220
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.GABA Uptake Inhibitors,D27.505.519.625.600.535
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.Serotonin and Noradrenaline Reuptake Inhibitors,D27.505.519.625.600.693
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.Serotonin Uptake Inhibitors,D27.505.519.625.600.850
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Orexin Receptor Antagonists,D27.505.519.625.663
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents,D27.505.519.625.725
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists,D27.505.519.625.725.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P1 Receptor Agonists,D27.505.519.625.725.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P1 Receptor Agonists.Adenosine A1 Receptor Agonists,D27.505.519.625.725.200.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P1 Receptor Agonists.Adenosine A2 Receptor Agonists,D27.505.519.625.725.200.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P1 Receptor Agonists.Adenosine A3 Receptor Agonists,D27.505.519.625.725.200.100.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P2 Receptor Agonists,D27.505.519.625.725.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P2 Receptor Agonists.Purinergic P2X Receptor Agonists,D27.505.519.625.725.200.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P2 Receptor Agonists.Purinergic P2Y Receptor Agonists,D27.505.519.625.725.200.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists,D27.505.519.625.725.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P1 Receptor Antagonists,D27.505.519.625.725.400.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P1 Receptor Antagonists.Adenosine A1 Receptor Antagonists,D27.505.519.625.725.400.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P1 Receptor Antagonists.Adenosine A2 Receptor Antagonists,D27.505.519.625.725.400.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P1 Receptor Antagonists.Adenosine A3 Receptor Antagonists,D27.505.519.625.725.400.100.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P2 Receptor Antagonists,D27.505.519.625.725.400.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P2 Receptor Antagonists.Purinergic P2X Receptor Antagonists,D27.505.519.625.725.400.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P2 Receptor Antagonists.Purinergic P2Y Receptor Antagonists,D27.505.519.625.725.400.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents,D27.505.519.625.850
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists,D27.505.519.625.850.800
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists.Serotonin 5-HT1 Receptor Agonists,D27.505.519.625.850.800.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists.Serotonin 5-HT2 Receptor Agonists,D27.505.519.625.850.800.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists.Serotonin 5-HT3 Receptor Agonists,D27.505.519.625.850.800.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists.Serotonin 5-HT4 Receptor Agonists,D27.505.519.625.850.800.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists,D27.505.519.625.850.850
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists.Serotonin 5-HT1 Receptor Antagonists,D27.505.519.625.850.850.100
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists.Serotonin 5-HT2 Receptor Antagonists,D27.505.519.625.850.850.200
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists.Serotonin 5-HT3 Receptor Antagonists,D27.505.519.625.850.850.300
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists.Serotonin 5-HT4 Receptor Antagonists,D27.505.519.625.850.850.400
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Neurotransmitter Agents.Serotonin Agents.Serotonin Uptake Inhibitors,D27.505.519.625.850.900
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Nitric Oxide Donors,D27.505.519.656
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Peptidomimetics,D27.505.519.828
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Radiopharmaceuticals,D27.505.519.871
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Sequestering Agents,D27.505.519.914
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Sequestering Agents.Chelating Agents,D27.505.519.914.500
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Sequestering Agents.Chelating Agents.Calcium Chelating Agents,D27.505.519.914.500.204
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Sequestering Agents.Chelating Agents.Iron Chelating Agents,D27.505.519.914.500.410
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Sequestering Agents.Chelating Agents.Iron Chelating Agents.Siderophores,D27.505.519.914.500.410.750
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Viral Fusion Protein Inhibitors,D27.505.519.957
+Chemical Actions and Uses.Pharmacologic Actions.Molecular Mechanisms of Pharmacological Action.Viral Fusion Protein Inhibitors.HIV Fusion Inhibitors,D27.505.519.957.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs,D27.505.696
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Abuse-Deterrent Formulations,D27.505.696.034
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Abuse-Deterrent Formulations.Aversive Agents,D27.505.696.034.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Antipyretics,D27.505.696.068
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Antispermatogenic Agents,D27.505.696.138
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Antispermatogenic Agents.Sperm Immobilizing Agents,D27.505.696.138.379
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Antispermatogenic Agents.Spermatocidal Agents,D27.505.696.138.569
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Antispermatogenic Agents.Spermatogenesis-Blocking Agents,D27.505.696.138.760
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Astringents,D27.505.696.207
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Bone Density Conservation Agents,D27.505.696.242
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants,D27.505.696.277
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Anesthetics,D27.505.696.277.100
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Anesthetics.Anesthetics, Combined",D27.505.696.277.100.017
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Anesthetics.Anesthetics, General",D27.505.696.277.100.035
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Anesthetics.Anesthetics, General.Anesthetics, Inhalation",D27.505.696.277.100.035.060
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Anesthetics.Anesthetics, General.Anesthetics, Intravenous",D27.505.696.277.100.035.075
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Anesthetics.Anesthetics, General.Anesthetics, Intravenous.Anesthetics, Dissociative",D27.505.696.277.100.035.075.035
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Anesthetics.Anesthetics, Local",D27.505.696.277.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Hypnotics and Sedatives,D27.505.696.277.350
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Narcotics,D27.505.696.277.600
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Narcotics.Analgesics, Opioid",D27.505.696.277.600.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Tranquilizing Agents,D27.505.696.277.950
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Tranquilizing Agents.Anti-Anxiety Agents,D27.505.696.277.950.015
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Tranquilizing Agents.Antimanic Agents,D27.505.696.277.950.025
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Depressants.Tranquilizing Agents.Antipsychotic Agents,D27.505.696.277.950.040
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Stimulants,D27.505.696.282
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Stimulants.Aphrodisiacs,D27.505.696.282.045
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Stimulants.Appetite Stimulants,D27.505.696.282.050
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Central Nervous System Stimulants.Convulsants,D27.505.696.282.224
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Cerumenolytic Agents,D27.505.696.305
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Emetics,D27.505.696.329
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Endocrine Disruptors,D27.505.696.353
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Galactogogues,D27.505.696.365
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances,D27.505.696.377
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Angiogenesis Modulating Agents,D27.505.696.377.077
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Angiogenesis Modulating Agents.Angiogenesis Inducing Agents,D27.505.696.377.077.077
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Angiogenesis Modulating Agents.Angiogenesis Inhibitors,D27.505.696.377.077.099
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Growth Inhibitors,D27.505.696.377.450
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Growth Inhibitors.Angiogenesis Inhibitors,D27.505.696.377.450.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Micronutrients,D27.505.696.377.605
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Micronutrients.Trace Elements,D27.505.696.377.605.555
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Micronutrients.Vitamins,D27.505.696.377.605.600
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Micronutrients.Vitamins.Provitamins,D27.505.696.377.605.600.354
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Micronutrients.Vitamins.Vitamin B Complex,D27.505.696.377.605.600.708
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Growth Substances.Plant Growth Regulators,D27.505.696.377.760
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hallucinogens,D27.505.696.388
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists",D27.505.696.399
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists",D27.505.696.399.450
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Androgen Antagonists",D27.505.696.399.450.065
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Androgen Antagonists.Androgen Receptor Antagonists",D27.505.696.399.450.065.249
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Androgen Antagonists.Nonsteroidal Anti-Androgens",D27.505.696.399.450.065.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Antithyroid Agents",D27.505.696.399.450.100
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Calcimimetic Agents",D27.505.696.399.450.230
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Estrogen Antagonists",D27.505.696.399.450.327
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Estrogen Antagonists.Aromatase Inhibitors",D27.505.696.399.450.327.149
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Estrogen Antagonists.Estrogen Receptor Antagonists",D27.505.696.399.450.327.650
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Estrogen Receptor Modulators",D27.505.696.399.450.360
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Estrogen Receptor Modulators.Selective Estrogen Receptor Modulators",D27.505.696.399.450.360.827
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Insulin Antagonists",D27.505.696.399.450.420
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Leukotriene Antagonists",D27.505.696.399.450.565
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Mineralocorticoid Receptor Antagonists",D27.505.696.399.450.600
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Prostaglandin Antagonists",D27.505.696.399.450.710
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Steroid Synthesis Inhibitors",D27.505.696.399.450.855
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Steroid Synthesis Inhibitors.14-alpha Demethylase Inhibitors",D27.505.696.399.450.855.100
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Steroid Synthesis Inhibitors.5-alpha Reductase Inhibitors",D27.505.696.399.450.855.200
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormone Antagonists.Steroid Synthesis Inhibitors.Aromatase Inhibitors",D27.505.696.399.450.855.300
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones",D27.505.696.399.472
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Anabolic Agents",D27.505.696.399.472.080
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Androgens",D27.505.696.399.472.161
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Cannabinoid Receptor Modulators",D27.505.696.399.472.188
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Cannabinoid Receptor Modulators.Cannabinoid Receptor Agonists",D27.505.696.399.472.188.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Cannabinoid Receptor Modulators.Cannabinoid Receptor Antagonists",D27.505.696.399.472.188.750
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Estrogens",D27.505.696.399.472.277
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Estrogens.Estrogens, Non-Steroidal",D27.505.696.399.472.277.540
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Estrogens.Estrogens, Non-Steroidal.Phytoestrogens",D27.505.696.399.472.277.540.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Glucocorticoids",D27.505.696.399.472.488
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Incretins",D27.505.696.399.472.580
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Mineralocorticoids",D27.505.696.399.472.673
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hormones, Hormone Substitutes, and Hormone Antagonists.Hormones.Progestins",D27.505.696.399.472.858
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hypoglycemic Agents,D27.505.696.422
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hypoglycemic Agents.Glycoside Hydrolase Inhibitors,D27.505.696.422.249
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hypoglycemic Agents.Amylin Receptor Agonists,D27.505.696.422.374
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Hypoglycemic Agents.Dipeptidyl-Peptidase IV Inhibitors,D27.505.696.422.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors,D27.505.696.477
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors.Adjuvants, Immunologic",D27.505.696.477.067
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors.Agglutinins,D27.505.696.477.136
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors.Agglutinins.Hemagglutinins,D27.505.696.477.136.377
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors.Immunosuppressive Agents,D27.505.696.477.656
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors.Immunosuppressive Agents.Complement Inactivating Agents,D27.505.696.477.656.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors.Immunosuppressive Agents.Complement Inactivating Agents.Bradykinin B2 Receptor Antagonists,D27.505.696.477.656.500.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors.Immunosuppressive Agents.Myeloablative Agonists,D27.505.696.477.656.750
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Immunologic Factors.Interferon Inducers,D27.505.696.477.828
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Muscle Relaxants, Central",D27.505.696.510
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Narcotic Antagonists,D27.505.696.543
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents,D27.505.696.560
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Antidiuretic Agents,D27.505.696.560.249
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Antidiuretic Hormone Receptor Antagonists,D27.505.696.560.311
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Antihyperkalemic Agents,D27.505.696.560.374
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Diuretics,D27.505.696.560.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Diuretics.Diuretics, Osmotic",D27.505.696.560.500.453
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Diuretics.Diuretics, Potassium Sparing",D27.505.696.560.500.726
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Diuretics.Diuretics, Potassium Sparing.Epithelial Sodium Channel Blockers",D27.505.696.560.500.726.100
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Diuretics.Diuretics, Potassium Sparing.Mineralocorticoid Receptor Antagonists",D27.505.696.560.500.726.249
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Diuretics.Sodium Chloride Symporter Inhibitors,D27.505.696.560.500.863
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Natriuretic Agents.Diuretics.Sodium Potassium Chloride Symporter Inhibitors,D27.505.696.560.500.931
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents,D27.505.696.577
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents,D27.505.696.577.050
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists,D27.505.696.577.050.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic alpha-Agonists,D27.505.696.577.050.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic alpha-Agonists.Adrenergic alpha-1 Receptor Agonists,D27.505.696.577.050.100.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic alpha-Agonists.Adrenergic alpha-2 Receptor Agonists,D27.505.696.577.050.100.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic beta-Agonists,D27.505.696.577.050.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic beta-Agonists.Adrenergic beta-1 Receptor Agonists,D27.505.696.577.050.100.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic beta-Agonists.Adrenergic beta-2 Receptor Agonists,D27.505.696.577.050.100.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Agonists.Adrenergic beta-Agonists.Adrenergic beta-3 Receptor Agonists,D27.505.696.577.050.100.200.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists,D27.505.696.577.050.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic alpha-Antagonists,D27.505.696.577.050.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic alpha-Antagonists.Adrenergic alpha-1 Receptor Antagonists,D27.505.696.577.050.200.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic alpha-Antagonists.Adrenergic alpha-2 Receptor Antagonists,D27.505.696.577.050.200.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic beta-Antagonists,D27.505.696.577.050.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic beta-Antagonists.Adrenergic beta-1 Receptor Antagonists,D27.505.696.577.050.200.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic beta-Antagonists.Adrenergic beta-2 Receptor Antagonists,D27.505.696.577.050.200.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Antagonists.Adrenergic beta-Antagonists.Adrenergic beta-3 Receptor Antagonists,D27.505.696.577.050.200.200.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Adrenergic Agents.Adrenergic Uptake Inhibitors,D27.505.696.577.050.601
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents,D27.505.696.577.120
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Acetylcholine Release Inhibitors,D27.505.696.577.120.069
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Agonists,D27.505.696.577.120.140
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Agonists.Muscarinic Agonists,D27.505.696.577.120.140.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Agonists.Nicotinic Agonists,D27.505.696.577.120.140.700
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Antagonists,D27.505.696.577.120.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Antagonists.Muscarinic Antagonists,D27.505.696.577.120.200.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Cholinergic Antagonists.Nicotinic Antagonists,D27.505.696.577.120.200.700
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Cholinesterase Inhibitors,D27.505.696.577.120.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Cholinergic Agents.Cholinesterase Reactivators,D27.505.696.577.120.400
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Dopamine Agents,D27.505.696.577.150
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Dopamine Agents.Dopamine Agonists,D27.505.696.577.150.151
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Dopamine Agents.Dopamine Antagonists,D27.505.696.577.150.175
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Dopamine Agents.Dopamine Antagonists.Dopamine D2 Receptor Antagonists,D27.505.696.577.150.175.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Dopamine Agents.Dopamine Uptake Inhibitors,D27.505.696.577.150.800
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Excitatory Amino Acid Agents,D27.505.696.577.190
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Excitatory Amino Acid Agents.Excitatory Amino Acid Agonists,D27.505.696.577.190.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Excitatory Amino Acid Agents.Excitatory Amino Acid Antagonists,D27.505.696.577.190.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents,D27.505.696.577.240
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents.GABA Agonists,D27.505.696.577.240.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents.GABA Agonists.GABA-A Receptor Agonists,D27.505.696.577.240.200.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents.GABA Agonists.GABA-B Receptor Agonists,D27.505.696.577.240.200.750
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents.GABA Antagonists,D27.505.696.577.240.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents.GABA Antagonists.GABA-A Receptor Antagonists,D27.505.696.577.240.300.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents.GABA Antagonists.GABA-B Receptor Antagonists,D27.505.696.577.240.300.750
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents.GABA Modulators,D27.505.696.577.240.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.GABA Agents.GABA Uptake Inhibitors,D27.505.696.577.240.750
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Glycine Agents,D27.505.696.577.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Histamine Agents,D27.505.696.577.375
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Histamine Agents.Histamine Agonists,D27.505.696.577.375.400
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists,D27.505.696.577.375.425
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists.Histamine H1 Antagonists,D27.505.696.577.375.425.400
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists.Histamine H1 Antagonists.Histamine H1 Antagonists, Non-Sedating",D27.505.696.577.375.425.400.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists.Histamine H2 Antagonists,D27.505.696.577.375.425.425
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Histamine Agents.Histamine Antagonists.Histamine H3 Antagonists,D27.505.696.577.375.425.712
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Neurokinin-1 Receptor Antagonists,D27.505.696.577.487
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors,D27.505.696.577.600
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.Adrenergic Uptake Inhibitors,D27.505.696.577.600.050
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.Dopamine Uptake Inhibitors,D27.505.696.577.600.220
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.GABA Uptake Inhibitors,D27.505.696.577.600.535
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.Serotonin and Noradrenaline Reuptake Inhibitors,D27.505.696.577.600.693
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Neurotransmitter Uptake Inhibitors.Serotonin Uptake Inhibitors,D27.505.696.577.600.850
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Orexin Receptor Antagonists,D27.505.696.577.663
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents,D27.505.696.577.725
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists,D27.505.696.577.725.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P1 Receptor Agonists,D27.505.696.577.725.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P1 Receptor Agonists.Adenosine A1 Receptor Agonists,D27.505.696.577.725.200.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P1 Receptor Agonists.Adenosine A2 Receptor Agonists,D27.505.696.577.725.200.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P1 Receptor Agonists.Adenosine A3 Receptor Agonists,D27.505.696.577.725.200.100.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P2 Receptor Agonists,D27.505.696.577.725.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P2 Receptor Agonists.Purinergic P2X Receptor Agonists,D27.505.696.577.725.200.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Agonists.Purinergic P2 Receptor Agonists.Purinergic P2Y Receptor Agonists,D27.505.696.577.725.200.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists,D27.505.696.577.725.400
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P1 Receptor Antagonists,D27.505.696.577.725.400.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P1 Receptor Antagonists.Adenosine A1 Receptor Antagonists,D27.505.696.577.725.400.100.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P1 Receptor Antagonists.Adenosine A2 Receptor Antagonists,D27.505.696.577.725.400.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P1 Receptor Antagonists.Adenosine A3 Receptor Antagonists,D27.505.696.577.725.400.100.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P2 Receptor Antagonists,D27.505.696.577.725.400.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P2 Receptor Antagonists.Purinergic P2X Receptor Antagonists,D27.505.696.577.725.400.200.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Purinergic Agents.Purinergic Antagonists.Purinergic P2 Receptor Antagonists.Purinergic P2Y Receptor Antagonists,D27.505.696.577.725.400.200.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents,D27.505.696.577.850
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists,D27.505.696.577.850.800
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists.Serotonin 5-HT1 Receptor Agonists,D27.505.696.577.850.800.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists.Serotonin 5-HT2 Receptor Agonists,D27.505.696.577.850.800.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists.Serotonin 5-HT3 Receptor Agonists,D27.505.696.577.850.800.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Receptor Agonists.Serotonin 5-HT4 Receptor Agonists,D27.505.696.577.850.800.400
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists,D27.505.696.577.850.850
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists.Serotonin 5-HT1 Receptor Antagonists,D27.505.696.577.850.850.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists.Serotonin 5-HT2 Receptor Antagonists,D27.505.696.577.850.850.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists.Serotonin 5-HT3 Receptor Antagonists,D27.505.696.577.850.850.300
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Antagonists.Serotonin 5-HT4 Receptor Antagonists,D27.505.696.577.850.850.400
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Neurotransmitter Agents.Serotonin Agents.Serotonin Uptake Inhibitors,D27.505.696.577.850.900
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Performance-Enhancing Substances,D27.505.696.620
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents,D27.505.696.663
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents,D27.505.696.663.050
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Antiemetics,D27.505.696.663.050.030
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Bronchoconstrictor Agents,D27.505.696.663.050.100
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Bronchodilator Agents,D27.505.696.663.050.110
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Emetics,D27.505.696.663.050.225
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Ganglionic Blockers,D27.505.696.663.050.340
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Ganglionic Stimulants,D27.505.696.663.050.400
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Miotics,D27.505.696.663.050.495
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Mydriatics,D27.505.696.663.050.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Parasympatholytics,D27.505.696.663.050.650
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Parasympathomimetics,D27.505.696.663.050.675
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Sympatholytics,D27.505.696.663.050.850
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Autonomic Agents.Sympathomimetics,D27.505.696.663.050.870
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Neuromuscular Agents,D27.505.696.663.700
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Neuromuscular Agents.Muscle Relaxants, Central",D27.505.696.663.700.600
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Neuromuscular Agents.Neuromuscular Blocking Agents,D27.505.696.663.700.710
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Neuromuscular Agents.Neuromuscular Blocking Agents.Neuromuscular Depolarizing Agents,D27.505.696.663.700.710.550
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Neuromuscular Agents.Neuromuscular Blocking Agents.Neuromuscular Nondepolarizing Agents,D27.505.696.663.700.710.575
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents,D27.505.696.663.850
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Abuse-Deterrent Formulations,D27.505.696.663.850.007
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Abuse-Deterrent Formulations.Aversive Agents,D27.505.696.663.850.007.500
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics,D27.505.696.663.850.014
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics.Analgesics, Non-Narcotic",D27.505.696.663.850.014.040
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics.Analgesics, Non-Narcotic.Anti-Inflammatory Agents, Non-Steroidal",D27.505.696.663.850.014.040.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics.Analgesics, Non-Narcotic.Anti-Inflammatory Agents, Non-Steroidal.Cyclooxygenase Inhibitors",D27.505.696.663.850.014.040.500.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics.Analgesics, Non-Narcotic.Anti-Inflammatory Agents, Non-Steroidal.Cyclooxygenase Inhibitors.Cyclooxygenase 2 Inhibitors",D27.505.696.663.850.014.040.500.500.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics.Analgesics, Short-Acting",D27.505.696.663.850.014.580
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics.Dentin Desensitizing Agents,D27.505.696.663.850.014.640
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics.Narcotics,D27.505.696.663.850.014.760
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Analgesics.Narcotics.Analgesics, Opioid",D27.505.696.663.850.014.760.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Anesthetics, Local",D27.505.696.663.850.025
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Peripheral Nervous System Agents.Sensory System Agents.Narcotic Antagonists,D27.505.696.663.850.512
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents,D27.505.696.706
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Anticarcinogenic Agents,D27.505.696.706.018
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Antidotes,D27.505.696.706.037
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Antimutagenic Agents,D27.505.696.706.080
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Antioxidants,D27.505.696.706.125
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Cariostatic Agents,D27.505.696.706.222
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Cryoprotective Agents,D27.505.696.706.320
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Insect Repellents,D27.505.696.706.434
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Neuroprotective Agents,D27.505.696.706.548
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Radiation-Protective Agents,D27.505.696.706.776
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Radiation-Protective Agents.Sunscreening Agents,D27.505.696.706.776.800
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Protective Agents.Viscosupplements,D27.505.696.706.888
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents,D27.505.696.875
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Abortifacient Agents,D27.505.696.875.131
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Abortifacient Agents.Abortifacient Agents, Nonsteroidal",D27.505.696.875.131.100
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Abortifacient Agents.Abortifacient Agents, Steroidal",D27.505.696.875.131.200
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents,D27.505.696.875.360
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female",D27.505.696.875.360.276
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral",D27.505.696.875.360.276.210
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral.Contraceptives, Oral, Combined",D27.505.696.875.360.276.210.100
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral.Contraceptives, Oral, Hormonal",D27.505.696.875.360.276.210.277
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral.Contraceptives, Oral, Sequential",D27.505.696.875.360.276.210.400
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral.Contraceptives, Oral, Synthetic",D27.505.696.875.360.276.210.443
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Postcoital",D27.505.696.875.360.276.310
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Postcoital.Contraceptives, Postcoital, Hormonal",D27.505.696.875.360.276.310.235
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Postcoital.Contraceptives, Postcoital, Synthetic",D27.505.696.875.360.276.310.360
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Luteolytic Agents",D27.505.696.875.360.276.450
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Menstruation-Inducing Agents",D27.505.696.875.360.276.500
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Sperm Immobilizing Agents",D27.505.696.875.360.276.727
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Spermatocidal Agents",D27.505.696.875.360.276.827
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Male",D27.505.696.875.360.443
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Male.Antispermatogenic Agents",D27.505.696.875.360.443.068
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Male.Antispermatogenic Agents.Spermatogenesis-Blocking Agents",D27.505.696.875.360.443.068.760
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Fertility Agents,D27.505.696.875.552
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Fertility Agents.Fertility Agents, Female",D27.505.696.875.552.344
+"Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Fertility Agents.Fertility Agents, Male",D27.505.696.875.552.510
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Luteolytic Agents,D27.505.696.875.610
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Menstruation-Inducing Agents,D27.505.696.875.650
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Oxytocics,D27.505.696.875.737
+Chemical Actions and Uses.Pharmacologic Actions.Physiological Effects of Drugs.Reproductive Control Agents.Tocolytic Agents,D27.505.696.875.825
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses,D27.505.954
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Allergic Agents,D27.505.954.016
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents,D27.505.954.122
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Bacterial Agents,D27.505.954.122.085
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Bacterial Agents.Antitreponemal Agents,D27.505.954.122.085.222
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Bacterial Agents.Antitubercular Agents,D27.505.954.122.085.255
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Bacterial Agents.Antitubercular Agents.Antibiotics, Antitubercular",D27.505.954.122.085.255.135
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Bacterial Agents.beta-Lactamase Inhibitors,D27.505.954.122.085.516
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Bacterial Agents.Leprostatic Agents,D27.505.954.122.085.777
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antifungal Agents,D27.505.954.122.136
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Infective Agents, Local",D27.505.954.122.187
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Infective Agents, Local.Hand Sanitizers",D27.505.954.122.187.500
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Anti-Infective Agents, Urinary",D27.505.954.122.237
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents,D27.505.954.122.250
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Anthelmintics,D27.505.954.122.250.075
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Anthelmintics.Antinematodal Agents,D27.505.954.122.250.075.080
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Anthelmintics.Antinematodal Agents.Filaricides,D27.505.954.122.250.075.080.275
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Anthelmintics.Antiplatyhelmintic Agents,D27.505.954.122.250.075.100
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Anthelmintics.Antiplatyhelmintic Agents.Anticestodal Agents,D27.505.954.122.250.075.100.040
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Anthelmintics.Antiplatyhelmintic Agents.Schistosomicides,D27.505.954.122.250.075.100.750
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Antiprotozoal Agents,D27.505.954.122.250.100
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Antiprotozoal Agents.Amebicides,D27.505.954.122.250.100.055
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Antiprotozoal Agents.Antimalarials,D27.505.954.122.250.100.085
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Antiprotozoal Agents.Antitrichomonal Agents,D27.505.954.122.250.100.115
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Antiprotozoal Agents.Coccidiostats,D27.505.954.122.250.100.170
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiparasitic Agents.Antiprotozoal Agents.Trypanocidal Agents,D27.505.954.122.250.100.875
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents,D27.505.954.122.388
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Anti-Retroviral Agents,D27.505.954.122.388.077
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Anti-Retroviral Agents.Anti-HIV Agents,D27.505.954.122.388.077.088
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Anti-Retroviral Agents.Anti-HIV Agents.CCR5 Receptor Antagonists,D27.505.954.122.388.077.088.104
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Anti-Retroviral Agents.Anti-HIV Agents.HIV Fusion Inhibitors,D27.505.954.122.388.077.088.209
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Anti-Retroviral Agents.Anti-HIV Agents.HIV Integrase Inhibitors,D27.505.954.122.388.077.088.314
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Anti-Retroviral Agents.Anti-HIV Agents.HIV Protease Inhibitors,D27.505.954.122.388.077.088.420
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Anti-Retroviral Agents.Reverse Transcriptase Inhibitors,D27.505.954.122.388.077.750
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Viral Fusion Protein Inhibitors,D27.505.954.122.388.538
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Antiviral Agents.Viral Fusion Protein Inhibitors.HIV Fusion Inhibitors,D27.505.954.122.388.538.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Disinfectants,D27.505.954.122.425
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Disinfectants.Contact Lens Solutions,D27.505.954.122.425.150
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Disinfectants.Dental Disinfectants,D27.505.954.122.425.300
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Disinfectants.Dental Disinfectants.Root Canal Irrigants,D27.505.954.122.425.300.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Infective Agents.Disinfectants.Hand Sanitizers,D27.505.954.122.425.650
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Inflammatory Agents,D27.505.954.158
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Inflammatory Agents.Anti-Inflammatory Agents, Non-Steroidal",D27.505.954.158.030
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Inflammatory Agents.Anti-Inflammatory Agents, Non-Steroidal.Cyclooxygenase Inhibitors",D27.505.954.158.030.500
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Inflammatory Agents.Anti-Inflammatory Agents, Non-Steroidal.Cyclooxygenase Inhibitors.Cyclooxygenase 2 Inhibitors",D27.505.954.158.030.500.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Anti-Inflammatory Agents.Demulcents,D27.505.954.158.515
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents,D27.505.954.248
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Angiogenesis Inhibitors,D27.505.954.248.025
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Antibiotics, Antineoplastic",D27.505.954.248.106
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Anticarcinogenic Agents,D27.505.954.248.125
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Antimetabolites, Antineoplastic",D27.505.954.248.144
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Antimitotic Agents,D27.505.954.248.147
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Antineoplastic Agents, Alkylating",D27.505.954.248.150
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Antineoplastic Agents, Hormonal",D27.505.954.248.169
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Antineoplastic Agents, Phytogenic",D27.505.954.248.179
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Antineoplastic Agents, Immunological",D27.505.954.248.384
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Myeloablative Agonists,D27.505.954.248.589
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Poly(ADP-ribose) Polymerase Inhibitors,D27.505.954.248.692
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Topoisomerase Inhibitors,D27.505.954.248.794
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Topoisomerase Inhibitors.Topoisomerase I Inhibitors,D27.505.954.248.794.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antineoplastic Agents.Topoisomerase Inhibitors.Topoisomerase II Inhibitors,D27.505.954.248.794.750
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antirheumatic Agents,D27.505.954.329
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antirheumatic Agents.Anti-Inflammatory Agents, Non-Steroidal",D27.505.954.329.030
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antirheumatic Agents.Anti-Inflammatory Agents, Non-Steroidal.Cyclooxygenase Inhibitors",D27.505.954.329.030.500
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antirheumatic Agents.Anti-Inflammatory Agents, Non-Steroidal.Cyclooxygenase Inhibitors.Cyclooxygenase 2 Inhibitors",D27.505.954.329.030.500.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antirheumatic Agents.Gout Suppressants,D27.505.954.329.337
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Antirheumatic Agents.Gout Suppressants.Uricosuric Agents,D27.505.954.329.337.900
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents,D27.505.954.411
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Anti-Arrhythmia Agents,D27.505.954.411.097
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Antihypertensive Agents,D27.505.954.411.162
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Calcium Channel Blockers,D27.505.954.411.192
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Cardioplegic Solutions,D27.505.954.411.207
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Cardiotonic Agents,D27.505.954.411.222
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Fibrinolytic Agents,D27.505.954.411.320
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Natriuretic Agents,D27.505.954.411.455
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Nitric Oxide Donors,D27.505.954.411.590
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Potassium Channel Blockers,D27.505.954.411.645
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Sclerosing Solutions,D27.505.954.411.700
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Sodium Channel Blockers,D27.505.954.411.720
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Sodium Channel Blockers.Voltage-Gated Sodium Channel Blockers,D27.505.954.411.720.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Vasoconstrictor Agents,D27.505.954.411.793
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Vasoconstrictor Agents.Calcium Channel Agonists,D27.505.954.411.793.205
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Vasoconstrictor Agents.Nasal Decongestants,D27.505.954.411.793.610
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Vasodilator Agents,D27.505.954.411.918
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Cardiovascular Agents.Vasodilator Agents.Endothelium-Dependent Relaxing Factors,D27.505.954.411.918.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents,D27.505.954.427
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Abuse-Deterrent Formulations,D27.505.954.427.005
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Abuse-Deterrent Formulations.Aversive Agents,D27.505.954.427.005.500
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Adjuvants, Anesthesia",D27.505.954.427.010
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Alcohol Deterrents,D27.505.954.427.020
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Analgesics,D27.505.954.427.040
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Analgesics.Analgesics, Non-Narcotic",D27.505.954.427.040.100
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Analgesics.Analgesics, Short-Acting",D27.505.954.427.040.381
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Analgesics.Dentin Desensitizing Agents,D27.505.954.427.040.437
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Analgesics.Narcotics,D27.505.954.427.040.550
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Analgesics.Narcotics.Analgesics, Opioid",D27.505.954.427.040.550.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Anticonvulsants,D27.505.954.427.080
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Anti-Dyskinesia Agents,D27.505.954.427.090
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Anti-Dyskinesia Agents.Antiparkinson Agents,D27.505.954.427.090.050
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Anti-Dyskinesia Agents.Antiparkinson Agents.Aromatic Amino Acid Decarboxylase Inhibitors,D27.505.954.427.090.050.249
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Anti-Dyskinesia Agents.Antiparkinson Agents.Catechol O-Methyltransferase Inhibitors,D27.505.954.427.090.050.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Antiemetics,D27.505.954.427.095
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Anti-Obesity Agents,D27.505.954.427.140
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Anti-Obesity Agents.Appetite Depressants,D27.505.954.427.140.155
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Antitussive Agents,D27.505.954.427.153
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants,D27.505.954.427.210
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Anesthetics,D27.505.954.427.210.100
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Anesthetics.Anesthetics, Combined",D27.505.954.427.210.100.017
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Anesthetics.Anesthetics, General",D27.505.954.427.210.100.035
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Anesthetics.Anesthetics, General.Anesthetics, Inhalation",D27.505.954.427.210.100.035.060
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Anesthetics.Anesthetics, General.Anesthetics, Intravenous",D27.505.954.427.210.100.035.075
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Anesthetics.Anesthetics, General.Anesthetics, Intravenous.Anesthetics, Dissociative",D27.505.954.427.210.100.035.075.035
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Anesthetics.Anesthetics, Local",D27.505.954.427.210.100.200
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Hypnotics and Sedatives,D27.505.954.427.210.350
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Narcotics,D27.505.954.427.210.600
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Narcotics.Analgesics, Opioid",D27.505.954.427.210.600.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Tranquilizing Agents,D27.505.954.427.210.950
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Tranquilizing Agents.Anti-Anxiety Agents,D27.505.954.427.210.950.015
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Tranquilizing Agents.Antimanic Agents,D27.505.954.427.210.950.025
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Depressants.Tranquilizing Agents.Antipsychotic Agents,D27.505.954.427.210.950.040
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Stimulants,D27.505.954.427.220
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Stimulants.Aphrodisiacs,D27.505.954.427.220.045
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Stimulants.Appetite Stimulants,D27.505.954.427.220.050
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Stimulants.Convulsants,D27.505.954.427.220.224
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Central Nervous System Stimulants.Wakefulness-Promoting Agents,D27.505.954.427.220.612
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Emetics,D27.505.954.427.270
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Muscle Relaxants, Central",D27.505.954.427.525
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Narcotic Antagonists,D27.505.954.427.550
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Neuroprotective Agents,D27.505.954.427.575
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Nootropic Agents,D27.505.954.427.637
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs,D27.505.954.427.700
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs.Antidepressive Agents,D27.505.954.427.700.122
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs.Antidepressive Agents.Antidepressive Agents, Second-Generation",D27.505.954.427.700.122.050
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs.Antidepressive Agents.Antidepressive Agents, Tricyclic",D27.505.954.427.700.122.055
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs.Hallucinogens,D27.505.954.427.700.372
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs.Tranquilizing Agents,D27.505.954.427.700.872
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs.Tranquilizing Agents.Anti-Anxiety Agents,D27.505.954.427.700.872.015
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs.Tranquilizing Agents.Antimanic Agents,D27.505.954.427.700.872.025
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Central Nervous System Agents.Psychotropic Drugs.Tranquilizing Agents.Antipsychotic Agents,D27.505.954.427.700.872.331
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Dermatologic Agents,D27.505.954.444
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Dermatologic Agents.Antipruritics,D27.505.954.444.075
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Dermatologic Agents.Astringents,D27.505.954.444.100
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Dermatologic Agents.Emollients,D27.505.954.444.200
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Dermatologic Agents.Keratolytic Agents,D27.505.954.444.400
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Dermatologic Agents.Photosensitizing Agents,D27.505.954.444.600
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Dermatologic Agents.Sunscreening Agents,D27.505.954.444.695
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents,D27.505.954.483
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Antacids,D27.505.954.483.080
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Antidiarrheals,D27.505.954.483.161
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Antiemetics,D27.505.954.483.200
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Anti-Ulcer Agents,D27.505.954.483.203
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Cathartics,D27.505.954.483.396
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Cholagogues and Choleretics,D27.505.954.483.508
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Demulcents,D27.505.954.483.534
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Emetics,D27.505.954.483.560
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Guanylyl Cyclase C Agonists,D27.505.954.483.590
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Laxatives,D27.505.954.483.620
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Gastrointestinal Agents.Lipotropic Agents,D27.505.954.483.680
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents,D27.505.954.502
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Anticoagulants,D27.505.954.502.119
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Anticoagulants.Antithrombins,D27.505.954.502.119.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Anticoagulants.Antithrombins.Factor Xa Inhibitors,D27.505.954.502.119.500.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Antisickling Agents,D27.505.954.502.135
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Blood Substitutes,D27.505.954.502.140
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Blood Substitutes.Plasma Substitutes,D27.505.954.502.140.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Coagulants,D27.505.954.502.270
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Coagulants.Hemostatics,D27.505.954.502.270.463
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Coagulants.Hemostatics.Antifibrinolytic Agents,D27.505.954.502.270.463.091
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Coagulants.Heparin Antagonists,D27.505.954.502.270.546
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Fibrinolytic Agents,D27.505.954.502.427
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Hematinics,D27.505.954.502.543
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Hematologic Agents.Platelet Aggregation Inhibitors,D27.505.954.502.780
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Lipid Regulating Agents,D27.505.954.557
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Lipid Regulating Agents.Hypolipidemic Agents,D27.505.954.557.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Lipid Regulating Agents.Hypolipidemic Agents.Anticholesteremic Agents,D27.505.954.557.500.202
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Lipid Regulating Agents.Hypolipidemic Agents.Anticholesteremic Agents.Hydroxymethylglutaryl-CoA Reductase Inhibitors,D27.505.954.557.500.202.370
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Lipid Regulating Agents.Hypolipidemic Agents.Lipotropic Agents,D27.505.954.557.500.601
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Lipid Regulating Agents.Hypolipidemic Agents.Lipotropic Agents.Lipoprotein Lipase Activators,D27.505.954.557.500.601.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions,D27.505.954.578
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions.Cardioplegic Solutions,D27.505.954.578.322
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions.Dialysis Solutions,D27.505.954.578.483
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions.Dialysis Solutions.Hemodialysis Solutions,D27.505.954.578.483.651
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions.Ophthalmic Solutions,D27.505.954.578.645
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions.Ophthalmic Solutions.Lubricant Eye Drops,D27.505.954.578.645.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions.Parenteral Nutrition Solutions,D27.505.954.578.733
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions.Parenteral Nutrition Solutions.Fat Emulsions, Intravenous",D27.505.954.578.733.500
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Pharmaceutical Solutions.Sclerosing Solutions,D27.505.954.578.822
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Radiation-Sensitizing Agents,D27.505.954.600
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Radiation-Sensitizing Agents.Photosensitizing Agents,D27.505.954.600.710
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Renal Agents,D27.505.954.613
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Renal Agents.Anti-Infective Agents, Urinary",D27.505.954.613.056
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Renal Agents.Uricosuric Agents,D27.505.954.613.860
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents,D27.505.954.705
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Abortifacient Agents,D27.505.954.705.131
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Abortifacient Agents.Abortifacient Agents, Nonsteroidal",D27.505.954.705.131.100
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Abortifacient Agents.Abortifacient Agents, Steroidal",D27.505.954.705.131.200
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents,D27.505.954.705.360
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female",D27.505.954.705.360.276
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral",D27.505.954.705.360.276.210
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral.Contraceptives, Oral, Combined",D27.505.954.705.360.276.210.100
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral.Contraceptives, Oral, Hormonal",D27.505.954.705.360.276.210.277
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral.Contraceptives, Oral, Sequential",D27.505.954.705.360.276.210.400
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Oral.Contraceptives, Oral, Synthetic",D27.505.954.705.360.276.210.443
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Postcoital",D27.505.954.705.360.276.310
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Postcoital.Contraceptives, Postcoital, Hormonal",D27.505.954.705.360.276.310.235
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Contraceptives, Postcoital.Contraceptives, Postcoital, Synthetic",D27.505.954.705.360.276.310.360
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Luteolytic Agents",D27.505.954.705.360.276.450
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Menstruation-Inducing Agents",D27.505.954.705.360.276.500
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Sperm Immobilizing Agents",D27.505.954.705.360.276.727
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Female.Spermatocidal Agents",D27.505.954.705.360.276.827
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Male",D27.505.954.705.360.443
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Male.Antispermatogenic Agents",D27.505.954.705.360.443.068
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Contraceptive Agents.Contraceptive Agents, Male.Antispermatogenic Agents.Spermatogenesis-Blocking Agents",D27.505.954.705.360.443.068.760
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Fertility Agents,D27.505.954.705.552
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Fertility Agents.Fertility Agents, Female",D27.505.954.705.552.344
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Fertility Agents.Fertility Agents, Male",D27.505.954.705.552.510
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Luteolytic Agents,D27.505.954.705.610
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Menstruation-Inducing Agents,D27.505.954.705.650
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Oxytocics,D27.505.954.705.737
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Reproductive Control Agents.Tocolytic Agents,D27.505.954.705.825
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents,D27.505.954.796
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents.Anti-Asthmatic Agents,D27.505.954.796.050
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents.Anti-Asthmatic Agents.Bronchodilator Agents,D27.505.954.796.050.100
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents.Antitussive Agents,D27.505.954.796.090
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents.Bronchoconstrictor Agents,D27.505.954.796.170
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents.Demulcents,D27.505.954.796.210
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents.Expectorants,D27.505.954.796.250
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents.Nasal Decongestants,D27.505.954.796.560
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Respiratory System Agents.Pulmonary Surfactants,D27.505.954.796.600
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Sleep Aids, Pharmaceutical",D27.505.954.842
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Sleep Aids, Pharmaceutical.Orexin Receptor Antagonists",D27.505.954.842.500
+"Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Stimulants, Historical",D27.505.954.888
+Chemical Actions and Uses.Pharmacologic Actions.Therapeutic Uses.Urological Agents,D27.505.954.944
+Chemical Actions and Uses.Specialty Uses of Chemicals,D27.720
+Chemical Actions and Uses.Specialty Uses of Chemicals.Adhesives,D27.720.013
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals,D27.720.031
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Fertilizers,D27.720.031.400
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides,D27.720.031.700
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Acaricides,D27.720.031.700.071
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Chemosterilants,D27.720.031.700.141
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Fungicides, Industrial",D27.720.031.700.288
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Herbicides,D27.720.031.700.366
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Herbicides.Defoliants, Chemical",D27.720.031.700.366.181
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Insect Repellents,D27.720.031.700.441
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Insecticides,D27.720.031.700.491
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Molluscacides,D27.720.031.700.596
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Pesticide Residues,D27.720.031.700.672
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Pesticide Synergists,D27.720.031.700.748
+Chemical Actions and Uses.Specialty Uses of Chemicals.Agrochemicals.Pesticides.Rodenticides,D27.720.031.700.853
+Chemical Actions and Uses.Specialty Uses of Chemicals.Antistatic Agents,D27.720.066
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials,D27.720.102
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Biocompatible Materials,D27.720.102.130
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Bone Cements,D27.720.102.158
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Cariogenic Agents,D27.720.102.187
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Cariostatic Agents,D27.720.102.223
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Dental Materials,D27.720.102.339
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Dental Materials.Photoinitiators, Dental",D27.720.102.339.249
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Dental Materials.Pulp Capping and Pulpectomy Agents,D27.720.102.339.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Dermal Fillers,D27.720.102.461
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Mouthwashes,D27.720.102.583
+Chemical Actions and Uses.Specialty Uses of Chemicals.Biomedical and Dental Materials.Tissue Adhesives,D27.720.102.919
+Chemical Actions and Uses.Specialty Uses of Chemicals.Caustics,D27.720.185
+Chemical Actions and Uses.Specialty Uses of Chemicals.Coloring Agents,D27.720.233
+Chemical Actions and Uses.Specialty Uses of Chemicals.Coloring Agents.Chromogenic Compounds,D27.720.233.174
+Chemical Actions and Uses.Specialty Uses of Chemicals.Coloring Agents.Fluorescent Dyes,D27.720.233.348
+Chemical Actions and Uses.Specialty Uses of Chemicals.Coloring Agents.Food Coloring Agents,D27.720.233.674
+Chemical Actions and Uses.Specialty Uses of Chemicals.Coloring Agents.Hair Dyes,D27.720.233.837
+Chemical Actions and Uses.Specialty Uses of Chemicals.Contrast Media,D27.720.259
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics,D27.720.269
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Antiperspirants,D27.720.269.189
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Cosmeceuticals,D27.720.269.285
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Dentifrices,D27.720.269.380
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Deodorants,D27.720.269.385
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Hair Preparations,D27.720.269.430
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Hair Preparations.Hair Bleaching Agents,D27.720.269.430.214
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Hair Preparations.Hair Dyes,D27.720.269.430.430
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Mouthwashes,D27.720.269.583
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Perfume,D27.720.269.700
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Skin Lightening Preparations,D27.720.269.750
+Chemical Actions and Uses.Specialty Uses of Chemicals.Cosmetics.Sunscreening Agents,D27.720.269.800
+Chemical Actions and Uses.Specialty Uses of Chemicals.Disinfectants,D27.720.274
+Chemical Actions and Uses.Specialty Uses of Chemicals.Disinfectants.Contact Lens Solutions,D27.720.274.150
+Chemical Actions and Uses.Specialty Uses of Chemicals.Disinfectants.Dental Disinfectants,D27.720.274.300
+Chemical Actions and Uses.Specialty Uses of Chemicals.Disinfectants.Dental Disinfectants.Root Canal Irrigants,D27.720.274.300.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Disinfectants.Hand Sanitizers,D27.720.274.650
+Chemical Actions and Uses.Specialty Uses of Chemicals.Explosive Agents,D27.720.317
+Chemical Actions and Uses.Specialty Uses of Chemicals.Fixatives,D27.720.355
+Chemical Actions and Uses.Specialty Uses of Chemicals.Flame Retardants,D27.720.361
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients,D27.720.372
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives,D27.720.372.300
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Fat Substitutes,D27.720.372.300.350
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Flavoring Agents,D27.720.372.300.353
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Flavoring Agents.Sweetening Agents,D27.720.372.300.353.609
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Flavoring Agents.Sweetening Agents.Non-Nutritive Sweeteners,D27.720.372.300.353.609.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Flavoring Agents.Sweetening Agents.Nutritive Sweeteners,D27.720.372.300.353.609.750
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Flavoring Agents.Sweetening Agents.Nutritive Sweeteners.Dietary Sucrose,D27.720.372.300.353.609.750.250
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Flavoring Agents.Sweetening Agents.Nutritive Sweeteners.High Fructose Corn Syrup,D27.720.372.300.353.609.750.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Food Coloring Agents,D27.720.372.300.355
+Chemical Actions and Uses.Specialty Uses of Chemicals.Food Ingredients.Food Additives.Food Preservatives,D27.720.372.300.385
+Chemical Actions and Uses.Specialty Uses of Chemicals.Hygroscopic Agents,D27.720.375
+Chemical Actions and Uses.Specialty Uses of Chemicals.Ionophores,D27.720.395
+Chemical Actions and Uses.Specialty Uses of Chemicals.Ionophores.Calcium Ionophores,D27.720.395.100
+Chemical Actions and Uses.Specialty Uses of Chemicals.Ionophores.Potassium Ionophores,D27.720.395.400
+Chemical Actions and Uses.Specialty Uses of Chemicals.Ionophores.Proton Ionophores,D27.720.395.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Ionophores.Sodium Ionophores,D27.720.395.750
+Chemical Actions and Uses.Specialty Uses of Chemicals.Irritants,D27.720.400
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals,D27.720.470
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Buffers,D27.720.470.280
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Buffers.Ampholyte Mixtures,D27.720.470.280.060
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Culture Media,D27.720.470.305
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Culture Media.Culture Media, Conditioned",D27.720.470.305.250
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Culture Media.Culture Media, Serum-Free",D27.720.470.305.255
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents,D27.720.470.410
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Affinity Labels,D27.720.470.410.080
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Affinity Labels.Photoaffinity Labels,D27.720.470.410.080.600
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Chromogenic Compounds,D27.720.470.410.200
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Cross-Linking Reagents,D27.720.470.410.210
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Intercalating Agents,D27.720.470.410.360
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Luminescent Agents,D27.720.470.410.505
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Luminescent Agents.Fluorescent Dyes,D27.720.470.410.505.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Neuronal Tract-Tracers,D27.720.470.410.577
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Radiopharmaceuticals,D27.720.470.410.650
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Reagent Kits, Diagnostic",D27.720.470.410.680
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Reagent Kits, Diagnostic.Reagent Strips",D27.720.470.410.680.680
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Reducing Agents,D27.720.470.410.690
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Sulfhydryl Reagents,D27.720.470.410.700
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Indicators and Reagents.Thiobarbituric Acid Reactive Substances,D27.720.470.410.750
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Ion Exchange Resins,D27.720.470.420
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Ion Exchange Resins.Anion Exchange Resins,D27.720.470.420.050
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Ion Exchange Resins.Cation Exchange Resins,D27.720.470.420.275
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Ligands,D27.720.470.480
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes,D27.720.470.530
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes,D27.720.470.530.600
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Antisense Elements (Genetics),D27.720.470.530.600.150
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Antisense Elements (Genetics).DNA, Antisense",D27.720.470.530.600.150.200
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Antisense Elements (Genetics).DNA, Antisense.Oligodeoxyribonucleotides, Antisense",D27.720.470.530.600.150.200.640
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Antisense Elements (Genetics).Oligonucleotides, Antisense",D27.720.470.530.600.150.640
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Antisense Elements (Genetics).Oligonucleotides, Antisense.Oligodeoxyribonucleotides, Antisense",D27.720.470.530.600.150.640.640
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Antisense Elements (Genetics).Oligonucleotides, Antisense.Oligoribonucleotides, Antisense",D27.720.470.530.600.150.640.645
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Antisense Elements (Genetics).RNA, Antisense",D27.720.470.530.600.150.760
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Antisense Elements (Genetics).RNA, Antisense.Oligoribonucleotides, Antisense",D27.720.470.530.600.150.760.645
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.DNA Probes,D27.720.470.530.600.223
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.DNA Probes.DNA, Complementary",D27.720.470.530.600.223.260
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.DNA Probes.DNA Primers,D27.720.470.530.600.223.600
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.DNA Probes.DNA Probes, HLA",D27.720.470.530.600.223.615
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.DNA Probes.DNA Probes, HPV",D27.720.470.530.600.223.620
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.Oligonucleotide Probes,D27.720.470.530.600.650
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.RNA Probes,D27.720.470.530.600.825
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Molecular Probes.Nucleic Acid Probes.RNA Probes.RNA, Complementary",D27.720.470.530.600.825.840
+Chemical Actions and Uses.Specialty Uses of Chemicals.Laboratory Chemicals.Small Molecule Libraries,D27.720.470.765
+Chemical Actions and Uses.Specialty Uses of Chemicals.Lubricants,D27.720.556
+Chemical Actions and Uses.Specialty Uses of Chemicals.Lubricants.Lubricant Eye Drops,D27.720.556.249
+Chemical Actions and Uses.Specialty Uses of Chemicals.Lubricants.Viscosupplements,D27.720.556.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Nerve Agents,D27.720.599
+Chemical Actions and Uses.Specialty Uses of Chemicals.Oxidants,D27.720.642
+Chemical Actions and Uses.Specialty Uses of Chemicals.Oxidants.Bleaching Agents,D27.720.642.315
+Chemical Actions and Uses.Specialty Uses of Chemicals.Oxidants.Bleaching Agents.Hair Bleaching Agents,D27.720.642.315.249
+Chemical Actions and Uses.Specialty Uses of Chemicals.Oxidants.Bleaching Agents.Tooth Bleaching Agents,D27.720.642.315.500
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Oxidants.Oxidants, Photochemical",D27.720.642.631
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutic Aids,D27.720.744
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutic Aids.Adjuvants, Pharmaceutic",D27.720.744.064
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutic Aids.Aversive Agents,D27.720.744.179
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutic Aids.Flavoring Agents,D27.720.744.294
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutic Aids.Ointment Bases,D27.720.744.523
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutic Aids.Pharmaceutical Vehicles,D27.720.744.770
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutic Aids.Pharmaceutical Vehicles.Excipients,D27.720.744.770.419
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutic Aids.Preservatives, Pharmaceutical",D27.720.744.771
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions,D27.720.752
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions.Cardioplegic Solutions,D27.720.752.322
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions.Dialysis Solutions,D27.720.752.483
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions.Dialysis Solutions.Hemodialysis Solutions,D27.720.752.483.651
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions.Ophthalmic Solutions,D27.720.752.608
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions.Ophthalmic Solutions.Lubricant Eye Drops,D27.720.752.608.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions.Parenteral Nutrition Solutions,D27.720.752.733
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions.Parenteral Nutrition Solutions.Fat Emulsions, Intravenous",D27.720.752.733.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Pharmaceutical Solutions.Sclerosing Solutions,D27.720.752.822
+Chemical Actions and Uses.Specialty Uses of Chemicals.Plasticizers,D27.720.760
+Chemical Actions and Uses.Specialty Uses of Chemicals.Poisons,D27.720.777
+Chemical Actions and Uses.Specialty Uses of Chemicals.Poisons.Chemical Warfare Agents,D27.720.777.300
+Chemical Actions and Uses.Specialty Uses of Chemicals.Poisons.Chemical Warfare Agents.Nerve Agents,D27.720.777.300.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents,D27.720.799
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Anticarcinogenic Agents,D27.720.799.018
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Antidotes,D27.720.799.037
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Antimutagenic Agents,D27.720.799.042
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Antioxidants,D27.720.799.047
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Cardiotonic Agents,D27.720.799.080
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Cariostatic Agents,D27.720.799.113
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Cryoprotective Agents,D27.720.799.180
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Radiation-Protective Agents,D27.720.799.763
+Chemical Actions and Uses.Specialty Uses of Chemicals.Protective Agents.Radiation-Protective Agents.Sunscreening Agents,D27.720.799.763.764
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Riot Control Agents, Chemical",D27.720.821
+"Chemical Actions and Uses.Specialty Uses of Chemicals.Riot Control Agents, Chemical.Tear Gases",D27.720.821.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Sequestering Agents,D27.720.832
+Chemical Actions and Uses.Specialty Uses of Chemicals.Sequestering Agents.Chelating Agents,D27.720.832.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Sequestering Agents.Chelating Agents.Calcium Chelating Agents,D27.720.832.500.204
+Chemical Actions and Uses.Specialty Uses of Chemicals.Sequestering Agents.Chelating Agents.Iron Chelating Agents,D27.720.832.500.410
+Chemical Actions and Uses.Specialty Uses of Chemicals.Sequestering Agents.Chelating Agents.Iron Chelating Agents.Siderophores,D27.720.832.500.410.750
+Chemical Actions and Uses.Specialty Uses of Chemicals.Solvents,D27.720.844
+Chemical Actions and Uses.Specialty Uses of Chemicals.Solvents.Ionic Liquids,D27.720.844.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents,D27.720.877
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents.Antifoaming Agents,D27.720.877.048
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents.Demulcents,D27.720.877.156
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents.Detergents,D27.720.877.265
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents.Detergents.Soaps,D27.720.877.265.861
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents.Emulsifying Agents,D27.720.877.383
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents.Emulsifying Agents.Cerumenolytic Agents,D27.720.877.383.500
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents.Immunosorbents,D27.720.877.501
+Chemical Actions and Uses.Specialty Uses of Chemicals.Surface-Active Agents.Wetting Agents,D27.720.877.974
+Chemical Actions and Uses.Specialty Uses of Chemicals.Viscoelastic Substances,D27.720.944
+Chemical Actions and Uses.Specialty Uses of Chemicals.Viscoelastic Substances.Viscosupplements,D27.720.944.500
+Chemical Actions and Uses.Toxic Actions,D27.888
+Chemical Actions and Uses.Toxic Actions.Endocrine Disruptors,D27.888.141
+Chemical Actions and Uses.Toxic Actions.Environmental Pollutants,D27.888.284
+Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Air Pollutants,D27.888.284.101
+"Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Air Pollutants.Air Pollutants, Occupational",D27.888.284.101.268
+"Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Air Pollutants.Air Pollutants, Radioactive",D27.888.284.101.393
+Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Air Pollutants.Greenhouse Gases,D27.888.284.101.696
+Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Soil Pollutants,D27.888.284.756
+"Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Soil Pollutants.Soil Pollutants, Radioactive",D27.888.284.756.674
+Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Water Pollutants,D27.888.284.903
+"Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Water Pollutants.Water Pollutants, Chemical",D27.888.284.903.655
+"Chemical Actions and Uses.Toxic Actions.Environmental Pollutants.Water Pollutants.Water Pollutants, Radioactive",D27.888.284.903.821
+Chemical Actions and Uses.Toxic Actions.Hazardous Substances,D27.888.426
+Chemical Actions and Uses.Toxic Actions.Hazardous Substances.Hazardous Waste,D27.888.426.500
+Chemical Actions and Uses.Toxic Actions.Hazardous Substances.Hazardous Waste.Radioactive Waste,D27.888.426.500.638
+Chemical Actions and Uses.Toxic Actions.Noxae,D27.888.569
+Chemical Actions and Uses.Toxic Actions.Noxae.Alkylating Agents,D27.888.569.035
+"Chemical Actions and Uses.Toxic Actions.Noxae.Alkylating Agents.Antineoplastic Agents, Alkylating",D27.888.569.035.035
+Chemical Actions and Uses.Toxic Actions.Noxae.Antimetabolites,D27.888.569.042
+"Chemical Actions and Uses.Toxic Actions.Noxae.Antimetabolites.Antimetabolites, Antineoplastic",D27.888.569.042.030
+Chemical Actions and Uses.Toxic Actions.Noxae.Antispermatogenic Agents,D27.888.569.071
+Chemical Actions and Uses.Toxic Actions.Noxae.Antispermatogenic Agents.Sperm Immobilizing Agents,D27.888.569.071.379
+Chemical Actions and Uses.Toxic Actions.Noxae.Antispermatogenic Agents.Spermatocidal Agents,D27.888.569.071.569
+Chemical Actions and Uses.Toxic Actions.Noxae.Antispermatogenic Agents.Spermatogenesis-Blocking Agents,D27.888.569.071.760
+Chemical Actions and Uses.Toxic Actions.Noxae.Carcinogens,D27.888.569.100
+"Chemical Actions and Uses.Toxic Actions.Noxae.Carcinogens.Carcinogens, Environmental",D27.888.569.100.125
+Chemical Actions and Uses.Toxic Actions.Noxae.Carcinogens.Peroxisome Proliferators,D27.888.569.100.675
+Chemical Actions and Uses.Toxic Actions.Noxae.Cardiotoxins,D27.888.569.142
+Chemical Actions and Uses.Toxic Actions.Noxae.Caustics,D27.888.569.185
+Chemical Actions and Uses.Toxic Actions.Noxae.Cytostatic Agents,D27.888.569.199
+Chemical Actions and Uses.Toxic Actions.Noxae.Cytotoxins,D27.888.569.213
+Chemical Actions and Uses.Toxic Actions.Noxae.Cytotoxins.Hemolytic Agents,D27.888.569.213.444
+Chemical Actions and Uses.Toxic Actions.Noxae.Dermotoxins,D27.888.569.242
+Chemical Actions and Uses.Toxic Actions.Noxae.Immunotoxins,D27.888.569.271
+Chemical Actions and Uses.Toxic Actions.Noxae.Irritants,D27.888.569.300
+Chemical Actions and Uses.Toxic Actions.Noxae.Mutagens,D27.888.569.468
+Chemical Actions and Uses.Toxic Actions.Noxae.Mutagens.Aneugens,D27.888.569.468.060
+Chemical Actions and Uses.Toxic Actions.Noxae.Neurotoxins,D27.888.569.504
+Chemical Actions and Uses.Toxic Actions.Noxae.Oxidants,D27.888.569.540
+"Chemical Actions and Uses.Toxic Actions.Noxae.Oxidants.Oxidants, Photochemical",D27.888.569.540.631
+Chemical Actions and Uses.Toxic Actions.Noxae.Poisons,D27.888.569.612
+Chemical Actions and Uses.Toxic Actions.Noxae.Poisons.Chemical Warfare Agents,D27.888.569.612.150
+Chemical Actions and Uses.Toxic Actions.Noxae.Pyrogens,D27.888.569.673
+"Chemical Actions and Uses.Toxic Actions.Noxae.Riot Control Agents, Chemical",D27.888.569.734
+"Chemical Actions and Uses.Toxic Actions.Noxae.Riot Control Agents, Chemical.Tear Gases",D27.888.569.734.500
+Chemical Actions and Uses.Toxic Actions.Noxae.Teratogens,D27.888.569.864
+Chemical Actions and Uses.Toxic Actions.Pesticides,D27.888.723
+Chemical Actions and Uses.Toxic Actions.Pesticides.Acaricides,D27.888.723.071
+Chemical Actions and Uses.Toxic Actions.Pesticides.Chemosterilants,D27.888.723.141
+"Chemical Actions and Uses.Toxic Actions.Pesticides.Fungicides, Industrial",D27.888.723.288
+Chemical Actions and Uses.Toxic Actions.Pesticides.Herbicides,D27.888.723.366
+"Chemical Actions and Uses.Toxic Actions.Pesticides.Herbicides.Defoliants, Chemical",D27.888.723.366.181
+Chemical Actions and Uses.Toxic Actions.Pesticides.Insect Repellents,D27.888.723.441
+Chemical Actions and Uses.Toxic Actions.Pesticides.Insecticides,D27.888.723.491
+Chemical Actions and Uses.Toxic Actions.Pesticides.Molluscacides,D27.888.723.596
+Chemical Actions and Uses.Toxic Actions.Pesticides.Pesticide Residues,D27.888.723.697
+Chemical Actions and Uses.Toxic Actions.Pesticides.Pesticide Synergists,D27.888.723.748
+Chemical Actions and Uses.Toxic Actions.Pesticides.Rodenticides,D27.888.723.853

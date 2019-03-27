@@ -1,0 +1,1255 @@
+id,value
+Biological Factors,D23
+Biological Factors.Alarmins,D23.035
+Biological Factors.Antigens,D23.050
+Biological Factors.Antigens.Allergens,D23.050.063
+Biological Factors.Antigens.Antigen-Antibody Complex,D23.050.101
+"Biological Factors.Antigens.Antigens, Archaeal",D23.050.140
+"Biological Factors.Antigens.Antigens, Bacterial",D23.050.161
+"Biological Factors.Antigens.Antigens, Bacterial.Adhesins, Bacterial",D23.050.161.050
+"Biological Factors.Antigens.Antigens, Bacterial.Adhesins, Bacterial.Adhesins, Escherichia coli",D23.050.161.050.040
+"Biological Factors.Antigens.Antigens, Bacterial.Lepromin",D23.050.161.386
+"Biological Factors.Antigens.Antigens, Bacterial.Polysaccharides, Bacterial",D23.050.161.616
+"Biological Factors.Antigens.Antigens, Bacterial.Polysaccharides, Bacterial.Lipopolysaccharides",D23.050.161.616.525
+"Biological Factors.Antigens.Antigens, Bacterial.Polysaccharides, Bacterial.Lipopolysaccharides.Lipid A",D23.050.161.616.525.500
+"Biological Factors.Antigens.Antigens, Bacterial.Polysaccharides, Bacterial.Lipopolysaccharides.O Antigens",D23.050.161.616.525.600
+"Biological Factors.Antigens.Antigens, Bacterial.Polysaccharides, Bacterial.Peptidoglycan",D23.050.161.616.594
+"Biological Factors.Antigens.Antigens, Bacterial.Polysaccharides, Bacterial.Teichoic Acids",D23.050.161.616.797
+"Biological Factors.Antigens.Antigens, Bacterial.Staphylococcal Protein A",D23.050.161.821
+"Biological Factors.Antigens.Antigens, Bacterial.Tuberculin",D23.050.161.845
+"Biological Factors.Antigens.Antigens, Dermatophagoides",D23.050.181
+"Biological Factors.Antigens.Antigens, Fungal",D23.050.202
+"Biological Factors.Antigens.Antigens, Fungal.Coccidioidin",D23.050.202.180
+"Biological Factors.Antigens.Antigens, Fungal.Fungal Polysaccharides",D23.050.202.283
+"Biological Factors.Antigens.Antigens, Fungal.Histoplasmin",D23.050.202.386
+"Biological Factors.Antigens.Antigens, Fungal.Trichophytin",D23.050.202.800
+"Biological Factors.Antigens.Antigens, Helminth",D23.050.223
+"Biological Factors.Antigens.Antigens, Heterophile",D23.050.244
+"Biological Factors.Antigens.Antigens, Heterophile.Forssman Antigen",D23.050.244.436
+"Biological Factors.Antigens.Antigens, Neoplasm",D23.050.285
+"Biological Factors.Antigens.Antigens, Neoplasm.CD24 Antigen",D23.050.285.018
+"Biological Factors.Antigens.Antigens, Neoplasm.CD52 Antigen",D23.050.285.022
+"Biological Factors.Antigens.Antigens, Neoplasm.Ki-1 Antigen",D23.050.285.025
+"Biological Factors.Antigens.Antigens, Neoplasm.Basigin",D23.050.285.040
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Tumor-Associated, Carbohydrate",D23.050.285.050
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Tumor-Associated, Carbohydrate.Lewis X Antigen",D23.050.285.050.050
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Tumor-Associated, Carbohydrate.CA-19-9 Antigen",D23.050.285.050.119
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Tumor-Associated, Carbohydrate.CA-125 Antigen",D23.050.285.050.225
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Tumor-Associated, Carbohydrate.Mucin-1",D23.050.285.050.300
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Viral, Tumor",D23.050.285.062
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Viral, Tumor.Adenovirus E1A Proteins",D23.050.285.062.045
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Viral, Tumor.Adenovirus E1B Proteins",D23.050.285.062.050
+"Biological Factors.Antigens.Antigens, Neoplasm.Antigens, Viral, Tumor.Antigens, Polyomavirus Transforming",D23.050.285.062.090
+"Biological Factors.Antigens.Antigens, Neoplasm.Carbonic Anhydrase IX",D23.050.285.196
+"Biological Factors.Antigens.Antigens, Neoplasm.Carcinoembryonic Antigen",D23.050.285.329
+"Biological Factors.Antigens.Antigens, Neoplasm.Epithelial Cell Adhesion Molecule",D23.050.285.357
+"Biological Factors.Antigens.Antigens, Neoplasm.Folate Receptor 1",D23.050.285.384
+"Biological Factors.Antigens.Antigens, Neoplasm.Melanoma-Specific Antigens",D23.050.285.439
+"Biological Factors.Antigens.Antigens, Neoplasm.Melanoma-Specific Antigens.CD146 Antigen",D23.050.285.439.249
+"Biological Factors.Antigens.Antigens, Neoplasm.Melanoma-Specific Antigens.gp100 Melanoma Antigen",D23.050.285.439.500
+"Biological Factors.Antigens.Antigens, Neoplasm.Melanoma-Specific Antigens.MART-1 Antigen",D23.050.285.439.750
+"Biological Factors.Antigens.Antigens, Neoplasm.Neprilysin",D23.050.285.550
+"Biological Factors.Antigens.Antigens, Neoplasm.Prostate-Specific Antigen",D23.050.285.625
+"Biological Factors.Antigens.Antigens, Neoplasm.Pancreatitis-Associated Proteins",D23.050.285.733
+"Biological Factors.Antigens.Antigens, Neoplasm.Tissue Polypeptide Antigen",D23.050.285.840
+"Biological Factors.Antigens.Antigens, Nuclear",D23.050.290
+"Biological Factors.Antigens.Antigens, Nuclear.Epstein-Barr Virus Nuclear Antigens",D23.050.290.249
+"Biological Factors.Antigens.Antigens, Nuclear.Ki-67 Antigen",D23.050.290.500
+"Biological Factors.Antigens.Antigens, Nuclear.Ku Autoantigen",D23.050.290.625
+"Biological Factors.Antigens.Antigens, Nuclear.Proliferating Cell Nuclear Antigen",D23.050.290.750
+"Biological Factors.Antigens.Antigens, Nuclear.snRNP Core Proteins",D23.050.290.875
+"Biological Factors.Antigens.Antigens, Plant",D23.050.291
+"Biological Factors.Antigens.Antigens, Protozoan",D23.050.293
+"Biological Factors.Antigens.Antigens, Protozoan.Merozoite Surface Protein 1",D23.050.293.500
+"Biological Factors.Antigens.Antigens, Protozoan.Variant Surface Glycoproteins, Trypanosoma",D23.050.293.900
+"Biological Factors.Antigens.Antigens, Surface",D23.050.301
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation",D23.050.301.264
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, CD",D23.050.301.264.035
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, CD.Antigens, CD1",D23.050.301.264.035.100
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, CD.Antigens, CD1.Antigens, CD1d",D23.050.301.264.035.100.500
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, CD.Antigens, CD7",D23.050.301.264.035.107
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, CD.Antigens, CD19",D23.050.301.264.035.119
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, CD.Antigens, CD20",D23.050.301.264.035.120
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, CD.Antigens, CD34",D23.050.301.264.035.134
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte",D23.050.301.264.051
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte.CD5 Antigens",D23.050.301.264.051.101
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte.Antigens, CD19",D23.050.301.264.051.119
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte.Antigens, CD20",D23.050.301.264.051.120
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte.CD40 Antigens",D23.050.301.264.051.140
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte",D23.050.301.264.894
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Antigens, CD1",D23.050.301.264.894.080
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Antigens, CD1.Antigens, CD1d",D23.050.301.264.894.080.500
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD2 Antigens",D23.050.301.264.894.090
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD3 Complex",D23.050.301.264.894.095
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD3 Complex.Receptor-CD3 Complex, Antigen, T-Cell",D23.050.301.264.894.095.800
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD4 Antigens",D23.050.301.264.894.100
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD5 Antigens",D23.050.301.264.894.101
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Antigens, CD7",D23.050.301.264.894.107
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD8 Antigens",D23.050.301.264.894.108
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD13 Antigens",D23.050.301.264.894.113
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD18 Antigens",D23.050.301.264.894.118
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Thy-1 Antigens",D23.050.301.264.894.123
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Tumor Necrosis Factor Receptor Superfamily, Member 7",D23.050.301.264.894.127
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD28 Antigens",D23.050.301.264.894.128
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD56 Antigen",D23.050.301.264.894.156
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD57 Antigens",D23.050.301.264.894.157
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CTLA-4 Antigen",D23.050.301.264.894.158
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Dipeptidyl Peptidase 4",D23.050.301.264.894.160
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Inducible T-Cell Co-Stimulator Protein",D23.050.301.264.894.580
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Programmed Cell Death 1 Receptor",D23.050.301.264.894.790
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic",D23.050.301.264.900
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic.Lipopolysaccharide Receptors",D23.050.301.264.900.045
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic.Lewis X Antigen",D23.050.301.264.900.050
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic.Platelet Endothelial Cell Adhesion Molecule-1",D23.050.301.264.900.131
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic.Sialic Acid Binding Ig-like Lectin 3",D23.050.301.264.900.565
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Ly",D23.050.301.264.920
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Antigens, Ly.NK Cell Lectin-Like Receptor Subfamily A",D23.050.301.264.920.500
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Stage-Specific Embryonic Antigens",D23.050.301.264.965
+"Biological Factors.Antigens.Antigens, Surface.Antigens, Differentiation.Stage-Specific Embryonic Antigens.Lewis X Antigen",D23.050.301.264.965.500
+"Biological Factors.Antigens.Antigens, Surface.Arrestin",D23.050.301.280
+"Biological Factors.Antigens.Antigens, Surface.B7 Antigens",D23.050.301.285
+"Biological Factors.Antigens.Antigens, Surface.B7 Antigens.B7-1 Antigen",D23.050.301.285.100
+"Biological Factors.Antigens.Antigens, Surface.B7 Antigens.B7-2 Antigen",D23.050.301.285.200
+"Biological Factors.Antigens.Antigens, Surface.B7 Antigens.B7-H1 Antigen",D23.050.301.285.400
+"Biological Factors.Antigens.Antigens, Surface.B7 Antigens.Inducible T-Cell Co-Stimulator Ligand",D23.050.301.285.500
+"Biological Factors.Antigens.Antigens, Surface.B7 Antigens.Programmed Cell Death 1 Ligand 2 Protein",D23.050.301.285.800
+"Biological Factors.Antigens.Antigens, Surface.B7 Antigens.V-Set Domain-Containing T-Cell Activation Inhibitor 1",D23.050.301.285.900
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens",D23.050.301.290
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.ABO Blood-Group System",D23.050.301.290.031
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.Duffy Blood-Group System",D23.050.301.290.301
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.I Blood-Group System",D23.050.301.290.501
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.Kell Blood-Group System",D23.050.301.290.533
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.Kidd Blood-Group System",D23.050.301.290.538
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.Lewis Blood-Group System",D23.050.301.290.544
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.Lewis Blood-Group System.Lewis X Antigen",D23.050.301.290.544.059
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.Lewis Blood-Group System.CA-19-9 Antigen",D23.050.301.290.544.119
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.Lutheran Blood-Group System",D23.050.301.290.552
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.MNSs Blood-Group System",D23.050.301.290.606
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.P Blood-Group System",D23.050.301.290.691
+"Biological Factors.Antigens.Antigens, Surface.Blood Group Antigens.Rh-Hr Blood-Group System",D23.050.301.290.775
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules",D23.050.301.350
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.12E7 Antigen",D23.050.301.350.049
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.CD11 Antigens",D23.050.301.350.074
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.CD11 Antigens.CD11a Antigen",D23.050.301.350.074.024
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.CD11 Antigens.CD11b Antigen",D23.050.301.350.074.049
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.CD11 Antigens.CD11c Antigen",D23.050.301.350.074.074
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.CD11 Antigens.Lymphocyte Function-Associated Antigen-1",D23.050.301.350.074.400
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.CD24 Antigen",D23.050.301.350.098
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecule-1",D23.050.301.350.115
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Nectins",D23.050.301.350.123
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Platelet Endothelial Cell Adhesion Molecule-1",D23.050.301.350.131
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.CD146 Antigen",D23.050.301.350.150
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Endolyn",D23.050.301.350.154
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cadherins",D23.050.301.350.200
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cadherins.Desmosomal Cadherins",D23.050.301.350.200.500
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cadherins.Desmosomal Cadherins.Desmocollins",D23.050.301.350.200.500.249
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cadherins.Desmosomal Cadherins.Desmogleins",D23.050.301.350.200.500.500
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cadherins.Desmosomal Cadherins.Desmogleins.Desmoglein 1",D23.050.301.350.200.500.500.500
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cadherins.Desmosomal Cadherins.Desmogleins.Desmoglein 2",D23.050.301.350.200.500.500.625
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cadherins.Desmosomal Cadherins.Desmogleins.Desmoglein 3",D23.050.301.350.200.500.500.750
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Carcinoembryonic Antigen",D23.050.301.350.210
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.CD4 Immunoadhesins",D23.050.301.350.230
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal",D23.050.301.350.250
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Cell Adhesion Molecules, Neuron-Glia",D23.050.301.350.250.150
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Cell Adhesion Molecules, Neuron-Glia.Activated-Leukocyte Cell Adhesion Molecule",D23.050.301.350.250.150.050
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Contactins",D23.050.301.350.250.325
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Contactins.Contactin 1",D23.050.301.350.250.325.100
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Contactins.Contactin 2",D23.050.301.350.250.325.200
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Myelin P0 Protein",D23.050.301.350.250.500
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Neural Cell Adhesion Molecules",D23.050.301.350.250.520
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Neural Cell Adhesion Molecules.CD56 Antigen",D23.050.301.350.250.520.156
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Neural Cell Adhesion Molecules.Neural Cell Adhesion Molecule L1",D23.050.301.350.250.520.578
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Cell Adhesion Molecules, Neuronal.Neural Cell Adhesion Molecules.Neurocan",D23.050.301.350.250.520.789
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Epithelial Cell Adhesion Molecule",D23.050.301.350.263
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Integrin alphaXbeta2",D23.050.301.350.275
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Integrin alphaXbeta2.CD11c Antigen",D23.050.301.350.275.500
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Integrin alphaXbeta2.CD18 Antigens",D23.050.301.350.275.750
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Intercellular Adhesion Molecule-1",D23.050.301.350.450
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Intercellular Adhesion Molecule-3",D23.050.301.350.494
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Junctional Adhesion Molecules",D23.050.301.350.537
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Junctional Adhesion Molecules.Coxsackie and Adenovirus Receptor-Like Membrane Protein",D23.050.301.350.537.500
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Junctional Adhesion Molecules.Junctional Adhesion Molecule A",D23.050.301.350.537.750
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Junctional Adhesion Molecules.Junctional Adhesion Molecule B",D23.050.301.350.537.875
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Junctional Adhesion Molecules.Junctional Adhesion Molecule C",D23.050.301.350.537.937
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Receptors, Lymphocyte Homing",D23.050.301.350.625
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Receptors, Lymphocyte Homing.Hyaluronan Receptors",D23.050.301.350.625.144
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Receptors, Lymphocyte Homing.Integrin alpha4beta1",D23.050.301.350.625.347
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Receptors, Lymphocyte Homing.Lymphocyte Function-Associated Antigen-1",D23.050.301.350.625.550
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Receptors, Lymphocyte Homing.L-Selectin",D23.050.301.350.625.903
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Selectins",D23.050.301.350.700
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Selectins.E-Selectin",D23.050.301.350.700.300
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Selectins.L-Selectin",D23.050.301.350.700.510
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Selectins.P-Selectin",D23.050.301.350.700.775
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Sialic Acid Binding Ig-like Lectin 2",D23.050.301.350.720
+"Biological Factors.Antigens.Antigens, Surface.Cell Adhesion Molecules.Vascular Cell Adhesion Molecule-1",D23.050.301.350.920
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens",D23.050.301.500
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I",D23.050.301.500.100
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.H-2 Antigens",D23.050.301.500.100.350
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.Hemochromatosis Protein",D23.050.301.500.100.363
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.Histocompatibility Antigen H-2D",D23.050.301.500.100.375
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens",D23.050.301.500.100.400
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A1 Antigen",D23.050.301.500.100.400.010
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A2 Antigen",D23.050.301.500.100.400.020
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A3 Antigen",D23.050.301.500.100.400.030
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A11 Antigen",D23.050.301.500.100.400.110
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A24 Antigen",D23.050.301.500.100.400.240
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens",D23.050.301.500.100.500
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B7 Antigen",D23.050.301.500.100.500.070
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B8 Antigen",D23.050.301.500.100.500.080
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B13 Antigen",D23.050.301.500.100.500.130
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B14 Antigen",D23.050.301.500.100.500.140
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B15 Antigen",D23.050.301.500.100.500.150
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B18 Antigen",D23.050.301.500.100.500.180
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B27 Antigen",D23.050.301.500.100.500.270
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B35 Antigen",D23.050.301.500.100.500.350
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B37 Antigen",D23.050.301.500.100.500.370
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B38 Antigen",D23.050.301.500.100.500.380
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B39 Antigen",D23.050.301.500.100.500.390
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B40 Antigen",D23.050.301.500.100.500.400
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B44 Antigen",D23.050.301.500.100.500.440
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B51 Antigen",D23.050.301.500.100.500.510
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B52 Antigen",D23.050.301.500.100.500.520
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-C Antigens",D23.050.301.500.100.600
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-G Antigens",D23.050.301.500.100.700
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II",D23.050.301.500.400
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.H-2 Antigens",D23.050.301.500.400.199
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens",D23.050.301.500.400.400
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DP Antigens",D23.050.301.500.400.400.420
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DP Antigens.HLA-DP alpha-Chains",D23.050.301.500.400.400.420.500
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DP Antigens.HLA-DP beta-Chains",D23.050.301.500.400.400.420.750
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DQ Antigens",D23.050.301.500.400.400.430
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DQ Antigens.HLA-DQ alpha-Chains",D23.050.301.500.400.400.430.500
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DQ Antigens.HLA-DQ beta-Chains",D23.050.301.500.400.400.430.750
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens",D23.050.301.500.400.400.440
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR alpha-Chains",D23.050.301.500.400.400.440.100
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains",D23.050.301.500.400.400.440.200
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB1 Chains",D23.050.301.500.400.400.440.200.010
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB3 Chains",D23.050.301.500.400.400.440.200.030
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB4 Chains",D23.050.301.500.400.400.440.200.040
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB5 Chains",D23.050.301.500.400.400.440.200.050
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes",D23.050.301.500.400.400.440.400
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR1 Antigen",D23.050.301.500.400.400.440.400.010
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR2 Antigen",D23.050.301.500.400.400.440.400.020
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR3 Antigen",D23.050.301.500.400.400.440.400.030
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR4 Antigen",D23.050.301.500.400.400.440.400.040
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR5 Antigen",D23.050.301.500.400.400.440.400.050
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR6 Antigen",D23.050.301.500.400.400.440.400.060
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR7 Antigen",D23.050.301.500.400.400.440.400.070
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens",D23.050.301.500.450
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens",D23.050.301.500.450.370
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A1 Antigen",D23.050.301.500.450.370.010
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A2 Antigen",D23.050.301.500.450.370.020
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A3 Antigen",D23.050.301.500.450.370.030
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A11 Antigen",D23.050.301.500.450.370.110
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A24 Antigen",D23.050.301.500.450.370.240
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens",D23.050.301.500.450.380
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B7 Antigen",D23.050.301.500.450.380.070
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B8 Antigen",D23.050.301.500.450.380.080
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B13 Antigen",D23.050.301.500.450.380.130
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B14 Antigen",D23.050.301.500.450.380.140
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B15 Antigen",D23.050.301.500.450.380.150
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B18 Antigen",D23.050.301.500.450.380.180
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B27 Antigen",D23.050.301.500.450.380.270
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B35 Antigen",D23.050.301.500.450.380.350
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B37 Antigen",D23.050.301.500.450.380.370
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B38 Antigen",D23.050.301.500.450.380.380
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B39 Antigen",D23.050.301.500.450.380.390
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B40 Antigen",D23.050.301.500.450.380.400
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B44 Antigen",D23.050.301.500.450.380.440
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B51 Antigen",D23.050.301.500.450.380.510
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B52 Antigen",D23.050.301.500.450.380.520
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-C Antigens",D23.050.301.500.450.390
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens",D23.050.301.500.450.400
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DP Antigens",D23.050.301.500.450.400.420
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DP Antigens.HLA-DP alpha-Chains",D23.050.301.500.450.400.420.500
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DP Antigens.HLA-DP beta-Chains",D23.050.301.500.450.400.420.750
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DQ Antigens",D23.050.301.500.450.400.430
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DQ Antigens.HLA-DQ alpha-Chains",D23.050.301.500.450.400.430.500
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DQ Antigens.HLA-DQ beta-Chains",D23.050.301.500.450.400.430.750
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens",D23.050.301.500.450.400.440
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR alpha-Chains",D23.050.301.500.450.400.440.222
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains",D23.050.301.500.450.400.440.333
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB1 Chains",D23.050.301.500.450.400.440.333.500
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB3 Chains",D23.050.301.500.450.400.440.333.750
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB4 Chains",D23.050.301.500.450.400.440.333.875
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB5 Chains",D23.050.301.500.450.400.440.333.937
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes",D23.050.301.500.450.400.440.389
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR1 Antigen",D23.050.301.500.450.400.440.389.500
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR2 Antigen",D23.050.301.500.450.400.440.389.750
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR3 Antigen",D23.050.301.500.450.400.440.389.875
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR4 Antigen",D23.050.301.500.450.400.440.389.937
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR5 Antigen",D23.050.301.500.450.400.440.389.968
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR6 Antigen",D23.050.301.500.450.400.440.389.984
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR7 Antigen",D23.050.301.500.450.400.440.389.992
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.HLA Antigens.HLA-G Antigens",D23.050.301.500.450.700
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens",D23.050.301.500.600
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.Antigens, CD19",D23.050.301.500.600.200
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.Cathepsin H",D23.050.301.500.600.300
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.Focal Adhesion Kinase 2",D23.050.301.500.600.350
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.H-Y Antigen",D23.050.301.500.600.400
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.Receptor, ErbB-2",D23.050.301.500.600.700
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.Receptors, Purinergic P2X5",D23.050.301.500.600.775
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.Reduced Folate Carrier Protein",D23.050.301.500.600.813
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.rho Guanine Nucleotide Dissociation Inhibitor beta",D23.050.301.500.600.850
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.Thymidine Phosphorylase",D23.050.301.500.600.925
+"Biological Factors.Antigens.Antigens, Surface.Histocompatibility Antigens.Minor Histocompatibility Antigens.WNK Lysine-Deficient Protein Kinase 1",D23.050.301.500.600.962
+"Biological Factors.Antigens.Antigens, Surface.Leukocyte L1 Antigen Complex",D23.050.301.562
+"Biological Factors.Antigens.Antigens, Surface.Leukocyte L1 Antigen Complex.Calgranulin A",D23.050.301.562.100
+"Biological Factors.Antigens.Antigens, Surface.Leukocyte L1 Antigen Complex.Calgranulin B",D23.050.301.562.200
+"Biological Factors.Antigens.Antigens, Surface.Lymphocyte Antigen 96",D23.050.301.593
+"Biological Factors.Antigens.Antigens, Surface.Minor Lymphocyte Stimulatory Antigens",D23.050.301.625
+"Biological Factors.Antigens.Antigens, Surface.Variant Surface Glycoproteins, Trypanosoma",D23.050.301.900
+"Biological Factors.Antigens.Antigens, T-Independent",D23.050.324
+"Biological Factors.Antigens.Antigens, Viral",D23.050.327
+"Biological Factors.Antigens.Antigens, Viral.Adenovirus Early Proteins",D23.050.327.045
+"Biological Factors.Antigens.Antigens, Viral.Adenovirus Early Proteins.Adenovirus E1 Proteins",D23.050.327.045.050
+"Biological Factors.Antigens.Antigens, Viral.Adenovirus Early Proteins.Adenovirus E2 Proteins",D23.050.327.045.060
+"Biological Factors.Antigens.Antigens, Viral.Adenovirus Early Proteins.Adenovirus E3 Proteins",D23.050.327.045.070
+"Biological Factors.Antigens.Antigens, Viral.Adenovirus Early Proteins.Adenovirus E4 Proteins",D23.050.327.045.080
+"Biological Factors.Antigens.Antigens, Viral.Antigens, Viral, Tumor",D23.050.327.062
+"Biological Factors.Antigens.Antigens, Viral.Antigens, Viral, Tumor.Adenovirus E1A Proteins",D23.050.327.062.045
+"Biological Factors.Antigens.Antigens, Viral.Antigens, Viral, Tumor.Adenovirus E1B Proteins",D23.050.327.062.050
+"Biological Factors.Antigens.Antigens, Viral.Antigens, Viral, Tumor.Antigens, Polyomavirus Transforming",D23.050.327.062.090
+"Biological Factors.Antigens.Antigens, Viral.Deltaretrovirus Antigens",D23.050.327.150
+"Biological Factors.Antigens.Antigens, Viral.Deltaretrovirus Antigens.HTLV-I Antigens",D23.050.327.150.500
+"Biological Factors.Antigens.Antigens, Viral.Deltaretrovirus Antigens.HTLV-II Antigens",D23.050.327.150.510
+"Biological Factors.Antigens.Antigens, Viral.Epstein-Barr Virus Nuclear Antigens",D23.050.327.300
+"Biological Factors.Antigens.Antigens, Viral.Hemagglutinins, Viral",D23.050.327.461
+"Biological Factors.Antigens.Antigens, Viral.Hemagglutinins, Viral.HN Protein",D23.050.327.461.350
+"Biological Factors.Antigens.Antigens, Viral.Hepatitis Antigens",D23.050.327.495
+"Biological Factors.Antigens.Antigens, Viral.Hepatitis Antigens.Hepatitis A Antigens",D23.050.327.495.249
+"Biological Factors.Antigens.Antigens, Viral.Hepatitis Antigens.Hepatitis B Antigens",D23.050.327.495.500
+"Biological Factors.Antigens.Antigens, Viral.Hepatitis Antigens.Hepatitis B Antigens.Hepatitis B Core Antigens",D23.050.327.495.500.450
+"Biological Factors.Antigens.Antigens, Viral.Hepatitis Antigens.Hepatitis B Antigens.Hepatitis B e Antigens",D23.050.327.495.500.469
+"Biological Factors.Antigens.Antigens, Viral.Hepatitis Antigens.Hepatitis B Antigens.Hepatitis B Surface Antigens",D23.050.327.495.500.475
+"Biological Factors.Antigens.Antigens, Viral.Hepatitis Antigens.Hepatitis C Antigens",D23.050.327.495.505
+"Biological Factors.Antigens.Antigens, Viral.Hepatitis Antigens.Hepatitis delta Antigens",D23.050.327.495.752
+"Biological Factors.Antigens.Antigens, Viral.HIV Antigens",D23.050.327.520
+"Biological Factors.Antigens.Antigens, Viral.HIV Antigens.HIV Core Protein p24",D23.050.327.520.300
+"Biological Factors.Antigens.Antigens, Viral.HIV Antigens.HIV Envelope Protein gp41",D23.050.327.520.330
+"Biological Factors.Antigens.Antigens, Viral.HIV Antigens.HIV Envelope Protein gp120",D23.050.327.520.350
+Biological Factors.Antigens.Autoantigens,D23.050.422
+Biological Factors.Antigens.Autoantigens.Centromere Protein A,D23.050.422.031
+Biological Factors.Antigens.Autoantigens.Centromere Protein B,D23.050.422.061
+Biological Factors.Antigens.Autoantigens.Desmoglein 1,D23.050.422.124
+Biological Factors.Antigens.Autoantigens.Desmoglein 3,D23.050.422.249
+Biological Factors.Antigens.Autoantigens.Heymann Nephritis Antigenic Complex,D23.050.422.500
+Biological Factors.Antigens.Autoantigens.Heymann Nephritis Antigenic Complex.Low Density Lipoprotein Receptor-Related Protein-2,D23.050.422.500.500
+Biological Factors.Antigens.Autoantigens.Heymann Nephritis Antigenic Complex.LDL-Receptor Related Protein-Associated Protein,D23.050.422.500.750
+Biological Factors.Antigens.Autoantigens.Myelin-Oligodendrocyte Glycoprotein,D23.050.422.625
+Biological Factors.Antigens.Autoantigens.snRNP Core Proteins,D23.050.422.750
+Biological Factors.Antigens.Epitopes,D23.050.550
+"Biological Factors.Antigens.Epitopes.Antigens, Tumor-Associated, Carbohydrate",D23.050.550.325
+"Biological Factors.Antigens.Epitopes.Antigens, Tumor-Associated, Carbohydrate.Lewis X Antigen",D23.050.550.325.050
+"Biological Factors.Antigens.Epitopes.Antigens, Tumor-Associated, Carbohydrate.CA-19-9 Antigen",D23.050.550.325.119
+"Biological Factors.Antigens.Epitopes.Antigens, Tumor-Associated, Carbohydrate.CA-125 Antigen",D23.050.550.325.225
+"Biological Factors.Antigens.Epitopes.Antigens, Tumor-Associated, Carbohydrate.Mucin-1",D23.050.550.325.300
+"Biological Factors.Antigens.Epitopes.Epitopes, B-Lymphocyte",D23.050.550.395
+"Biological Factors.Antigens.Epitopes.Epitopes, T-Lymphocyte",D23.050.550.402
+Biological Factors.Antigens.Epitopes.Haptens,D23.050.550.480
+Biological Factors.Antigens.Epitopes.Haptens.p-Azobenzenearsonate,D23.050.550.480.097
+Biological Factors.Antigens.Epitopes.Haptens.Cardiolipins,D23.050.550.480.330
+Biological Factors.Antigens.Epitopes.Haptens.Dinitrochlorobenzene,D23.050.550.480.350
+Biological Factors.Antigens.Epitopes.Haptens.Nitrohydroxyiodophenylacetate,D23.050.550.480.641
+Biological Factors.Antigens.Epitopes.Haptens.Picryl Chloride,D23.050.550.480.820
+Biological Factors.Antigens.Epitopes.Immunodominant Epitopes,D23.050.550.500
+Biological Factors.Antigens.Epitopes.Immunoglobulin Idiotypes,D23.050.550.750
+Biological Factors.Antigens.Isoantigens,D23.050.705
+"Biological Factors.Antigens.Isoantigens.Antigens, Human Platelet",D23.050.705.115
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens,D23.050.705.230
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.ABO Blood-Group System,D23.050.705.230.031
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.Duffy Blood-Group System,D23.050.705.230.301
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.I Blood-Group System,D23.050.705.230.501
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.Kell Blood-Group System,D23.050.705.230.533
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.Kidd Blood-Group System,D23.050.705.230.538
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.Lewis Blood-Group System,D23.050.705.230.544
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.Lewis Blood-Group System.Lewis X Antigen,D23.050.705.230.544.059
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.Lewis Blood-Group System.CA-19-9 Antigen,D23.050.705.230.544.119
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.Lutheran Blood-Group System,D23.050.705.230.552
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.MNSs Blood-Group System,D23.050.705.230.606
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.P Blood-Group System,D23.050.705.230.691
+Biological Factors.Antigens.Isoantigens.Blood Group Antigens.Rh-Hr Blood-Group System,D23.050.705.230.775
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens,D23.050.705.552
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I,D23.050.705.552.100
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.H-2 Antigens,D23.050.705.552.100.350
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.Hemochromatosis Protein,D23.050.705.552.100.375
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens,D23.050.705.552.100.400
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A1 Antigen,D23.050.705.552.100.400.010
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A2 Antigen,D23.050.705.552.100.400.020
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A3 Antigen,D23.050.705.552.100.400.030
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A11 Antigen,D23.050.705.552.100.400.110
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-A Antigens.HLA-A24 Antigen,D23.050.705.552.100.400.240
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens,D23.050.705.552.100.500
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B7 Antigen,D23.050.705.552.100.500.070
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B8 Antigen,D23.050.705.552.100.500.080
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B13 Antigen,D23.050.705.552.100.500.130
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B14 Antigen,D23.050.705.552.100.500.140
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B15 Antigen,D23.050.705.552.100.500.150
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B18 Antigen,D23.050.705.552.100.500.180
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B27 Antigen,D23.050.705.552.100.500.270
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B35 Antigen,D23.050.705.552.100.500.350
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B37 Antigen,D23.050.705.552.100.500.370
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B38 Antigen,D23.050.705.552.100.500.380
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B39 Antigen,D23.050.705.552.100.500.390
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B40 Antigen,D23.050.705.552.100.500.400
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B44 Antigen,D23.050.705.552.100.500.440
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B51 Antigen,D23.050.705.552.100.500.510
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-B Antigens.HLA-B52 Antigen,D23.050.705.552.100.500.520
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-C Antigens,D23.050.705.552.100.600
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class I.HLA-G Antigens,D23.050.705.552.100.700
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II,D23.050.705.552.410
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.H-2 Antigens,D23.050.705.552.410.199
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens,D23.050.705.552.410.400
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DP Antigens,D23.050.705.552.410.400.420
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DP Antigens.HLA-DP alpha-Chains,D23.050.705.552.410.400.420.500
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DP Antigens.HLA-DP beta-Chains,D23.050.705.552.410.400.420.750
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DQ Antigens,D23.050.705.552.410.400.430
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DQ Antigens.HLA-DQ alpha-Chains,D23.050.705.552.410.400.430.500
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DQ Antigens.HLA-DQ beta-Chains,D23.050.705.552.410.400.430.750
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens,D23.050.705.552.410.400.440
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR alpha-Chains,D23.050.705.552.410.400.440.100
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains,D23.050.705.552.410.400.440.200
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB1 Chains,D23.050.705.552.410.400.440.200.010
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB3 Chains,D23.050.705.552.410.400.440.200.030
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB4 Chains,D23.050.705.552.410.400.440.200.040
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB5 Chains,D23.050.705.552.410.400.440.200.050
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes,D23.050.705.552.410.400.440.389
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR1 Antigen,D23.050.705.552.410.400.440.389.010
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR2 Antigen,D23.050.705.552.410.400.440.389.020
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR3 Antigen,D23.050.705.552.410.400.440.389.030
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR4 Antigen,D23.050.705.552.410.400.440.389.040
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR5 Antigen,D23.050.705.552.410.400.440.389.050
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR6 Antigen,D23.050.705.552.410.400.440.389.060
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Histocompatibility Antigens Class II.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR7 Antigen,D23.050.705.552.410.400.440.389.070
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens,D23.050.705.552.450
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens,D23.050.705.552.450.370
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A1 Antigen,D23.050.705.552.450.370.372
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A2 Antigen,D23.050.705.552.450.370.374
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A3 Antigen,D23.050.705.552.450.370.376
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A11 Antigen,D23.050.705.552.450.370.500
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-A Antigens.HLA-A24 Antigen,D23.050.705.552.450.370.600
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens,D23.050.705.552.450.380
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B7 Antigen,D23.050.705.552.450.380.070
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B8 Antigen,D23.050.705.552.450.380.080
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B13 Antigen,D23.050.705.552.450.380.130
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B14 Antigen,D23.050.705.552.450.380.140
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B15 Antigen,D23.050.705.552.450.380.150
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B18 Antigen,D23.050.705.552.450.380.180
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B27 Antigen,D23.050.705.552.450.380.270
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B35 Antigen,D23.050.705.552.450.380.350
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B37 Antigen,D23.050.705.552.450.380.370
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B38 Antigen,D23.050.705.552.450.380.380
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B39 Antigen,D23.050.705.552.450.380.390
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B40 Antigen,D23.050.705.552.450.380.400
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B44 Antigen,D23.050.705.552.450.380.440
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B51 Antigen,D23.050.705.552.450.380.510
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-B Antigens.HLA-B52 Antigen,D23.050.705.552.450.380.520
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-C Antigens,D23.050.705.552.450.390
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens,D23.050.705.552.450.400
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DP Antigens,D23.050.705.552.450.400.420
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DP Antigens.HLA-DP alpha-Chains,D23.050.705.552.450.400.420.500
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DP Antigens.HLA-DP beta-Chains,D23.050.705.552.450.400.420.750
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DQ Antigens,D23.050.705.552.450.400.430
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DQ Antigens.HLA-DQ alpha-Chains,D23.050.705.552.450.400.430.500
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DQ Antigens.HLA-DQ beta-Chains,D23.050.705.552.450.400.430.750
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens,D23.050.705.552.450.400.440
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR alpha-Chains,D23.050.705.552.450.400.440.222
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains,D23.050.705.552.450.400.440.333
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB1 Chains,D23.050.705.552.450.400.440.333.500
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB3 Chains,D23.050.705.552.450.400.440.333.750
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB4 Chains,D23.050.705.552.450.400.440.333.875
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR beta-Chains.HLA-DRB5 Chains,D23.050.705.552.450.400.440.333.937
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes,D23.050.705.552.450.400.440.389
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR1 Antigen,D23.050.705.552.450.400.440.389.500
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR2 Antigen,D23.050.705.552.450.400.440.389.750
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR3 Antigen,D23.050.705.552.450.400.440.389.875
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR4 Antigen,D23.050.705.552.450.400.440.389.937
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR5 Antigen,D23.050.705.552.450.400.440.389.968
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR6 Antigen,D23.050.705.552.450.400.440.389.984
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-D Antigens.HLA-DR Antigens.HLA-DR Serological Subtypes.HLA-DR7 Antigen,D23.050.705.552.450.400.440.389.992
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.HLA Antigens.HLA-G Antigens,D23.050.705.552.450.700
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens,D23.050.705.552.600
+"Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.Antigens, CD19",D23.050.705.552.600.200
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.Cathepsin H,D23.050.705.552.600.300
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.Focal Adhesion Kinase 2,D23.050.705.552.600.350
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.H-Y Antigen,D23.050.705.552.600.400
+"Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.Receptor, ErbB-2",D23.050.705.552.600.550
+"Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.Receptors, Purinergic P2X5",D23.050.705.552.600.625
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.Reduced Folate Carrier Protein,D23.050.705.552.600.663
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.rho Guanine Nucleotide Dissociation Inhibitor beta,D23.050.705.552.600.700
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.Thymidine Phosphorylase,D23.050.705.552.600.850
+Biological Factors.Antigens.Isoantigens.Histocompatibility Antigens.Minor Histocompatibility Antigens.WNK Lysine-Deficient Protein Kinase 1,D23.050.705.552.600.925
+Biological Factors.Antigens.Superantigens,D23.050.820
+Biological Factors.Antigens.Superantigens.Minor Lymphocyte Stimulatory Antigens,D23.050.820.625
+"Biological Factors.Antigens.Vaccines, Synthetic",D23.050.865
+"Biological Factors.Antigens.Vaccines, Synthetic.Vaccines, Conjugate",D23.050.865.900
+"Biological Factors.Antigens.Vaccines, Synthetic.Vaccines, DNA",D23.050.865.910
+"Biological Factors.Antigens.Vaccines, Synthetic.Vaccines, Edible",D23.050.865.915
+"Biological Factors.Antigens.Vaccines, Synthetic.Vaccines, Virosome",D23.050.865.940
+"Biological Factors.Antigens.Vaccines, Synthetic.Vaccines, Virus-Like Particle",D23.050.865.955
+Biological Factors.Biomarkers,D23.101
+"Biological Factors.Biomarkers.Antibodies, Antineutrophil Cytoplasmic",D23.101.050
+"Biological Factors.Biomarkers.Antigens, Differentiation",D23.101.100
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, CD",D23.101.100.110
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, CD.Antigens, CD1",D23.101.100.110.100
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, CD.Antigens, CD1.Antigens, CD1d",D23.101.100.110.100.500
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, CD.Antigens, CD19",D23.101.100.110.119
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, CD.Antigens, CD20",D23.101.100.110.120
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, CD.Antigens, CD34",D23.101.100.110.134
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte",D23.101.100.150
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte.CD5 Antigens",D23.101.100.150.101
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte.Antigens, CD19",D23.101.100.150.119
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte.Antigens, CD20",D23.101.100.150.120
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, B-Lymphocyte.CD40 Antigens",D23.101.100.150.140
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte",D23.101.100.894
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Antigens, CD1",D23.101.100.894.080
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Antigens, CD1.Antigens, CD1d",D23.101.100.894.080.500
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD2 Antigens",D23.101.100.894.090
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD3 Complex",D23.101.100.894.095
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD3 Complex.Receptor-CD3 Complex, Antigen, T-Cell",D23.101.100.894.095.800
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD4 Antigens",D23.101.100.894.100
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD5 Antigens",D23.101.100.894.101
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Antigens, CD7",D23.101.100.894.107
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD8 Antigens",D23.101.100.894.108
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD13 Antigens",D23.101.100.894.113
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD18 Antigens",D23.101.100.894.118
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Thy-1 Antigens",D23.101.100.894.123
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Tumor Necrosis Factor Receptor Superfamily, Member 7",D23.101.100.894.127
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD28 Antigens",D23.101.100.894.128
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD56 Antigen",D23.101.100.894.156
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CD57 Antigens",D23.101.100.894.157
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.CTLA-4 Antigen",D23.101.100.894.158
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Dipeptidyl Peptidase 4",D23.101.100.894.160
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Inducible T-Cell Co-Stimulator Protein",D23.101.100.894.580
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, T-Lymphocyte.Programmed Cell Death 1 Receptor",D23.101.100.894.790
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic",D23.101.100.900
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic.Lipopolysaccharide Receptors",D23.101.100.900.045
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic.Lewis X Antigen",D23.101.100.900.050
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic.Platelet Endothelial Cell Adhesion Molecule-1",D23.101.100.900.131
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Differentiation, Myelomonocytic.Sialic Acid Binding Ig-like Lectin 3",D23.101.100.900.565
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Ly",D23.101.100.920
+"Biological Factors.Biomarkers.Antigens, Differentiation.Antigens, Ly.NK Cell Lectin-Like Receptor Subfamily A",D23.101.100.920.500
+"Biological Factors.Biomarkers.Antigens, Differentiation.CD52 Antigen",D23.101.100.943
+"Biological Factors.Biomarkers.Antigens, Differentiation.Stage-Specific Embryonic Antigens",D23.101.100.965
+"Biological Factors.Biomarkers.Biomarkers, Pharmacological",D23.101.137
+"Biological Factors.Biomarkers.Biomarkers, Tumor",D23.101.140
+"Biological Factors.Biomarkers.Biomarkers, Tumor.alpha-Fetoproteins",D23.101.140.050
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Ki-1 Antigen",D23.101.140.055
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Antigens, Tumor-Associated, Carbohydrate",D23.101.140.075
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Antigens, Tumor-Associated, Carbohydrate.Lewis X Antigen",D23.101.140.075.050
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Antigens, Tumor-Associated, Carbohydrate.CA-19-9 Antigen",D23.101.140.075.119
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Antigens, Tumor-Associated, Carbohydrate.CA-125 Antigen",D23.101.140.075.225
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Antigens, Tumor-Associated, Carbohydrate.Mucin-1",D23.101.140.075.300
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Carcinoembryonic Antigen",D23.101.140.300
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Chorionic Gonadotropin, beta Subunit, Human",D23.101.140.325
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Hormones, Ectopic",D23.101.140.375
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Ki-67 Antigen",D23.101.140.400
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Mammaglobin A",D23.101.140.425
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Nephroblastoma Overexpressed Protein",D23.101.140.450
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Neprilysin",D23.101.140.500
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Normetanephrine",D23.101.140.540
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Proliferating Cell Nuclear Antigen",D23.101.140.600
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Prostate-Specific Antigen",D23.101.140.625
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Receptor, ErbB-2",D23.101.140.642
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Receptor, ErbB-3",D23.101.140.721
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Receptor, ErbB-4",D23.101.140.760
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Pancreatitis-Associated Proteins",D23.101.140.780
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Synaptophysin",D23.101.140.800
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Tissue Kallikreins",D23.101.140.870
+"Biological Factors.Biomarkers.Biomarkers, Tumor.Tissue Polypeptide Antigen",D23.101.140.880
+"Biological Factors.Biomarkers.Chorionic Gonadotropin, beta Subunit, Human",D23.101.175
+Biological Factors.Biomarkers.Environmental Biomarkers,D23.101.258
+Biological Factors.Biomarkers.Fibrinopeptide A,D23.101.340
+Biological Factors.Biomarkers.Genetic Markers,D23.101.387
+Biological Factors.Biomarkers.Oligoclonal Bands,D23.101.613
+Biological Factors.Blood Coagulation Factor Inhibitors,D23.113
+Biological Factors.Blood Coagulation Factor Inhibitors.Antithrombin III,D23.113.025
+Biological Factors.Blood Coagulation Factor Inhibitors.Lupus Coagulation Inhibitor,D23.113.475
+Biological Factors.Blood Coagulation Factor Inhibitors.Protein C,D23.113.700
+Biological Factors.Blood Coagulation Factor Inhibitors.Protein S,D23.113.725
+Biological Factors.Blood Coagulation Factors,D23.119
+Biological Factors.Blood Coagulation Factors.beta-Thromboglobulin,D23.119.050
+Biological Factors.Blood Coagulation Factors.Calcium,D23.119.100
+Biological Factors.Blood Coagulation Factors.Factor V,D23.119.300
+Biological Factors.Blood Coagulation Factors.Factor V.Factor Va,D23.119.300.300
+Biological Factors.Blood Coagulation Factors.Factor VII,D23.119.325
+Biological Factors.Blood Coagulation Factors.Factor VII.Factor VIIa,D23.119.325.300
+Biological Factors.Blood Coagulation Factors.Factor VIII,D23.119.350
+Biological Factors.Blood Coagulation Factors.Factor VIII.Factor VIIIa,D23.119.350.300
+Biological Factors.Blood Coagulation Factors.Factor IX,D23.119.375
+Biological Factors.Blood Coagulation Factors.Factor IX.Factor IXa,D23.119.375.310
+Biological Factors.Blood Coagulation Factors.Factor X,D23.119.400
+Biological Factors.Blood Coagulation Factors.Factor X.Factor Xa,D23.119.400.315
+Biological Factors.Blood Coagulation Factors.Factor XI,D23.119.425
+Biological Factors.Blood Coagulation Factors.Factor XI.Factor XIa,D23.119.425.320
+Biological Factors.Blood Coagulation Factors.Factor XII,D23.119.450
+Biological Factors.Blood Coagulation Factors.Factor XII.Factor XIIa,D23.119.450.324
+Biological Factors.Blood Coagulation Factors.Factor XIII,D23.119.475
+Biological Factors.Blood Coagulation Factors.Factor XIII.Factor XIIIa,D23.119.475.500
+Biological Factors.Blood Coagulation Factors.Fibrinogen,D23.119.490
+"Biological Factors.Blood Coagulation Factors.Fibrinogen.Fibrinogens, Abnormal",D23.119.490.265
+Biological Factors.Blood Coagulation Factors.Fibrinopeptide A,D23.119.500
+Biological Factors.Blood Coagulation Factors.Fibrinopeptide B,D23.119.510
+Biological Factors.Blood Coagulation Factors.Kallikreins,D23.119.597
+Biological Factors.Blood Coagulation Factors.Kallikreins.Prekallikrein,D23.119.597.712
+Biological Factors.Blood Coagulation Factors.Kininogens,D23.119.630
+"Biological Factors.Blood Coagulation Factors.Kininogens.Kininogen, High-Molecular-Weight",D23.119.630.480
+"Biological Factors.Blood Coagulation Factors.Kininogens.Kininogen, Low-Molecular-Weight",D23.119.630.490
+Biological Factors.Blood Coagulation Factors.Plasminogen Inactivators,D23.119.832
+Biological Factors.Blood Coagulation Factors.Plasminogen Inactivators.Plasminogen Activator Inhibitor 1,D23.119.832.500
+Biological Factors.Blood Coagulation Factors.Plasminogen Inactivators.Plasminogen Activator Inhibitor 2,D23.119.832.750
+Biological Factors.Blood Coagulation Factors.Platelet Activating Factor,D23.119.865
+Biological Factors.Blood Coagulation Factors.Platelet Factor 3,D23.119.932
+Biological Factors.Blood Coagulation Factors.Platelet Factor 4,D23.119.940
+Biological Factors.Blood Coagulation Factors.Prothrombin,D23.119.945
+Biological Factors.Blood Coagulation Factors.Thrombin,D23.119.960
+Biological Factors.Blood Coagulation Factors.Thromboplastin,D23.119.965
+Biological Factors.Blood Coagulation Factors.Tissue Plasminogen Activator,D23.119.970
+Biological Factors.Blood Coagulation Factors.von Willebrand Factor,D23.119.985
+Biological Factors.Chemotactic Factors,D23.125
+Biological Factors.Chemotactic Factors.Chemokines,D23.125.300
+Biological Factors.Chemotactic Factors.Chemokines.beta-Thromboglobulin,D23.125.300.070
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, C",D23.125.300.100
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC",D23.125.300.110
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL1",D23.125.300.110.050
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL18",D23.125.300.110.100
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL26",D23.125.300.110.125
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL3",D23.125.300.110.150
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL4",D23.125.300.110.200
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL5",D23.125.300.110.250
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL11",D23.125.300.110.550
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL17",D23.125.300.110.850
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL19",D23.125.300.110.870
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL20",D23.125.300.110.880
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL21",D23.125.300.110.890
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL22",D23.125.300.110.900
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL24",D23.125.300.110.910
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Chemokine CCL27",D23.125.300.110.930
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins",D23.125.300.110.990
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL2",D23.125.300.110.990.600
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL7",D23.125.300.110.990.800
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL8",D23.125.300.110.990.900
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC",D23.125.300.120
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL1",D23.125.300.120.050
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL16",D23.125.300.120.075
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL2",D23.125.300.120.100
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL5",D23.125.300.120.250
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL6",D23.125.300.120.300
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL9",D23.125.300.120.450
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL10",D23.125.300.120.500
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL11",D23.125.300.120.550
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL12",D23.125.300.120.600
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Chemokine CXCL13",D23.125.300.120.650
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Interleukin-8",D23.125.300.120.800
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CXC.Platelet Factor 4",D23.125.300.120.900
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CX3C",D23.125.300.130
+"Biological Factors.Chemotactic Factors.Chemokines.Chemokines, CX3C.Chemokine CX3CL1",D23.125.300.130.500
+Biological Factors.Chemotactic Factors.Chemokines.Macrophage Inflammatory Proteins,D23.125.300.600
+Biological Factors.Chemotactic Factors.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL18,D23.125.300.600.250
+Biological Factors.Chemotactic Factors.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL3,D23.125.300.600.500
+Biological Factors.Chemotactic Factors.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL4,D23.125.300.600.750
+Biological Factors.Chemotactic Factors.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL19,D23.125.300.600.870
+Biological Factors.Chemotactic Factors.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL20,D23.125.300.600.880
+Biological Factors.Chemotactic Factors.Chemokines.Macrophage Inflammatory Proteins.Chemokine CXCL2,D23.125.300.600.940
+"Biological Factors.Chemotactic Factors.Chemotactic Factors, Eosinophil",D23.125.320
+Biological Factors.Chemotactic Factors.Leukocyte Migration-Inhibitory Factors,D23.125.477
+Biological Factors.Chemotactic Factors.Leukocyte Migration-Inhibitory Factors.Macrophage Migration-Inhibitory Factors,D23.125.477.500
+Biological Factors.Chemotactic Factors.N-Formylmethionine Leucyl-Phenylalanine,D23.125.685
+Biological Factors.Chemotactic Factors.Netrins,D23.125.842
+Biological Factors.Chemotactic Factors.Netrins.Netrin-1,D23.125.842.500
+Biological Factors.Host-Derived Cellular Factors,D23.297
+Biological Factors.Host-Derived Cellular Factors.Integration Host Factors,D23.297.500
+Biological Factors.Inflammation Mediators,D23.469
+Biological Factors.Inflammation Mediators.Autacoids,D23.469.050
+Biological Factors.Inflammation Mediators.Autacoids.Angiotensins,D23.469.050.050
+Biological Factors.Inflammation Mediators.Autacoids.Angiotensins.Angiotensin I,D23.469.050.050.025
+Biological Factors.Inflammation Mediators.Autacoids.Angiotensins.Angiotensin II,D23.469.050.050.050
+Biological Factors.Inflammation Mediators.Autacoids.Angiotensins.Angiotensin II.Angiotensin Amide,D23.469.050.050.050.050
+Biological Factors.Inflammation Mediators.Autacoids.Angiotensins.Angiotensin II.Saralasin,D23.469.050.050.050.700
+Biological Factors.Inflammation Mediators.Autacoids.Angiotensins.Angiotensin II.1-Sarcosine-8-Isoleucine Angiotensin II,D23.469.050.050.050.725
+Biological Factors.Inflammation Mediators.Autacoids.Angiotensins.Angiotensin III,D23.469.050.050.075
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids,D23.469.050.175
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Leukotrienes,D23.469.050.175.450
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Leukotrienes.Leukotriene A4,D23.469.050.175.450.400
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Leukotrienes.Leukotriene B4,D23.469.050.175.450.415
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Leukotrienes.SRS-A,D23.469.050.175.450.725
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Leukotrienes.SRS-A.Leukotriene C4,D23.469.050.175.450.725.400
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Leukotrienes.SRS-A.Leukotriene D4,D23.469.050.175.450.725.415
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Leukotrienes.SRS-A.Leukotriene E4,D23.469.050.175.450.725.425
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins,D23.469.050.175.725
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides,D23.469.050.175.725.025
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides.Prostaglandins G,D23.469.050.175.725.025.600
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides.Prostaglandins H,D23.469.050.175.725.025.650
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides.Prostaglandins H.Prostaglandin H2,D23.469.050.175.725.025.650.500
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandin Endoperoxides.Prostaglandins H.Prostaglandin H2.15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid",D23.469.050.175.725.025.650.500.500
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins A,D23.469.050.175.725.100
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins B,D23.469.050.175.725.150
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins D,D23.469.050.175.725.200
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins D.Prostaglandin D2,D23.469.050.175.725.200.200
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins E,D23.469.050.175.725.250
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins E.Alprostadil,D23.469.050.175.725.250.100
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins E.Dinoprostone,D23.469.050.175.725.250.200
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins F,D23.469.050.175.725.400
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins F.Dinoprost,D23.469.050.175.725.400.200
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins F.6-Ketoprostaglandin F1 alpha,D23.469.050.175.725.400.350
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins I,D23.469.050.175.725.550
+Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins I.Epoprostenol,D23.469.050.175.725.550.500
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic",D23.469.050.175.725.775
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Iloprost",D23.469.050.175.725.775.125
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandin Endoperoxides, Synthetic",D23.469.050.175.725.775.250
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins A, Synthetic",D23.469.050.175.725.775.350
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic",D23.469.050.175.725.775.450
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Arbaprostil",D23.469.050.175.725.775.450.050
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.16,16-Dimethylprostaglandin E2",D23.469.050.175.725.775.450.300
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Enprostil",D23.469.050.175.725.775.450.350
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Misoprostol",D23.469.050.175.725.775.450.500
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Rioprostil",D23.469.050.175.725.775.450.750
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic",D23.469.050.175.725.775.500
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Carboprost",D23.469.050.175.725.775.500.150
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol",D23.469.050.175.725.775.500.175
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol.Bimatoprost",D23.469.050.175.725.775.500.175.250
+"Biological Factors.Inflammation Mediators.Autacoids.Eicosanoids.Prostaglandins.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol.Travoprost",D23.469.050.175.725.775.500.175.500
+Biological Factors.Inflammation Mediators.Autacoids.Histamine,D23.469.050.300
+Biological Factors.Inflammation Mediators.Autacoids.Kinins,D23.469.050.375
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Bradykinin,D23.469.050.375.110
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Bradykinin.Kallidin,D23.469.050.375.110.400
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Kininogens,D23.469.050.375.425
+"Biological Factors.Inflammation Mediators.Autacoids.Kinins.Kininogens.Kininogen, High-Molecular-Weight",D23.469.050.375.425.350
+"Biological Factors.Inflammation Mediators.Autacoids.Kinins.Kininogens.Kininogen, Low-Molecular-Weight",D23.469.050.375.425.400
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Tachykinins,D23.469.050.375.850
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Tachykinins.Eledoisin,D23.469.050.375.850.275
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Tachykinins.Kassinin,D23.469.050.375.850.400
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Tachykinins.Neurokinin A,D23.469.050.375.850.550
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Tachykinins.Neurokinin B,D23.469.050.375.850.570
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Tachykinins.Physalaemin,D23.469.050.375.850.780
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Tachykinins.Substance P,D23.469.050.375.850.890
+Biological Factors.Inflammation Mediators.Autacoids.Kinins.Urotensins,D23.469.050.375.925
+Biological Factors.Inflammation Mediators.Autacoids.Platelet Activating Factor,D23.469.050.600
+Biological Factors.Inflammation Mediators.Autacoids.Serotonin,D23.469.050.650
+Biological Factors.Inflammation Mediators.Chemokines,D23.469.200
+Biological Factors.Inflammation Mediators.Chemokines.beta-Thromboglobulin,D23.469.200.070
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, C",D23.469.200.100
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC",D23.469.200.110
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL1",D23.469.200.110.050
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL18",D23.469.200.110.100
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL26",D23.469.200.110.125
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL3",D23.469.200.110.150
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL4",D23.469.200.110.200
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL5",D23.469.200.110.250
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL11",D23.469.200.110.550
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL17",D23.469.200.110.850
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL19",D23.469.200.110.870
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL20",D23.469.200.110.880
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL21",D23.469.200.110.890
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL22",D23.469.200.110.900
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL24",D23.469.200.110.910
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Chemokine CCL27",D23.469.200.110.930
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins",D23.469.200.110.990
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL2",D23.469.200.110.990.600
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL7",D23.469.200.110.990.800
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL8",D23.469.200.110.990.900
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC",D23.469.200.120
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL1",D23.469.200.120.050
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL16",D23.469.200.120.075
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL2",D23.469.200.120.100
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL5",D23.469.200.120.250
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL6",D23.469.200.120.300
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL9",D23.469.200.120.450
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL10",D23.469.200.120.500
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL11",D23.469.200.120.550
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL12",D23.469.200.120.600
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Chemokine CXCL13",D23.469.200.120.650
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Interleukin-8",D23.469.200.120.800
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CXC.Platelet Factor 4",D23.469.200.120.900
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CX3C",D23.469.200.130
+"Biological Factors.Inflammation Mediators.Chemokines.Chemokines, CX3C.Chemokine CX3CL1",D23.469.200.130.500
+Biological Factors.Inflammation Mediators.Chemokines.Macrophage Inflammatory Proteins,D23.469.200.600
+Biological Factors.Inflammation Mediators.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL18,D23.469.200.600.075
+Biological Factors.Inflammation Mediators.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL3,D23.469.200.600.150
+Biological Factors.Inflammation Mediators.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL19,D23.469.200.600.870
+Biological Factors.Inflammation Mediators.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL20,D23.469.200.600.880
+Biological Factors.Inflammation Mediators.Chemokines.Macrophage Inflammatory Proteins.Chemokine CXCL2,D23.469.200.600.940
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic",D23.469.700
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Iloprost",D23.469.700.275
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandin Endoperoxides, Synthetic",D23.469.700.630
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandin Endoperoxides, Synthetic.15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid",D23.469.700.630.500
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins A, Synthetic",D23.469.700.645
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins E, Synthetic",D23.469.700.660
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Arbaprostil",D23.469.700.660.050
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.16,16-Dimethylprostaglandin E2",D23.469.700.660.200
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Enprostil",D23.469.700.660.250
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Misoprostol",D23.469.700.660.500
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins E, Synthetic.Rioprostil",D23.469.700.660.750
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins F, Synthetic",D23.469.700.670
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Carboprost",D23.469.700.670.150
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol",D23.469.700.670.175
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol.Bimatoprost",D23.469.700.670.175.250
+"Biological Factors.Inflammation Mediators.Prostaglandins, Synthetic.Prostaglandins F, Synthetic.Cloprostenol.Travoprost",D23.469.700.670.175.500
+Biological Factors.Intercellular Signaling Peptides and Proteins,D23.529
+Biological Factors.Intercellular Signaling Peptides and Proteins.Adipokines,D23.529.024
+Biological Factors.Intercellular Signaling Peptides and Proteins.Adipokines.Adiponectin,D23.529.024.249
+Biological Factors.Intercellular Signaling Peptides and Proteins.Adipokines.Leptin,D23.529.024.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Adipokines.Resistin,D23.529.024.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Agouti Signaling Protein,D23.529.049
+Biological Factors.Intercellular Signaling Peptides and Proteins.Agouti-Related Protein,D23.529.074
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins,D23.529.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Angiopoietin-like Proteins,D23.529.100.050
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Angiopoietin-like Proteins.Angiopoietin-like 4 Protein,D23.529.100.050.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Angiopoietins,D23.529.100.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Angiopoietins.Angiopoietin-1,D23.529.100.100.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Angiopoietins.Angiopoietin-2,D23.529.100.100.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Angiostatic Proteins,D23.529.100.450
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Angiostatic Proteins.Angiostatins,D23.529.100.450.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Angiostatic Proteins.Endostatins,D23.529.100.450.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Vascular Endothelial Growth Factors,D23.529.100.800
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Vascular Endothelial Growth Factors.Vascular Endothelial Growth Factor A,D23.529.100.800.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Vascular Endothelial Growth Factors.Vascular Endothelial Growth Factor B,D23.529.100.800.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Vascular Endothelial Growth Factors.Vascular Endothelial Growth Factor C,D23.529.100.800.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Vascular Endothelial Growth Factors.Vascular Endothelial Growth Factor D,D23.529.100.800.500
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Angiogenic Proteins.Vascular Endothelial Growth Factors.Vascular Endothelial Growth Factor, Endocrine-Gland-Derived",D23.529.100.800.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.Apelin,D23.529.134
+Biological Factors.Intercellular Signaling Peptides and Proteins.B7 Antigens,D23.529.168
+Biological Factors.Intercellular Signaling Peptides and Proteins.B7 Antigens.B7-1 Antigen,D23.529.168.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.B7 Antigens.B7-2 Antigen,D23.529.168.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.B7 Antigens.B7-H1 Antigen,D23.529.168.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.B7 Antigens.Inducible T-Cell Co-Stimulator Ligand,D23.529.168.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.B7 Antigens.Programmed Cell Death 1 Ligand 2 Protein,D23.529.168.800
+Biological Factors.Intercellular Signaling Peptides and Proteins.B7 Antigens.V-Set Domain-Containing T-Cell Activation Inhibitor 1,D23.529.168.900
+Biological Factors.Intercellular Signaling Peptides and Proteins.CCN Intercellular Signaling Proteins,D23.529.237
+Biological Factors.Intercellular Signaling Peptides and Proteins.CCN Intercellular Signaling Proteins.Connective Tissue Growth Factor,D23.529.237.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.CCN Intercellular Signaling Proteins.Cysteine-Rich Protein 61,D23.529.237.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.CCN Intercellular Signaling Proteins.Nephroblastoma Overexpressed Protein,D23.529.237.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines,D23.529.374
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines,D23.529.374.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.beta-Thromboglobulin,D23.529.374.200.070
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, C",D23.529.374.200.100
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC",D23.529.374.200.110
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL1",D23.529.374.200.110.050
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL18",D23.529.374.200.110.100
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL26",D23.529.374.200.110.125
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL3",D23.529.374.200.110.150
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL4",D23.529.374.200.110.200
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL5",D23.529.374.200.110.250
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL11",D23.529.374.200.110.550
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL17",D23.529.374.200.110.850
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL19",D23.529.374.200.110.870
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL20",D23.529.374.200.110.880
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL21",D23.529.374.200.110.890
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL22",D23.529.374.200.110.900
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL24",D23.529.374.200.110.910
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Chemokine CCL27",D23.529.374.200.110.930
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins",D23.529.374.200.110.990
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL2",D23.529.374.200.110.990.500
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL7",D23.529.374.200.110.990.750
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CC.Monocyte Chemoattractant Proteins.Chemokine CCL8",D23.529.374.200.110.990.875
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC",D23.529.374.200.120
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL1",D23.529.374.200.120.050
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL16",D23.529.374.200.120.075
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL2",D23.529.374.200.120.100
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL5",D23.529.374.200.120.250
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL6",D23.529.374.200.120.300
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL9",D23.529.374.200.120.450
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL10",D23.529.374.200.120.500
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL11",D23.529.374.200.120.550
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL12",D23.529.374.200.120.600
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Chemokine CXCL13",D23.529.374.200.120.650
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Interleukin-8",D23.529.374.200.120.800
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CXC.Platelet Factor 4",D23.529.374.200.120.900
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CX3C",D23.529.374.200.130
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Chemokines, CX3C.Chemokine CX3CL1",D23.529.374.200.130.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Macrophage Inflammatory Proteins,D23.529.374.200.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL18,D23.529.374.200.600.075
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL3,D23.529.374.200.600.150
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL4,D23.529.374.200.600.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL19,D23.529.374.200.600.870
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Macrophage Inflammatory Proteins.Chemokine CCL20,D23.529.374.200.600.880
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Chemokines.Macrophage Inflammatory Proteins.Chemokine CXCL2,D23.529.374.200.600.940
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Growth Differentiation Factor 15,D23.529.374.305
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors,D23.529.374.410
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors,D23.529.374.410.240
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors.Erythropoietin,D23.529.374.410.240.150
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors.Erythropoietin.Epoetin Alfa,D23.529.374.410.240.150.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors.Granulocyte Colony-Stimulating Factor,D23.529.374.410.240.350
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors.Granulocyte Colony-Stimulating Factor.Filgrastim,D23.529.374.410.240.350.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors.Granulocyte-Macrophage Colony-Stimulating Factor,D23.529.374.410.240.375
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors.Interleukin-3,D23.529.374.410.240.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors.Macrophage Colony-Stimulating Factor,D23.529.374.410.240.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Colony-Stimulating Factors.Thrombopoietin,D23.529.374.410.240.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hematopoietic Cell Growth Factors.Stem Cell Factor,D23.529.374.410.800
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Hepatocyte Growth Factor,D23.529.374.420
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interferons,D23.529.374.440
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interferons.Interferon Type I,D23.529.374.440.890
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interferons.Interferon Type I.Interferon-alpha,D23.529.374.440.890.250
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interferons.Interferon Type I.Interferon-beta,D23.529.374.440.890.275
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interferons.Interferon Type I.Interferon-beta.Interferon beta-1a,D23.529.374.440.890.275.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interferons.Interferon Type I.Interferon-beta.Interferon beta-1b,D23.529.374.440.890.275.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interferons.Interferon-gamma,D23.529.374.440.893
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukin 1 Receptor Antagonist Protein,D23.529.374.460
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins,D23.529.374.465
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-1,D23.529.374.465.131
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-1.Interleukin-1alpha,D23.529.374.465.131.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-1.Interleukin-1beta,D23.529.374.465.131.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-2,D23.529.374.465.155
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-3,D23.529.374.465.169
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-4,D23.529.374.465.186
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-5,D23.529.374.465.202
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-6,D23.529.374.465.224
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-7,D23.529.374.465.246
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-8,D23.529.374.465.312
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-9,D23.529.374.465.377
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-10,D23.529.374.465.510
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-11,D23.529.374.465.511
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-12,D23.529.374.465.512
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-12.Interleukin-12 Subunit p35,D23.529.374.465.512.249
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-12.Interleukin-12 Subunit p40,D23.529.374.465.512.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-13,D23.529.374.465.513
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-15,D23.529.374.465.515
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-16,D23.529.374.465.516
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-17,D23.529.374.465.517
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-18,D23.529.374.465.518
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-23,D23.529.374.465.550
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-23.Interleukin-12 Subunit p40,D23.529.374.465.550.249
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-23.Interleukin-23 Subunit p19,D23.529.374.465.550.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-27,D23.529.374.465.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Interleukins.Interleukin-33,D23.529.374.465.850
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Leukemia Inhibitory Factor,D23.529.374.470
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines,D23.529.374.480
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines.Interleukin-2,D23.529.374.480.372
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines.Leukocyte Migration-Inhibitory Factors,D23.529.374.480.428
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines.Lymphotoxin-alpha,D23.529.374.480.438
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines.Macrophage-Activating Factors,D23.529.374.480.615
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines.Macrophage-Activating Factors.Interferon-gamma,D23.529.374.480.615.350
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines.Macrophage Migration-Inhibitory Factors,D23.529.374.480.625
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines.Suppressor Factors, Immunologic",D23.529.374.480.700
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Lymphokines.Transfer Factor,D23.529.374.480.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Monokines,D23.529.374.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Monokines.Interleukin-1,D23.529.374.500.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Monokines.Interleukin-1.Interleukin-1alpha,D23.529.374.500.400.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Monokines.Interleukin-1.Interleukin-1beta,D23.529.374.500.400.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Monokines.Tumor Necrosis Factor-alpha,D23.529.374.500.800
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Oncostatin M,D23.529.374.562
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Osteopontin,D23.529.374.625
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Transforming Growth Factor beta,D23.529.374.687
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Transforming Growth Factor beta.Transforming Growth Factor beta1,D23.529.374.687.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Transforming Growth Factor beta.Transforming Growth Factor beta2,D23.529.374.687.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors,D23.529.374.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.CD27 Ligand,D23.529.374.750.030
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.B-Cell Activating Factor,D23.529.374.750.061
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.4-1BB Ligand,D23.529.374.750.065
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.CD30 Ligand,D23.529.374.750.092
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.CD40 Ligand,D23.529.374.750.124
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Cytokine TWEAK,D23.529.374.750.155
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Ectodysplasins,D23.529.374.750.186
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Fas Ligand Protein,D23.529.374.750.249
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Lymphotoxin-alpha,D23.529.374.750.500
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Lymphotoxin alpha1, beta2 Heterotrimer",D23.529.374.750.505
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Lymphotoxin-beta,D23.529.374.750.515
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.OX40 Ligand,D23.529.374.750.531
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.RANK Ligand,D23.529.374.750.562
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.TNF-Related Apoptosis-Inducing Ligand,D23.529.374.750.625
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Tumor Necrosis Factor-alpha,D23.529.374.750.626
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Tumor Necrosis Factor Ligand Superfamily Member 13,D23.529.374.750.656
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Tumor Necrosis Factor Ligand Superfamily Member 14,D23.529.374.750.690
+Biological Factors.Intercellular Signaling Peptides and Proteins.Cytokines.Tumor Necrosis Factors.Tumor Necrosis Factor Ligand Superfamily Member 15,D23.529.374.750.710
+Biological Factors.Intercellular Signaling Peptides and Proteins.EGF Family of Proteins,D23.529.382
+Biological Factors.Intercellular Signaling Peptides and Proteins.EGF Family of Proteins.Amphiregulin,D23.529.382.249
+Biological Factors.Intercellular Signaling Peptides and Proteins.EGF Family of Proteins.Betacellulin,D23.529.382.374
+Biological Factors.Intercellular Signaling Peptides and Proteins.EGF Family of Proteins.Epidermal Growth Factor,D23.529.382.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.EGF Family of Proteins.Epigen,D23.529.382.531
+Biological Factors.Intercellular Signaling Peptides and Proteins.EGF Family of Proteins.Epiregulin,D23.529.382.562
+Biological Factors.Intercellular Signaling Peptides and Proteins.EGF Family of Proteins.Heparin-binding EGF-like Growth Factor,D23.529.382.625
+Biological Factors.Intercellular Signaling Peptides and Proteins.EGF Family of Proteins.Transforming Growth Factor alpha,D23.529.382.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Endothelial Growth Factors,D23.529.390
+Biological Factors.Intercellular Signaling Peptides and Proteins.Endothelins,D23.529.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.Endothelins.Endothelin-1,D23.529.400.225
+Biological Factors.Intercellular Signaling Peptides and Proteins.Endothelins.Endothelin-2,D23.529.400.235
+Biological Factors.Intercellular Signaling Peptides and Proteins.Endothelins.Endothelin-3,D23.529.400.245
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins,D23.529.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins.Ephrin-A1,D23.529.500.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins.Ephrin-A2,D23.529.500.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins.Ephrin-A3,D23.529.500.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins.Ephrin-A4,D23.529.500.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins.Ephrin-A5,D23.529.500.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins.Ephrin-B1,D23.529.500.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins.Ephrin-B2,D23.529.500.700
+Biological Factors.Intercellular Signaling Peptides and Proteins.Ephrins.Ephrin-B3,D23.529.500.800
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors,D23.529.624
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 1,D23.529.624.110
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 2,D23.529.624.120
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 3,D23.529.624.130
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 4,D23.529.624.140
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 5,D23.529.624.150
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 6,D23.529.624.160
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 7,D23.529.624.170
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 8,D23.529.624.180
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 9,D23.529.624.190
+Biological Factors.Intercellular Signaling Peptides and Proteins.Fibroblast Growth Factors.Fibroblast Growth Factor 10,D23.529.624.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.Hedgehog Proteins,D23.529.671
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins,D23.529.812
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Bradykinin,D23.529.812.169
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Bradykinin.Kallidin,D23.529.812.169.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Kininogens,D23.529.812.654
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Kininogens.Kininogen, High-Molecular-Weight",D23.529.812.654.350
+"Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Kininogens.Kininogen, Low-Molecular-Weight",D23.529.812.654.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Tachykinins,D23.529.812.900
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Tachykinins.Eledoisin,D23.529.812.900.354
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Tachykinins.Kassinin,D23.529.812.900.475
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Tachykinins.Neurokinin A,D23.529.812.900.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Tachykinins.Neurokinin B,D23.529.812.900.550
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Tachykinins.Physalaemin,D23.529.812.900.800
+Biological Factors.Intercellular Signaling Peptides and Proteins.Kinins.Tachykinins.Substance P,D23.529.812.900.866
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors,D23.529.850
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Brain-Derived Neurotrophic Factor,D23.529.850.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Ciliary Neurotrophic Factor,D23.529.850.212
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Glia Maturation Factor,D23.529.850.325
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Glial Cell Line-Derived Neurotrophic Factors,D23.529.850.381
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Glial Cell Line-Derived Neurotrophic Factors.Glial Cell Line-Derived Neurotrophic Factor,D23.529.850.381.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Glial Cell Line-Derived Neurotrophic Factors.Neurturin,D23.529.850.381.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Nerve Growth Factor,D23.529.850.437
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Netrins,D23.529.850.494
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Netrins.Netrin-1,D23.529.850.494.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Neuregulins,D23.529.850.550
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Neuregulins.Neuregulin-1,D23.529.850.550.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Neurotrophin 3,D23.529.850.775
+Biological Factors.Intercellular Signaling Peptides and Proteins.Nerve Growth Factors.Pituitary Adenylate Cyclase-Activating Polypeptide,D23.529.850.887
+Biological Factors.Intercellular Signaling Peptides and Proteins.Parathyroid Hormone-Related Protein,D23.529.890
+Biological Factors.Intercellular Signaling Peptides and Proteins.Platelet-Derived Growth Factor,D23.529.910
+Biological Factors.Intercellular Signaling Peptides and Proteins.Platelet-Derived Growth Factor.Proto-Oncogene Proteins c-sis,D23.529.910.650
+Biological Factors.Intercellular Signaling Peptides and Proteins.Semaphorins,D23.529.923
+Biological Factors.Intercellular Signaling Peptides and Proteins.Semaphorins.Semaphorin-3A,D23.529.923.374
+Biological Factors.Intercellular Signaling Peptides and Proteins.Serrate-Jagged Proteins,D23.529.930
+Biological Factors.Intercellular Signaling Peptides and Proteins.Serrate-Jagged Proteins.Jagged-1 Protein,D23.529.930.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Serrate-Jagged Proteins.Jagged-2 Protein,D23.529.930.750
+Biological Factors.Intercellular Signaling Peptides and Proteins.Somatomedins,D23.529.937
+Biological Factors.Intercellular Signaling Peptides and Proteins.Somatomedins.Insulin-Like Growth Factor I,D23.529.937.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.Somatomedins.Insulin-Like Growth Factor II,D23.529.937.420
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins,D23.529.942
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins,D23.529.942.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Bone Morphogenetic Protein 1,D23.529.942.200.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Bone Morphogenetic Protein 2,D23.529.942.200.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Bone Morphogenetic Protein 3,D23.529.942.200.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Bone Morphogenetic Protein 4,D23.529.942.200.400
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Bone Morphogenetic Protein 5,D23.529.942.200.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Bone Morphogenetic Protein 6,D23.529.942.200.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Bone Morphogenetic Protein 7,D23.529.942.200.700
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Bone Morphogenetic Protein 15,D23.529.942.200.900
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Growth Differentiation Factor 2,D23.529.942.200.910
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Bone Morphogenetic Proteins.Growth Differentiation Factor 10,D23.529.942.200.950
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors,D23.529.942.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Bone Morphogenetic Protein 15,D23.529.942.300.049
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Growth Differentiation Factor 1,D23.529.942.300.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Growth Differentiation Factor 2,D23.529.942.300.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Growth Differentiation Factor 3,D23.529.942.300.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Growth Differentiation Factor 5,D23.529.942.300.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Growth Differentiation Factor 6,D23.529.942.300.600
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Growth Differentiation Factor 9,D23.529.942.300.800
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Growth Differentiation Factor 10,D23.529.942.300.900
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Growth Differentiation Factor 15,D23.529.942.300.915
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Growth Differentiation Factors.Myostatin,D23.529.942.300.925
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Nodal Signaling Ligands,D23.529.942.550
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Nodal Signaling Ligands.Growth Differentiation Factor 1,D23.529.942.550.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Nodal Signaling Ligands.Growth Differentiation Factor 3,D23.529.942.550.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Nodal Signaling Ligands.Left-Right Determination Factors,D23.529.942.550.475
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Nodal Signaling Ligands.Nodal Protein,D23.529.942.550.650
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Transforming Growth Factor beta,D23.529.942.775
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Transforming Growth Factor beta.Transforming Growth Factor beta1,D23.529.942.775.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Transforming Growth Factor beta.Transforming Growth Factor beta2,D23.529.942.775.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.TGF-beta Superfamily Proteins.Transforming Growth Factor beta.Transforming Growth Factor beta3,D23.529.942.775.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.Tolloid-Like Metalloproteinases,D23.529.948
+Biological Factors.Intercellular Signaling Peptides and Proteins.Tolloid-Like Metalloproteinases.Bone Morphogenetic Protein 1,D23.529.948.500
+Biological Factors.Intercellular Signaling Peptides and Proteins.Transforming Growth Factors,D23.529.960
+Biological Factors.Intercellular Signaling Peptides and Proteins.Transforming Growth Factors.Transforming Growth Factor alpha,D23.529.960.360
+Biological Factors.Intercellular Signaling Peptides and Proteins.Wnt Proteins,D23.529.984
+Biological Factors.Intercellular Signaling Peptides and Proteins.Wnt Proteins.Wnt-5a Protein,D23.529.984.050
+Biological Factors.Intercellular Signaling Peptides and Proteins.Wnt Proteins.Wnt1 Protein,D23.529.984.100
+Biological Factors.Intercellular Signaling Peptides and Proteins.Wnt Proteins.Wnt2 Protein,D23.529.984.200
+Biological Factors.Intercellular Signaling Peptides and Proteins.Wnt Proteins.Wnt3 Protein,D23.529.984.300
+Biological Factors.Intercellular Signaling Peptides and Proteins.Wnt Proteins.Wnt3A Protein,D23.529.984.350
+Biological Factors.Intercellular Signaling Peptides and Proteins.Wnt Proteins.Wnt4 Protein,D23.529.984.400
+Biological Factors.Pathogen-Associated Molecular Pattern Molecules,D23.585
+Biological Factors.Pheromones,D23.641
+Biological Factors.Pheromones.Mating Factor,D23.641.200
+"Biological Factors.Pheromones.Pheromones, Human",D23.641.399
+Biological Factors.Pheromones.Sex Attractants,D23.641.800
+Biological Factors.Phytochemicals,D23.704
+Biological Factors.Phytochemicals.Phytosterols,D23.704.500
+Biological Factors.Phytochemicals.Phytosterols.Brassinosteroids,D23.704.500.071
+Biological Factors.Phytochemicals.Phytosterols.Ecdysteroids,D23.704.500.143
+Biological Factors.Phytochemicals.Phytosterols.Sitosterols,D23.704.500.669
+Biological Factors.Phytochemicals.Phytosterols.Stigmasterol,D23.704.500.808
+Biological Factors.Phytochemicals.Phytosterols.Withanolides,D23.704.500.904
+"Biological Factors.Pigments, Biological",D23.767
+"Biological Factors.Pigments, Biological.Adrenochrome",D23.767.061
+"Biological Factors.Pigments, Biological.Anthocyanins",D23.767.124
+"Biological Factors.Pigments, Biological.Bile Pigments",D23.767.193
+"Biological Factors.Pigments, Biological.Bile Pigments.Bilirubin",D23.767.193.184
+"Biological Factors.Pigments, Biological.Bile Pigments.Bilirubin.Biliverdine",D23.767.193.184.200
+"Biological Factors.Pigments, Biological.Bile Pigments.Urobilin",D23.767.193.727
+"Biological Factors.Pigments, Biological.Bile Pigments.Urobilinogen",D23.767.193.852
+"Biological Factors.Pigments, Biological.Carotenoids",D23.767.261
+"Biological Factors.Pigments, Biological.Carotenoids.beta Carotene",D23.767.261.050
+"Biological Factors.Pigments, Biological.Carotenoids.Retinoids",D23.767.261.700
+"Biological Factors.Pigments, Biological.Carotenoids.Retinoids.Acitretin",D23.767.261.700.050
+"Biological Factors.Pigments, Biological.Carotenoids.Retinoids.Etretinate",D23.767.261.700.250
+"Biological Factors.Pigments, Biological.Carotenoids.Retinoids.Fenretinide",D23.767.261.700.270
+"Biological Factors.Pigments, Biological.Carotenoids.Retinoids.Isotretinoin",D23.767.261.700.325
+"Biological Factors.Pigments, Biological.Carotenoids.Retinoids.Retinaldehyde",D23.767.261.700.690
+"Biological Factors.Pigments, Biological.Carotenoids.Retinoids.Tretinoin",D23.767.261.700.780
+"Biological Factors.Pigments, Biological.Carotenoids.Retinoids.Vitamin A",D23.767.261.700.860
+"Biological Factors.Pigments, Biological.Carotenoids.Xanthophylls",D23.767.261.887
+"Biological Factors.Pigments, Biological.Carotenoids.Xanthophylls.Canthaxanthin",D23.767.261.887.249
+"Biological Factors.Pigments, Biological.Carotenoids.Xanthophylls.Cryptoxanthins",D23.767.261.887.374
+"Biological Factors.Pigments, Biological.Carotenoids.Xanthophylls.Cryptoxanthins.Beta-Cryptoxanthin",D23.767.261.887.374.500
+"Biological Factors.Pigments, Biological.Carotenoids.Xanthophylls.Lutein",D23.767.261.887.500
+"Biological Factors.Pigments, Biological.Carotenoids.Xanthophylls.Macular Pigment",D23.767.261.887.625
+"Biological Factors.Pigments, Biological.Carotenoids.Xanthophylls.Zeaxanthins",D23.767.261.887.750
+"Biological Factors.Pigments, Biological.Carotenoids.zeta Carotene",D23.767.261.925
+"Biological Factors.Pigments, Biological.Ceroid",D23.767.300
+"Biological Factors.Pigments, Biological.Flavins",D23.767.405
+"Biological Factors.Pigments, Biological.Flavins.Riboflavin",D23.767.405.650
+"Biological Factors.Pigments, Biological.Flavins.Riboflavin.Flavin-Adenine Dinucleotide",D23.767.405.650.249
+"Biological Factors.Pigments, Biological.Flavins.Riboflavin.Flavin Mononucleotide",D23.767.405.650.500
+"Biological Factors.Pigments, Biological.Hemocyanins",D23.767.482
+"Biological Factors.Pigments, Biological.Lipofuscin",D23.767.550
+"Biological Factors.Pigments, Biological.Melanins",D23.767.620
+"Biological Factors.Pigments, Biological.Phycocyanin",D23.767.690
+"Biological Factors.Pigments, Biological.Phycoerythrin",D23.767.705
+"Biological Factors.Pigments, Biological.Phytochrome",D23.767.712
+"Biological Factors.Pigments, Biological.Phytochrome.Phytochrome A",D23.767.712.249
+"Biological Factors.Pigments, Biological.Phytochrome.Phytochrome B",D23.767.712.500
+"Biological Factors.Pigments, Biological.Porphyrins",D23.767.727
+"Biological Factors.Pigments, Biological.Porphyrins.Coproporphyrins",D23.767.727.250
+"Biological Factors.Pigments, Biological.Porphyrins.Deuteroporphyrins",D23.767.727.280
+"Biological Factors.Pigments, Biological.Porphyrins.Etioporphyrins",D23.767.727.340
+"Biological Factors.Pigments, Biological.Porphyrins.Hematoporphyrins",D23.767.727.462
+"Biological Factors.Pigments, Biological.Porphyrins.Hematoporphyrins.Hematoporphyrin Derivative",D23.767.727.462.400
+"Biological Factors.Pigments, Biological.Porphyrins.Hematoporphyrins.Hematoporphyrin Derivative.Dihematoporphyrin Ether",D23.767.727.462.400.200
+"Biological Factors.Pigments, Biological.Porphyrins.Mesoporphyrins",D23.767.727.620
+"Biological Factors.Pigments, Biological.Porphyrins.Metalloporphyrins",D23.767.727.640
+"Biological Factors.Pigments, Biological.Porphyrins.Metalloporphyrins.Chlorophyll",D23.767.727.640.220
+"Biological Factors.Pigments, Biological.Porphyrins.Metalloporphyrins.Chlorophyll.Bacteriochlorophylls",D23.767.727.640.220.100
+"Biological Factors.Pigments, Biological.Porphyrins.Metalloporphyrins.Chlorophyll.Chlorophyllides",D23.767.727.640.220.180
+"Biological Factors.Pigments, Biological.Porphyrins.Metalloporphyrins.Chlorophyll.Pheophytins",D23.767.727.640.220.453
+"Biological Factors.Pigments, Biological.Porphyrins.Metalloporphyrins.Chlorophyll.Protochlorophyllide",D23.767.727.640.220.725
+"Biological Factors.Pigments, Biological.Porphyrins.Metalloporphyrins.Heme",D23.767.727.640.587
+"Biological Factors.Pigments, Biological.Porphyrins.Metalloporphyrins.Heme.Hemin",D23.767.727.640.587.462
+"Biological Factors.Pigments, Biological.Porphyrins.Protoporphyrins",D23.767.727.725
+"Biological Factors.Pigments, Biological.Porphyrins.Uroporphyrins",D23.767.727.880
+"Biological Factors.Pigments, Biological.Prodigiosin",D23.767.778
+"Biological Factors.Pigments, Biological.Pterins",D23.767.831
+"Biological Factors.Pigments, Biological.Pterins.Xanthopterin",D23.767.831.742
+"Biological Factors.Pigments, Biological.Pyocyanine",D23.767.860
+"Biological Factors.Pigments, Biological.Retinal Pigments",D23.767.930
+"Biological Factors.Pigments, Biological.Retinal Pigments.Opsins",D23.767.930.750
+"Biological Factors.Pigments, Biological.Retinal Pigments.Opsins.Cone Opsins",D23.767.930.750.249
+"Biological Factors.Pigments, Biological.Retinal Pigments.Opsins.Rod Opsins",D23.767.930.750.500
+"Biological Factors.Pigments, Biological.Retinal Pigments.Opsins.Rod Opsins.Rhodopsin",D23.767.930.750.500.500
+"Biological Factors.Toxins, Biological",D23.946
+"Biological Factors.Toxins, Biological.Bacterial Toxins",D23.946.123
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Botulinum Toxins",D23.946.123.179
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Botulinum Toxins.Botulinum Toxins, Type A",D23.946.123.179.050
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Cholera Toxin",D23.946.123.194
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Cord Factors",D23.946.123.208
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Diphtheria Toxin",D23.946.123.305
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Endotoxins",D23.946.123.329
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Endotoxins.Lipopolysaccharides",D23.946.123.329.500
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Endotoxins.Lipopolysaccharides.Lipid A",D23.946.123.329.500.500
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Endotoxins.Lipopolysaccharides.O Antigens",D23.946.123.329.500.600
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Exfoliatins",D23.946.123.353
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Shiga Toxins",D23.946.123.794
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Shiga Toxins.Shiga Toxin",D23.946.123.794.095
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Shiga Toxins.Shiga Toxin 1",D23.946.123.794.100
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Shiga Toxins.Shiga Toxin 2",D23.946.123.794.124
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Streptolysins",D23.946.123.868
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Tetanus Toxin",D23.946.123.893
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Virulence Factors, Bordetella",D23.946.123.946
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Virulence Factors, Bordetella.Adenylate Cyclase Toxin",D23.946.123.946.040
+"Biological Factors.Toxins, Biological.Bacterial Toxins.Virulence Factors, Bordetella.Pertussis Toxin",D23.946.123.946.690
+"Biological Factors.Toxins, Biological.Enterotoxins",D23.946.330
+"Biological Factors.Toxins, Biological.Enterotoxins.Cholera Toxin",D23.946.330.150
+"Biological Factors.Toxins, Biological.Enterotoxins.Shiga Toxins",D23.946.330.575
+"Biological Factors.Toxins, Biological.Enterotoxins.Shiga Toxins.Shiga Toxin",D23.946.330.575.100
+"Biological Factors.Toxins, Biological.Enterotoxins.Shiga Toxins.Shiga Toxin 1",D23.946.330.575.120
+"Biological Factors.Toxins, Biological.Enterotoxins.Shiga Toxins.Shiga Toxin 2",D23.946.330.575.124
+"Biological Factors.Toxins, Biological.Exotoxins",D23.946.350
+"Biological Factors.Toxins, Biological.Exotoxins.Exfoliatins",D23.946.350.500
+"Biological Factors.Toxins, Biological.Exotoxins.Streptolysins",D23.946.350.750
+"Biological Factors.Toxins, Biological.Hypoglycins",D23.946.412
+"Biological Factors.Toxins, Biological.Marine Toxins",D23.946.580
+"Biological Factors.Toxins, Biological.Marine Toxins.Ciguatoxins",D23.946.580.160
+"Biological Factors.Toxins, Biological.Marine Toxins.Cnidarian Venoms",D23.946.580.230
+"Biological Factors.Toxins, Biological.Marine Toxins.Fish Venoms",D23.946.580.370
+"Biological Factors.Toxins, Biological.Marine Toxins.Holothurin",D23.946.580.450
+"Biological Factors.Toxins, Biological.Marine Toxins.Lyngbya Toxins",D23.946.580.565
+"Biological Factors.Toxins, Biological.Marine Toxins.Mollusk Venoms",D23.946.580.590
+"Biological Factors.Toxins, Biological.Marine Toxins.Mollusk Venoms.Conotoxins",D23.946.580.590.162
+"Biological Factors.Toxins, Biological.Marine Toxins.Mollusk Venoms.Conotoxins.omega-Conotoxins",D23.946.580.590.162.720
+"Biological Factors.Toxins, Biological.Marine Toxins.Mollusk Venoms.Conotoxins.omega-Conotoxins.omega-Conotoxin GVIA",D23.946.580.590.162.720.700
+"Biological Factors.Toxins, Biological.Marine Toxins.Mollusk Venoms.Eledoisin",D23.946.580.590.325
+"Biological Factors.Toxins, Biological.Marine Toxins.Saxitoxin",D23.946.580.830
+"Biological Factors.Toxins, Biological.Marine Toxins.Tetrodotoxin",D23.946.580.910
+"Biological Factors.Toxins, Biological.Mycotoxins",D23.946.587
+"Biological Factors.Toxins, Biological.Mycotoxins.Aflatoxins",D23.946.587.142
+"Biological Factors.Toxins, Biological.Mycotoxins.Aflatoxins.Aflatoxin B1",D23.946.587.142.075
+"Biological Factors.Toxins, Biological.Mycotoxins.Aflatoxins.Aflatoxin M1",D23.946.587.142.100
+"Biological Factors.Toxins, Biological.Mycotoxins.Amanitins",D23.946.587.175
+"Biological Factors.Toxins, Biological.Mycotoxins.Amanitins.Alpha-Amanitin",D23.946.587.175.111
+"Biological Factors.Toxins, Biological.Mycotoxins.Citrinin",D23.946.587.272
+"Biological Factors.Toxins, Biological.Mycotoxins.Cytochalasins",D23.946.587.370
+"Biological Factors.Toxins, Biological.Mycotoxins.Cytochalasins.Cytochalasin B",D23.946.587.370.370
+"Biological Factors.Toxins, Biological.Mycotoxins.Cytochalasins.Cytochalasin D",D23.946.587.370.450
+"Biological Factors.Toxins, Biological.Mycotoxins.Fumonisins",D23.946.587.385
+"Biological Factors.Toxins, Biological.Mycotoxins.Gliotoxin",D23.946.587.401
+"Biological Factors.Toxins, Biological.Mycotoxins.Ibotenic Acid",D23.946.587.475
+"Biological Factors.Toxins, Biological.Mycotoxins.Killer Factors, Yeast",D23.946.587.531
+"Biological Factors.Toxins, Biological.Mycotoxins.Muscimol",D23.946.587.587
+"Biological Factors.Toxins, Biological.Mycotoxins.Ochratoxins",D23.946.587.697
+"Biological Factors.Toxins, Biological.Mycotoxins.Patulin",D23.946.587.725
+"Biological Factors.Toxins, Biological.Mycotoxins.Penicillic Acid",D23.946.587.735
+"Biological Factors.Toxins, Biological.Mycotoxins.Phalloidine",D23.946.587.755
+"Biological Factors.Toxins, Biological.Mycotoxins.Sporidesmins",D23.946.587.800
+"Biological Factors.Toxins, Biological.Mycotoxins.Sterigmatocystin",D23.946.587.850
+"Biological Factors.Toxins, Biological.Mycotoxins.Tenuazonic Acid",D23.946.587.915
+"Biological Factors.Toxins, Biological.Mycotoxins.Trichothecenes",D23.946.587.933
+"Biological Factors.Toxins, Biological.Mycotoxins.Trichothecenes.T-2 Toxin",D23.946.587.933.870
+"Biological Factors.Toxins, Biological.Mycotoxins.Trichothecenes.Trichodermin",D23.946.587.933.900
+"Biological Factors.Toxins, Biological.Mycotoxins.Zearalenone",D23.946.587.989
+"Biological Factors.Toxins, Biological.Venoms",D23.946.833
+"Biological Factors.Toxins, Biological.Venoms.Amphibian Venoms",D23.946.833.033
+"Biological Factors.Toxins, Biological.Venoms.Amphibian Venoms.Batrachotoxins",D23.946.833.033.112
+"Biological Factors.Toxins, Biological.Venoms.Amphibian Venoms.Bombesin",D23.946.833.033.137
+"Biological Factors.Toxins, Biological.Venoms.Amphibian Venoms.Bufotenin",D23.946.833.033.163
+"Biological Factors.Toxins, Biological.Venoms.Amphibian Venoms.Physalaemin",D23.946.833.033.728
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms",D23.946.833.065
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Ant Venoms",D23.946.833.065.055
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Bee Venoms",D23.946.833.065.115
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Bee Venoms.Apamin",D23.946.833.065.115.060
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Bee Venoms.Melitten",D23.946.833.065.115.580
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Scorpion Venoms",D23.946.833.065.830
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Scorpion Venoms.Charybdotoxin",D23.946.833.065.830.150
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Spider Venoms",D23.946.833.065.870
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Spider Venoms.Agatoxins",D23.946.833.065.870.324
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Spider Venoms.Agatoxins.omega-Agatoxin IVA",D23.946.833.065.870.324.500
+"Biological Factors.Toxins, Biological.Venoms.Arthropod Venoms.Wasp Venoms",D23.946.833.065.970
+"Biological Factors.Toxins, Biological.Venoms.Cnidarian Venoms",D23.946.833.230
+"Biological Factors.Toxins, Biological.Venoms.Fish Venoms",D23.946.833.370
+"Biological Factors.Toxins, Biological.Venoms.Mollusk Venoms",D23.946.833.590
+"Biological Factors.Toxins, Biological.Venoms.Mollusk Venoms.Conotoxins",D23.946.833.590.162
+"Biological Factors.Toxins, Biological.Venoms.Mollusk Venoms.Conotoxins.omega-Conotoxins",D23.946.833.590.162.720
+"Biological Factors.Toxins, Biological.Venoms.Mollusk Venoms.Conotoxins.omega-Conotoxins.omega-Conotoxin GVIA",D23.946.833.590.162.720.700
+"Biological Factors.Toxins, Biological.Venoms.Mollusk Venoms.Eledoisin",D23.946.833.590.325
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms",D23.946.833.850
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Elapid Venoms",D23.946.833.850.325
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Elapid Venoms.Bungarotoxins",D23.946.833.850.325.139
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Elapid Venoms.Cobra Cardiotoxin Proteins",D23.946.833.850.325.180
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Elapid Venoms.Cobra Neurotoxin Proteins",D23.946.833.850.325.200
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Viper Venoms",D23.946.833.850.960
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Viper Venoms.Crotalid Venoms",D23.946.833.850.960.200
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Viper Venoms.Crotalid Venoms.Ancrod",D23.946.833.850.960.200.050
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Viper Venoms.Crotalid Venoms.Batroxobin",D23.946.833.850.960.200.105
+"Biological Factors.Toxins, Biological.Venoms.Snake Venoms.Viper Venoms.Crotalid Venoms.Crotoxin",D23.946.833.850.960.200.210
+"Biological Factors.Toxins, Biological.Virulence Factors",D23.946.896
+"Biological Factors.Toxins, Biological.Virulence Factors.Transcription Activator-Like Effectors",D23.946.896.490
+"Biological Factors.Toxins, Biological.Virulence Factors.Virulence Factors, Bordetella",D23.946.896.980
+"Biological Factors.Toxins, Biological.Virulence Factors.Virulence Factors, Bordetella.Adenylate Cyclase Toxin",D23.946.896.980.040
+"Biological Factors.Toxins, Biological.Virulence Factors.Virulence Factors, Bordetella.Pertussis Toxin",D23.946.896.980.690

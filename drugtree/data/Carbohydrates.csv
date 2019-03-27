@@ -1,0 +1,438 @@
+id,value
+Carbohydrates,D09
+Carbohydrates.Amino Sugars,D09.067
+Carbohydrates.Amino Sugars.Hexosamines,D09.067.342
+Carbohydrates.Amino Sugars.Hexosamines.Fructosamine,D09.067.342.300
+Carbohydrates.Amino Sugars.Hexosamines.Galactosamine,D09.067.342.356
+Carbohydrates.Amino Sugars.Hexosamines.Galactosamine.Acetylgalactosamine,D09.067.342.356.050
+Carbohydrates.Amino Sugars.Hexosamines.Glucosamine,D09.067.342.531
+Carbohydrates.Amino Sugars.Hexosamines.Glucosamine.Acetylglucosamine,D09.067.342.531.050
+Carbohydrates.Amino Sugars.Hexosamines.Meglumine,D09.067.342.600
+Carbohydrates.Amino Sugars.Hexosamines.Meglumine.Diatrizoate Meglumine,D09.067.342.600.500
+Carbohydrates.Amino Sugars.Hexosamines.Meglumine.Iothalamate Meglumine,D09.067.342.600.600
+Carbohydrates.Amino Sugars.Muramic Acids,D09.067.550
+Carbohydrates.Amino Sugars.Muramic Acids.Acetylmuramyl-Alanyl-Isoglutamine,D09.067.550.050
+Carbohydrates.Amino Sugars.Neuraminic Acids,D09.067.687
+Carbohydrates.Amino Sugars.Neuraminic Acids.Sialic Acids,D09.067.687.668
+Carbohydrates.Amino Sugars.Neuraminic Acids.Sialic Acids.N-Acetylneuraminic Acid,D09.067.687.668.030
+Carbohydrates.Amino Sugars.Neuraminic Acids.Sialic Acids.Cytidine Monophosphate N-Acetylneuraminic Acid,D09.067.687.668.250
+Carbohydrates.Amino Sugars.Neuraminic Acids.Sialic Acids.Zanamivir,D09.067.687.668.775
+Carbohydrates.Carbasugars,D09.161
+Carbohydrates.Deoxy Sugars,D09.254
+Carbohydrates.Deoxy Sugars.Deoxyglucose,D09.254.229
+Carbohydrates.Deoxy Sugars.Deoxyglucose.Fluorodeoxyglucose F18,D09.254.229.500
+Carbohydrates.Deoxy Sugars.Deoxyribose,D09.254.330
+Carbohydrates.Deoxy Sugars.Fucose,D09.254.488
+Carbohydrates.Deoxy Sugars.Rhamnose,D09.254.799
+Carbohydrates.Dietary Carbohydrates,D09.301
+Carbohydrates.Dietary Carbohydrates.Dietary Fiber,D09.301.416
+Carbohydrates.Dietary Carbohydrates.Dietary Fiber.Prebiotics,D09.301.416.500
+Carbohydrates.Dietary Carbohydrates.Dietary Sugars,D09.301.831
+Carbohydrates.Dietary Carbohydrates.Dietary Sugars.Dietary Sucrose,D09.301.831.250
+Carbohydrates.Dietary Carbohydrates.Dietary Sugars.High Fructose Corn Syrup,D09.301.831.500
+Carbohydrates.Dietary Carbohydrates.Starch,D09.301.915
+Carbohydrates.Dietary Carbohydrates.Starch.Amylopectin,D09.301.915.194
+Carbohydrates.Dietary Carbohydrates.Starch.Amylose,D09.301.915.361
+Carbohydrates.Dietary Carbohydrates.Starch.Dextrins,D09.301.915.400
+Carbohydrates.Dietary Carbohydrates.Starch.Dextrins.Cyclodextrins,D09.301.915.400.375
+Carbohydrates.Dietary Carbohydrates.Starch.Dextrins.Cyclodextrins.alpha-Cyclodextrins,D09.301.915.400.375.222
+Carbohydrates.Dietary Carbohydrates.Starch.Dextrins.Cyclodextrins.beta-Cyclodextrins,D09.301.915.400.375.333
+Carbohydrates.Dietary Carbohydrates.Starch.Dextrins.Cyclodextrins.beta-Cyclodextrins.2-Hydroxypropyl-beta-cyclodextrin,D09.301.915.400.375.333.500
+Carbohydrates.Dietary Carbohydrates.Starch.Dextrins.Cyclodextrins.gamma-Cyclodextrins,D09.301.915.400.375.444
+Carbohydrates.Dietary Carbohydrates.Starch.Hydroxyethyl Starch Derivatives,D09.301.915.500
+Carbohydrates.Dietary Carbohydrates.Starch.Inulin,D09.301.915.750
+Carbohydrates.Glycoconjugates,D09.400
+Carbohydrates.Glycoconjugates.Glycolipids,D09.400.410
+Carbohydrates.Glycoconjugates.Glycolipids.Galactolipids,D09.400.410.209
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids,D09.400.410.420
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids,D09.400.410.420.025
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides,D09.400.410.420.025.475
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M1) Ganglioside,D09.400.410.420.025.475.390
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M2) Ganglioside,D09.400.410.420.025.475.400
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Gangliosides.G(M3) Ganglioside,D09.400.410.420.025.475.510
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Acidic Glycosphingolipids.Sulfoglycosphingolipids,D09.400.410.420.025.837
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids,D09.400.410.420.525
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides,D09.400.410.420.525.200
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides,D09.400.410.420.525.200.250
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides.Galactosylceramides,D09.400.410.420.525.200.250.450
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Cerebrosides.Glucosylceramides,D09.400.410.420.525.200.250.490
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Globosides,D09.400.410.420.525.200.425
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Lactosylceramides,D09.400.410.420.525.200.612
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Ceramides.Trihexosylceramides,D09.400.410.420.525.200.906
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Neutral Glycosphingolipids.Sphingomyelins,D09.400.410.420.525.870
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosphingolipids.Psychosine,D09.400.410.420.806
+Carbohydrates.Glycoconjugates.Glycolipids.Glycosylphosphatidylinositols,D09.400.410.475
+Carbohydrates.Glycoconjugates.Glycopeptides,D09.400.420
+Carbohydrates.Glycoconjugates.Glycopeptides.Bleomycin,D09.400.420.110
+Carbohydrates.Glycoconjugates.Glycopeptides.Bleomycin.Peplomycin,D09.400.420.110.690
+Carbohydrates.Glycoconjugates.Glycopeptides.Bleomycin.Phleomycins,D09.400.420.110.710
+Carbohydrates.Glycoconjugates.Glycopeptides.Peptidoglycan,D09.400.420.700
+Carbohydrates.Glycoconjugates.Glycopeptides.Ristocetin,D09.400.420.800
+Carbohydrates.Glycoconjugates.Glycopeptides.Teicoplanin,D09.400.420.900
+Carbohydrates.Glycoconjugates.Glycopeptides.Vancomycin,D09.400.420.925
+Carbohydrates.Glycoconjugates.Glycoproteins,D09.400.430
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins,D09.400.430.500
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAM12 Protein,D09.400.430.500.125
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAM10 Protein,D09.400.430.500.250
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAM17 Protein,D09.400.430.500.375
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAMTS Proteins,D09.400.430.500.500
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAMTS Proteins.ADAMTS1 Protein,D09.400.430.500.500.500
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAMTS Proteins.ADAMTS13 Protein,D09.400.430.500.500.813
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAMTS Proteins.ADAMTS4 Protein,D09.400.430.500.500.844
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAMTS Proteins.ADAMTS5 Protein,D09.400.430.500.500.875
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAMTS Proteins.ADAMTS7 Protein,D09.400.430.500.500.937
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.ADAMTS Proteins.ADAMTS9 Protein,D09.400.430.500.500.968
+Carbohydrates.Glycoconjugates.Glycoproteins.ADAM Proteins.Fertilins,D09.400.430.500.750
+Carbohydrates.Glycoconjugates.Glycoproteins.Cholesterol Ester Transfer Proteins,D09.400.430.750
+Carbohydrates.Glycoconjugates.Glycoproteins.Fibrillins,D09.400.430.875
+Carbohydrates.Glycoconjugates.Glycoproteins.Fibrillins.Fibrillin-1,D09.400.430.875.500
+Carbohydrates.Glycoconjugates.Glycoproteins.Fibrillins.Fibrillin-2,D09.400.430.875.750
+Carbohydrates.Glycoconjugates.Glycoproteins.Glycated Hemoglobin A,D09.400.430.937
+Carbohydrates.Glycoconjugates.Lipopolysaccharides,D09.400.500
+Carbohydrates.Glycosides,D09.408
+Carbohydrates.Glycosides.Aminoglycosides,D09.408.051
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines,D09.408.051.059
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Aclarubicin,D09.408.051.059.050
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Daunorubicin,D09.408.051.059.200
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Daunorubicin.Carubicin,D09.408.051.059.200.150
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Daunorubicin.Doxorubicin,D09.408.051.059.200.175
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Daunorubicin.Doxorubicin.Epirubicin,D09.408.051.059.200.175.200
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Daunorubicin.Idarubicin,D09.408.051.059.200.300
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Daunorubicin.Nogalamycin,D09.408.051.059.200.650
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Daunorubicin.Nogalamycin.Menogaril,D09.408.051.059.200.650.500
+Carbohydrates.Glycosides.Aminoglycosides.Anthracyclines.Plicamycin,D09.408.051.059.650
+Carbohydrates.Glycosides.Aminoglycosides.Butirosin Sulfate,D09.408.051.120
+Carbohydrates.Glycosides.Aminoglycosides.Gentamicins,D09.408.051.374
+Carbohydrates.Glycosides.Aminoglycosides.Gentamicins.Sisomicin,D09.408.051.374.785
+Carbohydrates.Glycosides.Aminoglycosides.Gentamicins.Sisomicin.Netilmicin,D09.408.051.374.785.525
+Carbohydrates.Glycosides.Aminoglycosides.Hygromycin B,D09.408.051.420
+Carbohydrates.Glycosides.Aminoglycosides.Kanamycin,D09.408.051.476
+Carbohydrates.Glycosides.Aminoglycosides.Kanamycin.Amikacin,D09.408.051.476.060
+Carbohydrates.Glycosides.Aminoglycosides.Kanamycin.Dibekacin,D09.408.051.476.200
+Carbohydrates.Glycosides.Aminoglycosides.Kanamycin.Nebramycin,D09.408.051.476.600
+Carbohydrates.Glycosides.Aminoglycosides.Kanamycin.Nebramycin.Tobramycin,D09.408.051.476.600.800
+Carbohydrates.Glycosides.Aminoglycosides.Metrizamide,D09.408.051.545
+Carbohydrates.Glycosides.Aminoglycosides.Neomycin,D09.408.051.623
+Carbohydrates.Glycosides.Aminoglycosides.Neomycin.Framycetin,D09.408.051.623.300
+Carbohydrates.Glycosides.Aminoglycosides.Neomycin.Paromomycin,D09.408.051.623.635
+Carbohydrates.Glycosides.Aminoglycosides.Neomycin.Ribostamycin,D09.408.051.623.800
+Carbohydrates.Glycosides.Aminoglycosides.Puromycin,D09.408.051.788
+Carbohydrates.Glycosides.Aminoglycosides.Puromycin.Puromycin Aminonucleoside,D09.408.051.788.650
+Carbohydrates.Glycosides.Aminoglycosides.Spectinomycin,D09.408.051.836
+Carbohydrates.Glycosides.Aminoglycosides.Streptomycin,D09.408.051.885
+Carbohydrates.Glycosides.Aminoglycosides.Streptomycin.Dihydrostreptomycin Sulfate,D09.408.051.885.387
+Carbohydrates.Glycosides.Aminoglycosides.Streptothricins,D09.408.051.892
+Carbohydrates.Glycosides.Aminoglycosides.Streptozocin,D09.408.051.900
+Carbohydrates.Glycosides.Anthocyanins,D09.408.084
+Carbohydrates.Glycosides.Atractyloside,D09.408.105
+Carbohydrates.Glycosides.Cardiac Glycosides,D09.408.180
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides,D09.408.180.261
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides.Digitonin,D09.408.180.261.236
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides.Digitoxin,D09.408.180.261.336
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides.Digitoxin.Acetyldigitoxins,D09.408.180.261.336.259
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides.Digoxin,D09.408.180.261.436
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides.Digoxin.Acetyldigoxins,D09.408.180.261.436.050
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides.Digoxin.Medigoxin,D09.408.180.261.436.500
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides.Lanatosides,D09.408.180.261.657
+Carbohydrates.Glycosides.Cardiac Glycosides.Digitalis Glycosides.Lanatosides.Deslanoside,D09.408.180.261.657.200
+Carbohydrates.Glycosides.Cardiac Glycosides.Proscillaridin,D09.408.180.660
+Carbohydrates.Glycosides.Cardiac Glycosides.Strophanthins,D09.408.180.810
+Carbohydrates.Glycosides.Cardiac Glycosides.Strophanthins.Cymarine,D09.408.180.810.250
+Carbohydrates.Glycosides.Cardiac Glycosides.Strophanthins.Ouabain,D09.408.180.810.600
+Carbohydrates.Glycosides.Chromomycins,D09.408.210
+Carbohydrates.Glycosides.Chromomycins.Chromomycin A3,D09.408.210.209
+Carbohydrates.Glycosides.Galactosides,D09.408.320
+Carbohydrates.Glycosides.Galactosides.Methylgalactosides,D09.408.320.500
+Carbohydrates.Glycosides.Galactosides.Nitrophenylgalactosides,D09.408.320.550
+Carbohydrates.Glycosides.Galactosides.Thiogalactosides,D09.408.320.820
+Carbohydrates.Glycosides.Galactosides.Thiogalactosides.Isopropyl Thiogalactoside,D09.408.320.820.500
+Carbohydrates.Glycosides.Glucosides,D09.408.348
+Carbohydrates.Glycosides.Glucosides.Amygdalin,D09.408.348.050
+Carbohydrates.Glycosides.Glucosides.Arbutin,D09.408.348.075
+Carbohydrates.Glycosides.Glucosides.Canagliflozin,D09.408.348.113
+Carbohydrates.Glycosides.Glucosides.Chloralose,D09.408.348.150
+Carbohydrates.Glycosides.Glucosides.Esculin,D09.408.348.250
+Carbohydrates.Glycosides.Glucosides.Etoposide,D09.408.348.275
+Carbohydrates.Glycosides.Glucosides.Iridoid Glucosides,D09.408.348.387
+Carbohydrates.Glycosides.Glucosides.Methylglucosides,D09.408.348.500
+Carbohydrates.Glycosides.Glucosides.Methylglucosides.3-O-Methylglucose,D09.408.348.500.500
+Carbohydrates.Glycosides.Glucosides.Teniposide,D09.408.348.800
+Carbohydrates.Glycosides.Glucosides.Thioglucosides,D09.408.348.820
+Carbohydrates.Glycosides.Glucosides.Thioglucosides.Glucosinolates,D09.408.348.820.350
+Carbohydrates.Glycosides.Iridoid Glycosides,D09.408.423
+Carbohydrates.Glycosides.Iridoid Glycosides.Iridoid Glucosides,D09.408.423.500
+Carbohydrates.Glycosides.Lincosamides,D09.408.471
+Carbohydrates.Glycosides.Lincosamides.Lincomycin,D09.408.471.500
+Carbohydrates.Glycosides.Lincosamides.Lincomycin.Clindamycin,D09.408.471.500.125
+Carbohydrates.Glycosides.Mannosides,D09.408.490
+Carbohydrates.Glycosides.Mannosides.Methylmannosides,D09.408.490.500
+Carbohydrates.Glycosides.Methylglycosides,D09.408.514
+Carbohydrates.Glycosides.Methylglycosides.Methylgalactosides,D09.408.514.455
+Carbohydrates.Glycosides.Methylglycosides.Methylglucosides,D09.408.514.622
+Carbohydrates.Glycosides.Methylglycosides.Methylglucosides.3-O-Methylglucose,D09.408.514.622.500
+Carbohydrates.Glycosides.Methylglycosides.Methylmannosides,D09.408.514.700
+Carbohydrates.Glycosides.Novobiocin,D09.408.554
+Carbohydrates.Glycosides.Nucleosides,D09.408.595
+Carbohydrates.Glycosides.Nucleotides,D09.408.620
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars,D09.408.620.569
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars,D09.408.620.569.070
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Glucose,D09.408.620.569.070.075
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose,D09.408.620.569.070.125
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.O-Acetyl-ADP-Ribose,D09.408.620.569.070.125.040
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.Cyclic ADP-Ribose,D09.408.620.569.070.125.195
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Adenosine Diphosphate Sugars.Adenosine Diphosphate Ribose.Poly Adenosine Diphosphate Ribose,D09.408.620.569.070.125.600
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Cytidine Diphosphate Diglycerides,D09.408.620.569.200
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Guanosine Diphosphate Sugars,D09.408.620.569.400
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Guanosine Diphosphate Sugars.Guanosine Diphosphate Fucose,D09.408.620.569.400.410
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Guanosine Diphosphate Sugars.Guanosine Diphosphate Mannose,D09.408.620.569.400.500
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars,D09.408.620.569.727
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylgalactosamine,D09.408.620.569.727.100
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylglucosamine,D09.408.620.569.727.120
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate N-Acetylmuramic Acid,D09.408.620.569.727.150
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate Galactose,D09.408.620.569.727.300
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate Glucose,D09.408.620.569.727.350
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate Glucuronic Acid,D09.408.620.569.727.375
+Carbohydrates.Glycosides.Nucleotides.Nucleoside Diphosphate Sugars.Uridine Diphosphate Sugars.Uridine Diphosphate Xylose,D09.408.620.569.727.800
+Carbohydrates.Glycosides.Olivomycins,D09.408.661
+Carbohydrates.Glycosides.Phlorhizin,D09.408.702
+Carbohydrates.Glycosides.Saponins,D09.408.782
+Carbohydrates.Glycosides.Saponins.Escin,D09.408.782.250
+Carbohydrates.Glycosides.Saponins.Ginsenosides,D09.408.782.300
+Carbohydrates.Glycosides.Saponins.Holothurin,D09.408.782.350
+Carbohydrates.Glycosides.Saponins.Quillaja Saponins,D09.408.782.512
+Carbohydrates.Glycosides.Saponins.Solanine,D09.408.782.674
+Carbohydrates.Glycosides.Teichoic Acids,D09.408.872
+Carbohydrates.Glycosides.Thioglycosides,D09.408.903
+Carbohydrates.Glycosides.Thioglycosides.Thiogalactosides,D09.408.903.600
+Carbohydrates.Glycosides.Thioglycosides.Thiogalactosides.Isopropyl Thiogalactoside,D09.408.903.600.500
+Carbohydrates.Glycosides.Thioglycosides.Thioglucosides,D09.408.903.703
+Carbohydrates.Glycosides.Thioglycosides.Thioglucosides.Glucosinolates,D09.408.903.703.350
+Carbohydrates.Glycosides.Tomatine,D09.408.934
+Carbohydrates.Imino Sugars,D09.553
+Carbohydrates.Imino Sugars.Imino Furanoses,D09.553.249
+Carbohydrates.Imino Sugars.Imino Pyranoses,D09.553.500
+Carbohydrates.Imino Sugars.Imino Pyranoses.1-Deoxynojirimycin,D09.553.500.033
+Carbohydrates.Polysaccharides,D09.698
+Carbohydrates.Polysaccharides.Alginates,D09.698.068
+Carbohydrates.Polysaccharides.Carrageenan,D09.698.152
+Carbohydrates.Polysaccharides.Chitin,D09.698.211
+Carbohydrates.Polysaccharides.Chitin.Chitosan,D09.698.211.500
+Carbohydrates.Polysaccharides.Ficoll,D09.698.330
+Carbohydrates.Polysaccharides.Fructans,D09.698.350
+Carbohydrates.Polysaccharides.Fructans.Inulin,D09.698.350.500
+Carbohydrates.Polysaccharides.Fungal Polysaccharides,D09.698.357
+Carbohydrates.Polysaccharides.Galactans,D09.698.360
+Carbohydrates.Polysaccharides.Galactans.Agar,D09.698.360.041
+Carbohydrates.Polysaccharides.Glucans,D09.698.365
+Carbohydrates.Polysaccharides.Glucans.beta-Glucans,D09.698.365.089
+Carbohydrates.Polysaccharides.Glucans.beta-Glucans.Lentinan,D09.698.365.089.500
+Carbohydrates.Polysaccharides.Glucans.beta-Glucans.Sizofiran,D09.698.365.089.625
+Carbohydrates.Polysaccharides.Glucans.beta-Glucans.Zymosan,D09.698.365.089.750
+Carbohydrates.Polysaccharides.Glucans.Cellulose,D09.698.365.180
+Carbohydrates.Polysaccharides.Glucans.Cellulose.Cellobiose,D09.698.365.180.180
+"Carbohydrates.Polysaccharides.Glucans.Cellulose.Cellulose, Oxidized",D09.698.365.180.200
+Carbohydrates.Polysaccharides.Glucans.Cellulose.DEAE-Cellulose,D09.698.365.180.247
+Carbohydrates.Polysaccharides.Glucans.Cellulose.Hypromellose Derivatives,D09.698.365.180.455
+Carbohydrates.Polysaccharides.Glucans.Cellulose.Methylcellulose,D09.698.365.180.663
+Carbohydrates.Polysaccharides.Glucans.Cellulose.Methylcellulose.Carboxymethylcellulose Sodium,D09.698.365.180.663.329
+Carbohydrates.Polysaccharides.Glucans.Dextrans,D09.698.365.272
+Carbohydrates.Polysaccharides.Glucans.Dextrans.DEAE-Dextran,D09.698.365.272.250
+Carbohydrates.Polysaccharides.Glucans.Dextrans.Dextran Sulfate,D09.698.365.272.300
+Carbohydrates.Polysaccharides.Glucans.Dextrans.Iron-Dextran Complex,D09.698.365.272.400
+Carbohydrates.Polysaccharides.Glucans.Glycogen,D09.698.365.388
+Carbohydrates.Polysaccharides.Glucans.Glycogen.Liver Glycogen,D09.698.365.388.518
+Carbohydrates.Polysaccharides.Glucans.Isomaltose,D09.698.365.410
+Carbohydrates.Polysaccharides.Glucans.Maltose,D09.698.365.450
+Carbohydrates.Polysaccharides.Glucans.Starch,D09.698.365.855
+Carbohydrates.Polysaccharides.Glucans.Starch.Amylopectin,D09.698.365.855.194
+Carbohydrates.Polysaccharides.Glucans.Starch.Amylose,D09.698.365.855.361
+Carbohydrates.Polysaccharides.Glucans.Starch.Dextrins,D09.698.365.855.400
+Carbohydrates.Polysaccharides.Glucans.Starch.Dextrins.Cyclodextrins,D09.698.365.855.400.375
+Carbohydrates.Polysaccharides.Glucans.Starch.Dextrins.Cyclodextrins.alpha-Cyclodextrins,D09.698.365.855.400.375.222
+Carbohydrates.Polysaccharides.Glucans.Starch.Dextrins.Cyclodextrins.beta-Cyclodextrins,D09.698.365.855.400.375.333
+Carbohydrates.Polysaccharides.Glucans.Starch.Dextrins.Cyclodextrins.beta-Cyclodextrins.2-Hydroxypropyl-beta-cyclodextrin,D09.698.365.855.400.375.333.500
+Carbohydrates.Polysaccharides.Glucans.Starch.Dextrins.Cyclodextrins.gamma-Cyclodextrins,D09.698.365.855.400.375.444
+Carbohydrates.Polysaccharides.Glucans.Starch.Hydroxyethyl Starch Derivatives,D09.698.365.855.500
+Carbohydrates.Polysaccharides.Glucans.Starch.Inulin,D09.698.365.855.750
+Carbohydrates.Polysaccharides.Glucans.Trehalose,D09.698.365.900
+Carbohydrates.Polysaccharides.Glycosaminoglycans,D09.698.373
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Chondroitin,D09.698.373.200
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Chondroitin.Chondroitin Sulfates,D09.698.373.200.300
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Chondroitin.Dermatan Sulfate,D09.698.373.200.380
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Heparin,D09.698.373.400
+"Carbohydrates.Polysaccharides.Glycosaminoglycans.Heparin.Heparin, Low-Molecular-Weight",D09.698.373.400.300
+"Carbohydrates.Polysaccharides.Glycosaminoglycans.Heparin.Heparin, Low-Molecular-Weight.Dalteparin",D09.698.373.400.300.150
+"Carbohydrates.Polysaccharides.Glycosaminoglycans.Heparin.Heparin, Low-Molecular-Weight.Enoxaparin",D09.698.373.400.300.200
+"Carbohydrates.Polysaccharides.Glycosaminoglycans.Heparin.Heparin, Low-Molecular-Weight.Nadroparin",D09.698.373.400.300.600
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Heparin.Heparinoids,D09.698.373.400.320
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Heparitin Sulfate,D09.698.373.425
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Heparitin Sulfate.Heparan Sulfate Proteoglycans,D09.698.373.425.500
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Hyaluronic Acid,D09.698.373.475
+Carbohydrates.Polysaccharides.Glycosaminoglycans.Keratan Sulfate,D09.698.373.550
+Carbohydrates.Polysaccharides.Mannans,D09.698.550
+Carbohydrates.Polysaccharides.Oligosaccharides,D09.698.629
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides,D09.698.629.305
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Cellobiose,D09.698.629.305.200
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Isomaltose,D09.698.629.305.320
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Lactose,D09.698.629.305.340
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Lactulose,D09.698.629.305.423
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Maltose,D09.698.629.305.523
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Melibiose,D09.698.629.305.540
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Sucrose,D09.698.629.305.770
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Sucrose.Dietary Sucrose,D09.698.629.305.770.200
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Sucrose.Sucralfate,D09.698.629.305.770.850
+Carbohydrates.Polysaccharides.Oligosaccharides.Disaccharides.Trehalose,D09.698.629.305.880
+"Carbohydrates.Polysaccharides.Oligosaccharides.Oligosaccharides, Branched-Chain",D09.698.629.553
+Carbohydrates.Polysaccharides.Oligosaccharides.Trisaccharides,D09.698.629.802
+Carbohydrates.Polysaccharides.Oligosaccharides.Trisaccharides.Acarbose,D09.698.629.802.100
+Carbohydrates.Polysaccharides.Oligosaccharides.Trisaccharides.Raffinose,D09.698.629.802.700
+Carbohydrates.Polysaccharides.Pectins,D09.698.670
+Carbohydrates.Polysaccharides.Pentosan Sulfuric Polyester,D09.698.682
+Carbohydrates.Polysaccharides.Plant Gums,D09.698.700
+Carbohydrates.Polysaccharides.Plant Gums.Chewing Gum,D09.698.700.249
+Carbohydrates.Polysaccharides.Plant Gums.Chewing Gum.Nicotine Chewing Gum,D09.698.700.249.500
+Carbohydrates.Polysaccharides.Plant Gums.Gum Arabic,D09.698.700.500
+Carbohydrates.Polysaccharides.Plant Gums.Karaya Gum,D09.698.700.625
+Carbohydrates.Polysaccharides.Plant Gums.Tragacanth,D09.698.700.750
+Carbohydrates.Polysaccharides.Plant Mucilage,D09.698.709
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial",D09.698.718
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial.Bambermycins",D09.698.718.220
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial.Lipopolysaccharides",D09.698.718.450
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial.Lipopolysaccharides.Lipid A",D09.698.718.450.500
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial.Lipopolysaccharides.O Antigens",D09.698.718.450.600
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial.Peptidoglycan",D09.698.718.594
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial.Prebiotics",D09.698.718.622
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial.Prodigiozan",D09.698.718.650
+"Carbohydrates.Polysaccharides.Polysaccharides, Bacterial.Teichoic Acids",D09.698.718.825
+Carbohydrates.Polysaccharides.Proteoglycans,D09.698.735
+Carbohydrates.Polysaccharides.Proteoglycans.Chondroitin Sulfate Proteoglycans,D09.698.735.200
+Carbohydrates.Polysaccharides.Proteoglycans.Chondroitin Sulfate Proteoglycans.Aggrecans,D09.698.735.200.500
+Carbohydrates.Polysaccharides.Proteoglycans.Chondroitin Sulfate Proteoglycans.Hyaluronan Receptors,D09.698.735.200.625
+Carbohydrates.Polysaccharides.Proteoglycans.Chondroitin Sulfate Proteoglycans.Versicans,D09.698.735.200.750
+Carbohydrates.Polysaccharides.Proteoglycans.Heparan Sulfate Proteoglycans,D09.698.735.400
+Carbohydrates.Polysaccharides.Proteoglycans.Small Leucine-Rich Proteoglycans,D09.698.735.700
+Carbohydrates.Polysaccharides.Proteoglycans.Small Leucine-Rich Proteoglycans.Biglycan,D09.698.735.700.500
+Carbohydrates.Polysaccharides.Proteoglycans.Small Leucine-Rich Proteoglycans.Decorin,D09.698.735.700.750
+Carbohydrates.Polysaccharides.Proteoglycans.Small Leucine-Rich Proteoglycans.Fibromodulin,D09.698.735.700.813
+Carbohydrates.Polysaccharides.Proteoglycans.Small Leucine-Rich Proteoglycans.Lumican,D09.698.735.700.875
+Carbohydrates.Polysaccharides.Sepharose,D09.698.813
+Carbohydrates.Polysaccharides.Xylans,D09.698.925
+Carbohydrates.Sugar Acids,D09.811
+Carbohydrates.Sugar Acids.Ascorbic Acid,D09.811.100
+Carbohydrates.Sugar Acids.Ascorbic Acid.Dehydroascorbic Acid,D09.811.100.260
+"Carbohydrates.Sugar Acids.2,3-Diketogulonic Acid",D09.811.200
+Carbohydrates.Sugar Acids.Glucaric Acid,D09.811.295
+Carbohydrates.Sugar Acids.Gluconates,D09.811.308
+Carbohydrates.Sugar Acids.Gluconates.Antimony Sodium Gluconate,D09.811.308.060
+Carbohydrates.Sugar Acids.Gluconates.Calcium Gluconate,D09.811.308.200
+Carbohydrates.Sugar Acids.Glyceric Acids,D09.811.366
+Carbohydrates.Sugar Acids.Glyceric Acids.Diphosphoglyceric Acids,D09.811.366.388
+"Carbohydrates.Sugar Acids.Glyceric Acids.Diphosphoglyceric Acids.2,3-Diphosphoglycerate",D09.811.366.388.175
+Carbohydrates.Sugar Acids.Muramic Acids,D09.811.522
+Carbohydrates.Sugar Acids.Muramic Acids.Acetylmuramyl-Alanyl-Isoglutamine,D09.811.522.050
+Carbohydrates.Sugar Acids.Neuraminic Acids,D09.811.589
+Carbohydrates.Sugar Acids.Neuraminic Acids.Sialic Acids,D09.811.589.668
+Carbohydrates.Sugar Acids.Neuraminic Acids.Sialic Acids.N-Acetylneuraminic Acid,D09.811.589.668.030
+Carbohydrates.Sugar Acids.Neuraminic Acids.Sialic Acids.Cytidine Monophosphate N-Acetylneuraminic Acid,D09.811.589.668.250
+Carbohydrates.Sugar Acids.Neuraminic Acids.Sialic Acids.Zanamivir,D09.811.589.668.775
+Carbohydrates.Sugar Acids.Tartrates,D09.811.779
+Carbohydrates.Sugar Acids.Tartronates,D09.811.835
+Carbohydrates.Sugar Acids.Uronic Acids,D09.811.922
+Carbohydrates.Sugar Acids.Uronic Acids.Glucuronates,D09.811.922.162
+Carbohydrates.Sugar Acids.Uronic Acids.Glucuronates.Glucuronic Acid,D09.811.922.162.500
+Carbohydrates.Sugar Acids.Uronic Acids.Glucuronates.Glucuronides,D09.811.922.162.750
+Carbohydrates.Sugar Acids.Uronic Acids.Hexuronic Acids,D09.811.922.400
+Carbohydrates.Sugar Acids.Uronic Acids.Hexuronic Acids.Iduronic Acid,D09.811.922.400.500
+Carbohydrates.Sugar Alcohols,D09.853
+Carbohydrates.Sugar Alcohols.Dithioerythritol,D09.853.175
+Carbohydrates.Sugar Alcohols.Dithiothreitol,D09.853.196
+Carbohydrates.Sugar Alcohols.Erythritol,D09.853.329
+Carbohydrates.Sugar Alcohols.Erythritol.Erythrityl Tetranitrate,D09.853.329.225
+Carbohydrates.Sugar Alcohols.Galactitol,D09.853.400
+Carbohydrates.Sugar Alcohols.Galactitol.Dianhydrogalactitol,D09.853.400.350
+Carbohydrates.Sugar Alcohols.Galactitol.Mitolactol,D09.853.400.500
+Carbohydrates.Sugar Alcohols.Inositol,D09.853.519
+Carbohydrates.Sugar Alcohols.Inositol.Inositol Phosphates,D09.853.519.400
+"Carbohydrates.Sugar Alcohols.Inositol.Inositol Phosphates.Inositol 1,4,5-Trisphosphate",D09.853.519.400.350
+Carbohydrates.Sugar Alcohols.Inositol.Inositol Phosphates.Phytic Acid,D09.853.519.400.700
+Carbohydrates.Sugar Alcohols.Mannitol,D09.853.609
+Carbohydrates.Sugar Alcohols.Mannitol.Mannitol Phosphates,D09.853.609.450
+Carbohydrates.Sugar Alcohols.Mannitol.Mitobronitol,D09.853.609.500
+Carbohydrates.Sugar Alcohols.Ribitol,D09.853.780
+Carbohydrates.Sugar Alcohols.Sorbitol,D09.853.813
+Carbohydrates.Sugar Alcohols.Sorbitol.Isosorbide,D09.853.813.480
+Carbohydrates.Sugar Alcohols.Sorbitol.Isosorbide.Isosorbide Dinitrate,D09.853.813.480.500
+Carbohydrates.Sugar Alcohols.Sorbitol.Meglumine,D09.853.813.550
+Carbohydrates.Sugar Alcohols.Sorbitol.Meglumine.Diatrizoate Meglumine,D09.853.813.550.500
+Carbohydrates.Sugar Alcohols.Sorbitol.Meglumine.Iothalamate Meglumine,D09.853.813.550.600
+Carbohydrates.Sugar Alcohols.Triose Sugar Alcohols,D09.853.875
+Carbohydrates.Sugar Alcohols.Triose Sugar Alcohols.Glycerol,D09.853.875.500
+Carbohydrates.Sugar Alcohols.Triose Sugar Alcohols.Glycerophosphates,D09.853.875.750
+Carbohydrates.Sugar Alcohols.Triose Sugar Alcohols.Glycerophosphates.Glycerylphosphorylcholine,D09.853.875.750.449
+Carbohydrates.Sugar Alcohols.Xylitol,D09.853.936
+Carbohydrates.Sugar Phosphates,D09.894
+Carbohydrates.Sugar Phosphates.Dihydroxyacetone Phosphate,D09.894.150
+Carbohydrates.Sugar Phosphates.Glycerophosphates,D09.894.299
+Carbohydrates.Sugar Phosphates.Hexosephosphates,D09.894.417
+Carbohydrates.Sugar Phosphates.Hexosephosphates.Fructosephosphates,D09.894.417.313
+Carbohydrates.Sugar Phosphates.Hexosephosphates.Fructosephosphates.Fructosediphosphates,D09.894.417.313.300
+Carbohydrates.Sugar Phosphates.Hexosephosphates.Galactosephosphates,D09.894.417.370
+Carbohydrates.Sugar Phosphates.Hexosephosphates.Glucosephosphates,D09.894.417.448
+Carbohydrates.Sugar Phosphates.Hexosephosphates.Glucosephosphates.Glucose-6-Phosphate,D09.894.417.448.500
+Carbohydrates.Sugar Phosphates.Hexosephosphates.Hexosediphosphates,D09.894.417.592
+Carbohydrates.Sugar Phosphates.Hexosephosphates.Hexosediphosphates.Fructosediphosphates,D09.894.417.592.300
+Carbohydrates.Sugar Phosphates.Hexosephosphates.Mannosephosphates,D09.894.417.650
+Carbohydrates.Sugar Phosphates.Inositol Phosphates,D09.894.480
+"Carbohydrates.Sugar Phosphates.Inositol Phosphates.Inositol 1,4,5-Trisphosphate",D09.894.480.350
+Carbohydrates.Sugar Phosphates.Inositol Phosphates.Phytic Acid,D09.894.480.700
+Carbohydrates.Sugar Phosphates.Mannitol Phosphates,D09.894.500
+Carbohydrates.Sugar Phosphates.Pentosephosphates,D09.894.643
+Carbohydrates.Sugar Phosphates.Pentosephosphates.Phosphoribosyl Pyrophosphate,D09.894.643.650
+Carbohydrates.Sugar Phosphates.Pentosephosphates.Ribosemonophosphates,D09.894.643.700
+Carbohydrates.Sugar Phosphates.Pentosephosphates.Ribulosephosphates,D09.894.643.720
+Carbohydrates.Sugar Phosphates.Polyisoprenyl Phosphate Sugars,D09.894.680
+Carbohydrates.Sugar Phosphates.Polyisoprenyl Phosphate Sugars.Polyisoprenyl Phosphate Monosaccharides,D09.894.680.700
+Carbohydrates.Sugar Phosphates.Polyisoprenyl Phosphate Sugars.Polyisoprenyl Phosphate Monosaccharides.Dolichol Monophosphate Mannose,D09.894.680.700.250
+Carbohydrates.Sugar Phosphates.Polyisoprenyl Phosphate Sugars.Polyisoprenyl Phosphate Oligosaccharides,D09.894.680.710
+Carbohydrates.Sugar Phosphates.Teichoic Acids,D09.894.847
+Carbohydrates.Sugars,D09.947
+Carbohydrates.Sugars.Dietary Sugars,D09.947.500
+Carbohydrates.Sugars.Dietary Sugars.Dietary Sucrose,D09.947.500.250
+Carbohydrates.Sugars.Dietary Sugars.High Fructose Corn Syrup,D09.947.500.500
+Carbohydrates.Sugars.Disaccharides,D09.947.750
+Carbohydrates.Sugars.Disaccharides.Cellobiose,D09.947.750.200
+Carbohydrates.Sugars.Disaccharides.Isomaltose,D09.947.750.320
+Carbohydrates.Sugars.Disaccharides.Lactose,D09.947.750.340
+Carbohydrates.Sugars.Disaccharides.Lactulose,D09.947.750.423
+Carbohydrates.Sugars.Disaccharides.Maltose,D09.947.750.523
+Carbohydrates.Sugars.Disaccharides.Melibiose,D09.947.750.540
+Carbohydrates.Sugars.Disaccharides.Sucrose,D09.947.750.770
+Carbohydrates.Sugars.Disaccharides.Sucrose.Dietary Sucrose,D09.947.750.770.200
+Carbohydrates.Sugars.Disaccharides.Sucrose.Sucralfate,D09.947.750.770.850
+Carbohydrates.Sugars.Disaccharides.Trehalose,D09.947.750.880
+Carbohydrates.Sugars.Monosaccharides,D09.947.875
+Carbohydrates.Sugars.Monosaccharides.Heptoses,D09.947.875.286
+Carbohydrates.Sugars.Monosaccharides.Heptoses.Mannoheptulose,D09.947.875.286.500
+Carbohydrates.Sugars.Monosaccharides.Hexoses,D09.947.875.359
+Carbohydrates.Sugars.Monosaccharides.Hexoses.Fructose,D09.947.875.359.250
+Carbohydrates.Sugars.Monosaccharides.Hexoses.Galactose,D09.947.875.359.377
+Carbohydrates.Sugars.Monosaccharides.Hexoses.Glucose,D09.947.875.359.448
+Carbohydrates.Sugars.Monosaccharides.Hexoses.Glucose.Blood Glucose,D09.947.875.359.448.500
+Carbohydrates.Sugars.Monosaccharides.Hexoses.Mannose,D09.947.875.359.588
+Carbohydrates.Sugars.Monosaccharides.Hexoses.Sorbose,D09.947.875.359.862
+Carbohydrates.Sugars.Monosaccharides.Ketoses,D09.947.875.465
+Carbohydrates.Sugars.Monosaccharides.Ketoses.Dihydroxyacetone,D09.947.875.465.200
+Carbohydrates.Sugars.Monosaccharides.Ketoses.Fructose,D09.947.875.465.354
+Carbohydrates.Sugars.Monosaccharides.Ketoses.Mannoheptulose,D09.947.875.465.500
+Carbohydrates.Sugars.Monosaccharides.Ketoses.Sorbose,D09.947.875.465.758
+Carbohydrates.Sugars.Monosaccharides.Ketoses.Xylulose,D09.947.875.465.920
+Carbohydrates.Sugars.Monosaccharides.Pentoses,D09.947.875.627
+Carbohydrates.Sugars.Monosaccharides.Pentoses.Arabinose,D09.947.875.627.166
+Carbohydrates.Sugars.Monosaccharides.Pentoses.Ribose,D09.947.875.627.651
+Carbohydrates.Sugars.Monosaccharides.Pentoses.Xylose,D09.947.875.627.867
+Carbohydrates.Sugars.Monosaccharides.Pentoses.Xylulose,D09.947.875.627.885
+Carbohydrates.Sugars.Monosaccharides.Tetroses,D09.947.875.805
+Carbohydrates.Sugars.Monosaccharides.Trioses,D09.947.875.894
+Carbohydrates.Sugars.Monosaccharides.Trioses.Dihydroxyacetone,D09.947.875.894.200
+Carbohydrates.Sugars.Monosaccharides.Trioses.Glyceraldehyde,D09.947.875.894.449
+Carbohydrates.Thiosugars,D09.973
